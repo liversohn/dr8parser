@@ -1,0 +1,169 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Report">
+		<xs:complexType>
+			<xs:sequence maxOccurs="unbounded" minOccurs="1">
+				<xs:element maxOccurs="unbounded" minOccurs="0" ref="Record"> </xs:element>
+				<xs:element maxOccurs="unbounded" minOccurs="0" name="Simulcasting">
+					<xs:complexType>
+						<xs:attribute name="from" type="xs:dateTime" use="required"/>
+						<xs:attribute name="to" type="xs:dateTime" use="required"/>
+						<xs:attribute name="station" type="xs:string" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="dateFrom" type="xs:date" use="required"/>
+			<xs:attribute name="dateTo" type="xs:date" use="required"/>
+			<xs:attribute name="station" type="xs:string" use="required"/>
+			<xs:attribute name="usageType" type="ReportUsageType" use="required"/>
+			<xs:attribute name="filename" type="xs:string" use="required"/>
+			<xs:attribute name="sender" type="xs:string"/>
+			<xs:attribute name="encoding" type="xs:string"/>
+			<xs:anyAttribute processContents="lax"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="StringNotNull">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="PositiveIntType">
+		<xs:restriction base="xs:integer">
+			<xs:minExclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="NonNegativeIntType">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ISRCType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[A-Z0-9]{12}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="YearType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[0-9][0-9][0-9][0-9]"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ReportUsageType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="commercial"/>
+			<xs:enumeration value="jingle"/>
+			<xs:enumeration value="broadcast"/>
+			<xs:enumeration value="internet"/>
+			<xs:enumeration value="mix"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ModifierEnum">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="A"/>
+			<xs:enumeration value="B"/>
+			<xs:enumeration value="C"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="GenreEnum">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="classical"/>
+			<xs:enumeration value="spoken word"/>
+			<xs:enumeration value="pop"/>
+			<xs:enumeration value="composed"/>
+			<xs:enumeration value="commercial"/>
+			<xs:enumeration value="jingle"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="RecordUsageType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="commercial"/>
+			<xs:enumeration value="jingle"/>
+			<xs:enumeration value="broadcast"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="grossFeeType">
+		<xs:restriction base="xs:decimal">
+			<xs:fractionDigits fixed="true" value="2"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="RoleType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="performer"/>
+			<xs:enumeration value="arranger"/>
+			<xs:enumeration value="composer"/>
+			<xs:enumeration value="music director"/>
+			<xs:enumeration value="producer"/>
+			<xs:enumeration value="remixer"/>
+			<xs:enumeration value="scriptwriter"/>
+			<xs:enumeration value="sound engineer"/>
+			<xs:enumeration value="subscriptwriter"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="PerformanceType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="main"/>
+			<xs:enumeration value="supporting"/>
+			<xs:enumeration value="soloist"/>
+			<xs:enumeration value="conductor"/>
+			<xs:enumeration value="chorus master"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="OriginEnum">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="self"/>
+			<xs:enumeration value="live broadcasting"/>
+			<xs:enumeration value="live stream"/>
+			<xs:enumeration value="recorded stream"/>
+			<xs:enumeration value="free usage"/>
+			<xs:enumeration value="report"/>
+			<xs:enumeration value="free of charge"/>
+			<xs:enumeration value="commerce"/>
+			<xs:enumeration value="commercial"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="Record">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Participants" minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Participant" maxOccurs="unbounded" minOccurs="1">
+								<xs:complexType>
+									<xs:attribute name="name" type="StringNotNull" use="required"/>
+									<xs:attribute name="role" type="RoleType" use="required"/>
+									<xs:attribute name="IPDN" type="xs:string"/>
+									<xs:attribute name="performance" type="PerformanceType"/>
+									<xs:attribute name="grossFee" type="grossFeeType"/>
+									<xs:attribute name="modifier" type="ModifierEnum"/>
+									<xs:attribute name="IPI" type="xs:string"/>
+									<xs:attribute name="birthDate" type="xs:date" use="required"/>
+									<xs:anyAttribute processContents="lax"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element maxOccurs="unbounded" minOccurs="0" ref="Record"/>
+			</xs:sequence>
+			<xs:attribute name="title" type="StringNotNull" use="required"/>
+			<xs:attribute name="spins" type="PositiveIntType" use="required"/>
+			<xs:attribute name="ISRC" type="ISRCType" use="optional"/>
+			<xs:attribute name="year" type="YearType" use="optional"/>
+			<xs:attribute name="producer" type="xs:string" use="optional"/>
+			<xs:attribute name="label" type="xs:string" use="optional"/>
+			<xs:attribute name="recordNo" type="xs:string" use="optional"/>
+			<xs:attribute name="serialNumber" type="xs:string" use="optional"/>
+			<xs:attribute name="isPremiere" type="xs:boolean"/>
+			<xs:attribute name="usage" type="RecordUsageType" use="optional"/>
+			<xs:attribute name="ISWC" type="xs:string" use="optional"/>
+			<xs:attribute name="AKA" type="xs:string"/>
+			<xs:attribute name="genre" type="GenreEnum"/>
+			<xs:attribute name="broadcastedFrom" type="xs:dateTime" use="optional"/>
+			<xs:attribute name="broadcastedTo" type="xs:dateTime" use="optional"/>
+			<xs:attribute name="runtime" type="xs:nonNegativeInteger" use="required"/>
+			<xs:attribute name="origin" type="OriginEnum"/>
+			<xs:attribute name="alternativeTitle" type="StringNotNull" use="optional"/>
+			<xs:attribute name="recordedFootage" type="xs:nonNegativeInteger" use="required"/>
+			<xs:anyAttribute processContents="lax"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

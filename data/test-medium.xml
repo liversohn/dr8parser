@@ -1,0 +1,1585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="file:/media/richard/KINGSTON/dr8_CRo_v100_RC2.xsd" dateFrom="2018-10-12Z" dateTo="2019-02-06" station="OnpPRlK2R3lIyVe_48" usageType="mix" filename="WLzga1C"
+     sender="FU6n0pR" encoding="hExD8UljIyDp.Fq_2o-YaARtVY8s0u">
+    <Record title="BotLknvUsPpZC34v" spins="121834352" ISRC="EZRJ19KWT5DK" year="6666" producer="BW.hMrwUXmHz4xeZLl_NdJgz"
+         label="bIZqGYpbRIwyM27dvQFv" recordNo="lbHV3Jf834SbID" serialNumber="euxOZ0lVhjxDUuRK1TUd" isPremiere="1"
+         usage="jingle" ISWC="l9g5eYTNH9" AKA="FUIaqoa" genre="classical" broadcastedFrom="2020-04-13T11:21:16"
+         broadcastedTo="2019-09-03T11:21:16Z" runtime="893342559" origin="report" alternativeTitle="wCOVRNYX0H2VHQABeWmUkPeEyUl6"
+         recordedFootage="897329343">
+        <Participants>
+            <Participant name="xrrwhu" role="producer" IPDN="Ptas4mS4JcxhSss578BGjJa7dK01xo" performance="conductor" grossFee="-507430997.18"
+                 modifier="B" IPI="vfjskNF" birthDate="2020-05-24"/>
+            <Participant name="OTdiEl_1WOs7sN9Xxs23A0l8QvewH" role="performer" IPDN="Rt" performance="chorus master" grossFee="881978528.33"
+                 modifier="C" IPI="ljIuUIl45vCgPP" birthDate="2020-03-09"/>
+            <Participant name="p.V8BO5_jn" role="producer" IPDN="UoAlDYLmRISYyL.saAKyeQmY" performance="main" grossFee="-1829005030.33"
+                 modifier="B" IPI="x_aB61Hv.2tLI-isrRHs6" birthDate="2020-06-29"/>
+            <Participant name="NOW122V6.FFzamy" role="arranger" IPDN="YUUdymr4Me3q-NNJ3jOoR.HM" performance="soloist" grossFee="2095215823.57"
+                 modifier="B" IPI="CIgnqXi6pro1QbUeBgWs3Z0S0" birthDate="2018-08-23Z"/>
+            <Participant name="Q" role="producer" IPDN="p5f5C" performance="supporting" grossFee="531444081.95" modifier="B"
+                 IPI="Dus5dyW-mpDj" birthDate="2020-03-02Z"/>
+            <Participant name="f" role="subscriptwriter" IPDN="JNq" performance="chorus master" grossFee="986413011.35" modifier="C"
+                 IPI="C3UcgHVwYaoq2u_evo" birthDate="2020-01-20Z"/>
+            <Participant name="M3DrTP" role="performer" IPDN="BIVCGlejEtSj5BbDhTVVtS" performance="chorus master" grossFee="1082233326.87"
+                 modifier="A" IPI="A6TKeugACbo" birthDate="2019-07-12"/>
+            <Participant name="P2dYyYj9GyaiH-fXFBM" role="remixer" IPDN="GjWOf" performance="soloist" grossFee="416350863.41"
+                 modifier="A" IPI="moG_-0EsRVLRCPMFhUR6qa" birthDate="2018-07-27Z"/>
+        </Participants>
+    </Record>
+    <Record title="etg2TcOBPZoJ" spins="2026152344" ISRC="0I0D1QZ8LF9K" year="0177" producer="OpzXwymrzLHalpG.2t"
+         label="zPSggX.F_rPm1" recordNo="MdEBQ1Y5_O3bb1Vi" serialNumber="AXE" isPremiere="1" usage="jingle"
+         ISWC="bhc6EnepgjDQ" AKA="ZhYABwM5t0DDRrVn7.QnjlN" genre="commercial" broadcastedFrom="2020-02-25T11:21:16Z"
+         broadcastedTo="2019-04-06T11:21:16" runtime="148458461" origin="report" alternativeTitle="UaauL.N9lm3ZJKQ9XteVM.r"
+         recordedFootage="158520949">
+        <Participants>
+            <Participant name="ajhbqzncFGk2hBnLzV9pM9" role="remixer" IPDN="koS2_RCrWGUFHhb4WOK" performance="main" grossFee="1079214480.04"
+                 modifier="B" IPI="wqZfr5gKzZt" birthDate="2018-11-02Z"/>
+            <Participant name="yF1cg43RaVH80A7CpH" role="remixer" IPDN="UPhswThFkwUazlz34MLwh7" performance="supporting" grossFee="-1686020879.27"
+                 modifier="A" IPI="lr66frCv6LXdi0z7StkcOVZ9awh" birthDate="2018-11-21Z"/>
+            <Participant name="XdwnkcxWzCUl7ntYLTJApldbF" role="performer" IPDN="ry85sD9EK9wljh6An6Bi-I2e8WtGe0" performance="main"
+                 grossFee="1108675002.43" modifier="A" IPI="JJak4_RDr8n" birthDate="2018-11-20Z"/>
+            <Participant name="YzFBKpqLwIl1kso" role="remixer" IPDN="e4DvmHvP9SnGr" performance="supporting" grossFee="-941953420.51"
+                 modifier="A" IPI="LhnMc7u" birthDate="2020-04-12Z"/>
+            <Participant name="X0sN5bgnTwvDh" role="music director" IPDN="o" performance="conductor" grossFee="471263626.92"
+                 modifier="A" IPI="JiabWx" birthDate="2019-03-14"/>
+            <Participant name="j.Tg7h1Y2.IYx7fDSeHGEcw" role="subscriptwriter" IPDN="gztQLyZ95nVYXszDMGndF" performance="chorus master"
+                 grossFee="248035962.69" modifier="C" IPI="faxV.-wJmQfGNo7KalX" birthDate="2019-12-11"/>
+            <Participant name="IWTddLf" role="arranger" IPDN="H" performance="chorus master" grossFee="-1238205407.97" modifier="A"
+                 IPI="t6UnFgPWYuJv" birthDate="2019-05-31Z"/>
+            <Participant name="_zW" role="sound engineer" IPDN="HDvN0udZfE.Q5AsMFmL" performance="main" grossFee="-2034709484.00"
+                 modifier="C" IPI="V" birthDate="2020-04-05Z"/>
+        </Participants>
+    </Record>
+    <Record title="SWib27c" spins="1572808858" ISRC="7VU7P31XW3J3" year="5196" producer="sxBHnIwdu" label="cK3Nf_9GaT1lu"
+         recordNo="d9_g0CDb5xtagvY6Wp9mVaQs.K" serialNumber="qTcFIOvrlpITBthDLLg9" isPremiere="true"
+         usage="jingle" ISWC="d3" AKA="cBzgqb56nV-jLcBEWHWhC4S" genre="pop" broadcastedFrom="2020-02-16T11:21:16"
+         broadcastedTo="2020-01-01T11:21:16" runtime="1106908458" origin="commerce" alternativeTitle="Zc-Vdp"
+         recordedFootage="1368547886">
+        <Participants>
+            <Participant name="FOPRFEBA9WL" role="composer" IPDN="UFLgAgQuptCVGtV84Bouh4" performance="soloist" grossFee="-1325651729.52"
+                 modifier="C" IPI="RhTy" birthDate="2019-07-23"/>
+            <Participant name="rF2XDBVklMsh2LfKI" role="subscriptwriter" IPDN="VsTivyvyvoNXDJrbalZ8jX9W" performance="chorus master"
+                 grossFee="87512562.03" modifier="A" IPI="P4LFR9nVqNKrDCu-G_a6GVvzA" birthDate="2018-08-09Z"/>
+            <Participant name="OpKGPG7GtOwnaUuTrUsgU" role="performer" IPDN="iL" performance="supporting" grossFee="162200443.40"
+                 modifier="C" IPI="VofFwhdJx9rm7troZscuCk" birthDate="2019-07-12"/>
+            <Participant name="doUQeixAbmOypg9yJRmsOWxJok" role="arranger" IPDN="Ff4M5FJ52O24wBeng" performance="soloist" grossFee="-557248996.72"
+                 modifier="C" IPI="PS" birthDate="2019-08-23Z"/>
+            <Participant name="_dFKdp" role="remixer" IPDN="yXIvjv1kL3ev9RgFSc8CFXq.LY" performance="chorus master" grossFee="-1480341843.93"
+                 modifier="A" IPI="l4sMt6jkFvc.ypkizOUj3_" birthDate="2020-05-14"/>
+            <Participant name="o" role="music director" IPDN="GMZve3Z.LsPpTST05bYsJRUgArWgt" performance="soloist" grossFee="370759271.96"
+                 modifier="B" IPI="F4rWSpLzrHM63Y-0Vhu0Jv6qOun" birthDate="2019-01-23"/>
+            <Participant name="yNCTtF22Ir2qnXJabpenA0P.8Z" role="arranger" IPDN="NQP" performance="supporting" grossFee="-998528300.31"
+                 modifier="A" IPI="ULiwucCHiGTh3eGUIg" birthDate="2020-05-13"/>
+            <Participant name="TvNIx5AKHACD-tpi3Mk6" role="music director" IPDN="FSOvYYkIphUuOiGy" performance="soloist" grossFee="-7160723.29"
+                 modifier="A" IPI="j_nEz7JqwdZgJcf" birthDate="2019-11-18"/>
+        </Participants>
+    </Record>
+    <Record title="Kk" spins="726502784" ISRC="81Q4JD2G7SQB" year="4792" producer="Oldpocw" label="ucOFaV.Sc" recordNo="i8HAJ"
+         serialNumber="H4kRHEuN3XugIzQNUI39Yel3wXat" isPremiere="0" usage="broadcast" ISWC="_.LQ" AKA="_VNDLIy2j"
+         genre="composed" broadcastedFrom="2019-10-28T11:21:16" broadcastedTo="2018-07-15T11:21:16Z"
+         runtime="1891224582" origin="self" alternativeTitle="DzDT7uq0eld.5" recordedFootage="1435763862">
+        <Participants>
+            <Participant name="qHpnk" role="producer" IPDN="ngnfIUjwCw5ciiy" performance="chorus master" grossFee="132579728.21"
+                 modifier="C" IPI="smNJlGcnJ" birthDate="2019-01-18"/>
+            <Participant name="y.Blk5pHiE8Wz5UeozJehBz-gDd" role="scriptwriter" IPDN="iBEJAo4Nr4QekXc5o07COzh9.Ob7CJ" performance="main"
+                 grossFee="-773171013.33" modifier="A" IPI="m3WE" birthDate="2018-09-17"/>
+            <Participant name="RRkNHkUvW2FO" role="remixer" IPDN="Mwdv" performance="main" grossFee="529491350.01" modifier="B"
+                 IPI="q8DvVbqDt0" birthDate="2019-03-29Z"/>
+            <Participant name="tG0Dydi0twHlHW8rGrbv6hsu0" role="subscriptwriter" IPDN="kiYdHJCg-p" performance="soloist" grossFee="1933177836.37"
+                 modifier="B" IPI="PRWOOs5w9I264C" birthDate="2019-06-02"/>
+            <Participant name="VFdEPMu2vAsd4mRuBv" role="producer" IPDN="fD_tTXfzAMX3yFe7Q" performance="soloist" grossFee="2031373271.70"
+                 modifier="A" IPI="r1j0pmAnaQY4HDjq8QUkynxD" birthDate="2019-01-24"/>
+            <Participant name="CrxOHxzJvLT4" role="music director" IPDN="RYL4GV3lRCYqh" performance="conductor" grossFee="36142686.24"
+                 modifier="B" IPI="kj14jqq0Fj" birthDate="2020-04-17"/>
+            <Participant name="_dftBAL5dEbTJT_IGh_LcbXS15Sg" role="subscriptwriter" IPDN="MaFvtDeX3IasyEJIO" performance="conductor"
+                 grossFee="2143800138.26" modifier="B" IPI="m0" birthDate="2019-03-20"/>
+            <Participant name="tgW" role="music director" IPDN="m74v9zCiWKsxlI8gC6m7SntVpe" performance="soloist" grossFee="-1860391003.25"
+                 modifier="C" IPI="P3-k7O4ai" birthDate="2019-08-15"/>
+        </Participants>
+    </Record>
+    <Record title="QXyXW_7jGs1fxPPMHkr7fVfCssFkM2" spins="882203233" ISRC="557884SM1KX7" year="5090" producer="MFEyQmqz9UZg-_7CnCMNY9"
+         label="T7DD52kCF0mBOiIx" recordNo="H5L0" serialNumber="Ge-9wJ_sJY2Akgu_" isPremiere="0" usage="commercial"
+         ISWC="beyOyUoU5ds5QRSf" AKA="J5ep.OjA7DEl2CaKy2HCfjhrvUC" genre="pop" broadcastedFrom="2019-04-23T11:21:16Z"
+         broadcastedTo="2020-04-28T11:21:16Z" runtime="746805103" origin="commercial" alternativeTitle="m0lsbTLx-X2E"
+         recordedFootage="1067827298">
+        <Participants>
+            <Participant name="VPK9.rF" role="scriptwriter" IPDN="wlrD7gyadRqDWsv-W" performance="conductor" grossFee="-1035370785.20"
+                 modifier="B" IPI="jG4Mqd" birthDate="2019-03-01"/>
+            <Participant name="Uwnd2uKDxmwR5uRzvEj" role="arranger" IPDN="m6va6fbWc" performance="conductor" grossFee="212272852.24"
+                 modifier="A" IPI="M98yDEk5mlDFAYtHC5CDE" birthDate="2019-05-06"/>
+            <Participant name="HKqpmrYhUtI9dnkSFZ6" role="subscriptwriter" IPDN="ZRo9dnUlofNEzYvvFk_SUQi3" performance="conductor"
+                 grossFee="-1590607485.38" modifier="C" IPI="WmzrRbJhHE16GwguYWN" birthDate="2019-03-30Z"/>
+            <Participant name="pmyjshkh9XU8L_LqzHUOOBrV" role="scriptwriter" IPDN="znZL1R8y4e6Gqtfs" performance="soloist" grossFee="972848271.28"
+                 modifier="C" IPI="WtwA6ePcYS0iI.V_C1jdOIP1tnBCBX" birthDate="2019-07-18"/>
+            <Participant name="RQcCBStSQYd3-zjSNxE8oOl" role="performer" IPDN="fWCO978svvYf9nC.4NNKkHzO1hF" performance="chorus master"
+                 grossFee="-1296087075.21" modifier="A" IPI="hZly8qj4ajCckg-2TqRan8yW" birthDate="2018-08-04Z"/>
+            <Participant name="BISJFy73LQ" role="producer" IPDN="sdekYD37MXv7LGsE6" performance="supporting" grossFee="-1860750869.97"
+                 modifier="B" IPI="xPvo" birthDate="2018-11-30Z"/>
+            <Participant name="dP" role="scriptwriter" IPDN="tdBmHDmBf8wAfsM-pxhBPr" performance="soloist" grossFee="-716108849.28"
+                 modifier="C" IPI="ohU6ZtVZFFiJVuFBo" birthDate="2019-06-17"/>
+            <Participant name="l_q4EZxd-" role="performer" IPDN="DdH_dZC9no" performance="main" grossFee="1471194659.64" modifier="C"
+                 IPI="Lc0.b6O" birthDate="2019-06-26"/>
+        </Participants>
+    </Record>
+    <Record title="CDoXZcX0n4w" spins="1816268934" ISRC="63UG4JW0K6WU" year="4447" producer="l2zmY8-qiWhLroY1fkuPrAmqZk"
+         label="rgZdp5aGHxZfht" recordNo="VfN8iQcoMZk1VtwNQe4SWs6P0" serialNumber="r0.jJrJphvIp5uP4x"
+         isPremiere="true" usage="commercial" ISWC="Wqt-h.W" AKA="AHGSARRodo-3ocFnEQHSq" genre="classical"
+         broadcastedFrom="2019-05-22T11:21:16" broadcastedTo="2020-01-22T11:21:16Z" runtime="338034564"
+         origin="self" alternativeTitle="hBariATUZdYtOXa" recordedFootage="1491201345">
+        <Participants>
+            <Participant name="DO01XIk91hEUGXDZlNICTjAPv3" role="producer" IPDN="IQwkTmk88LHc8Xwuz3gaaj0KoxqNof" performance="conductor"
+                 grossFee="1694877197.78" modifier="A" IPI="qP06" birthDate="2018-10-20Z"/>
+            <Participant name="J5iDyOMS3F59z" role="performer" IPDN="cVip_E3T_x" performance="main" grossFee="285566144.28" modifier="C"
+                 IPI="Q3NnMwfpD.wypEV9cGHt5gQ" birthDate="2020-01-04"/>
+            <Participant name="YZGjJPggQqg2gQjBfok" role="music director" IPDN="VK79K0Kth" performance="conductor" grossFee="-2066963036.54"
+                 modifier="C" IPI="APfJt0iJO_CKeLM1drlCOHY0aSVT3Z" birthDate="2019-04-10Z"/>
+            <Participant name="LMf9IAeMZEsWTvPYKDIfB" role="music director" IPDN="cAp653iu91.ij.uEJIZD" performance="supporting"
+                 grossFee="-2101854616.77" modifier="A" IPI="WZmZeFnjFi9i_luhP-L" birthDate="2020-04-01Z"/>
+            <Participant name="fxE4kcm8MvrgRj" role="music director" IPDN="wS2ZwAvXgL2SDNqVvnrYp9F" performance="supporting"
+                 grossFee="-1876491863.49" modifier="C" IPI="FBy" birthDate="2019-12-25Z"/>
+            <Participant name="L2S54huymID8m_O9" role="performer" IPDN="HI1yfnqlYG_W5y_" performance="main" grossFee="696897239.06"
+                 modifier="C" IPI="cwSIb_yiOR3T5hKsn8M" birthDate="2020-03-26Z"/>
+            <Participant name="U" role="performer" IPDN="nQYhfHnv2fbRWiK.F8-Y-6luSNgv" performance="chorus master" grossFee="-717704159.29"
+                 modifier="A" IPI="C6USMle4N-71r" birthDate="2019-04-02"/>
+            <Participant name="scodi69dDwJ0RUp" role="composer" IPDN="lXuWNob5u22GHnw" performance="chorus master" grossFee="2130124697.50"
+                 modifier="B" IPI="Suzoe2xPvUSX-8F_F" birthDate="2019-06-29"/>
+        </Participants>
+    </Record>
+    <Record title="ain2c" spins="232585135" ISRC="0KDQSFO1MJ0H" year="9763" producer="q" label="hnAV2Ao1YO2nRrzQj"
+         recordNo="E5" serialNumber="Cmq7gtDyEdttb8bnmTBuGF" isPremiere="1" usage="commercial" ISWC="LOADzoZ_YN66q1ZHAOzhBVeGIFnndA"
+         AKA="vQMpw_kBAWDmisdnTdNQZ7ud4TqO" genre="jingle" broadcastedFrom="2020-06-27T11:21:16Z" broadcastedTo="2020-06-20T11:21:16"
+         runtime="743013228" origin="live broadcasting" alternativeTitle="mRYKVHQ8cWgTYxXbO3N-HhOaTeQl"
+         recordedFootage="735163848">
+        <Participants>
+            <Participant name="J0n" role="producer" IPDN="FOIU1hkmc5.dFgu5Y0BwD" performance="soloist" grossFee="-768606859.82"
+                 modifier="B" IPI="FqzRtwNupZOCdxG4a4yYav8I.d1" birthDate="2018-07-11"/>
+            <Participant name="VoBWAkHVg_b2XtKz" role="composer" IPDN="w6rDJOoc1fDEc" performance="soloist" grossFee="-1603837505.41"
+                 modifier="C" IPI="iHNuNPIsQ0PrTgnbJ" birthDate="2020-05-05"/>
+            <Participant name="ADv6pOnrpQYIx1vimkqm_fVST1AQr5" role="performer" IPDN="B" performance="conductor" grossFee="-1918833607.51"
+                 modifier="A" IPI="rx6PQZkbM" birthDate="2019-12-21Z"/>
+            <Participant name="d5KSlSSDtl0UGYRt" role="music director" IPDN="DG26AgkWfEWUxrGwe" performance="chorus master" grossFee="-566500185.57"
+                 modifier="A" IPI="C6HlfqqK0i9agyQ5fc" birthDate="2020-04-11"/>
+            <Participant name="dUq8IdggFb8b-.vuT3TN4k" role="composer" IPDN="qOqFv" performance="supporting" grossFee="1414792731.47"
+                 modifier="C" IPI="Xk" birthDate="2019-05-01"/>
+            <Participant name="TMPWikMUTJJ9eYIk" role="subscriptwriter" IPDN="Cu72H0kjG2w7GJObexVTmxI" performance="main" grossFee="530260223.45"
+                 modifier="B" IPI="hP6vGBItMBYD7p6wmqPc" birthDate="2018-07-31"/>
+            <Participant name="HQoH0uf4iUE920" role="composer" IPDN="n25l9" performance="main" grossFee="453082874.10" modifier="C"
+                 IPI="DukrxLjDiOJ1" birthDate="2019-07-24Z"/>
+            <Participant name="uf3" role="arranger" IPDN="AiK" performance="chorus master" grossFee="-353387230.37" modifier="C"
+                 IPI="ym7T67qNT-ff7ahr" birthDate="2019-11-15Z"/>
+        </Participants>
+    </Record>
+    <Record title="b-MoQGjFceIjTrTaAEU6UUwGfI" spins="1404109218" ISRC="OQ50D3D57NQ3" year="6305" producer="Fejtl3GkX"
+         label="UZCePo" recordNo="PX-KNdK1Dg6Da_aSN" serialNumber="Uyy" isPremiere="true" usage="broadcast"
+         ISWC="o-i" AKA="rUb-hz" genre="commercial" broadcastedFrom="2020-02-19T11:21:16" broadcastedTo="2019-02-03T11:21:16Z"
+         runtime="1137306313" origin="report" alternativeTitle="nv4ynAWu5ZB7CbPJf0njxP" recordedFootage="1958147380">
+        <Participants>
+            <Participant name="z_gdICVeoa7PS" role="composer" IPDN="em7tWr2uwwJRsiR9CkhFF" performance="soloist" grossFee="-1312704815.43"
+                 modifier="B" IPI="LKlbT9.i" birthDate="2020-06-22"/>
+            <Participant name="BMyv" role="producer" IPDN="FLc" performance="chorus master" grossFee="1679870611.17" modifier="C"
+                 IPI="gPpo" birthDate="2019-01-24Z"/>
+            <Participant name="r94mra7redNz0efQcrpW" role="scriptwriter" IPDN="wpbKWfPh" performance="chorus master" grossFee="-274807313.46"
+                 modifier="B" IPI="rqLksXUbkuasM0Ill" birthDate="2018-08-24Z"/>
+            <Participant name="ljZjZZ1mZqbdER5GlMevQn" role="arranger" IPDN="MvyAOKrVfZ8sX" performance="main" grossFee="1447539487.26"
+                 modifier="A" IPI="JPvNLQ" birthDate="2020-06-13"/>
+            <Participant name="fXvAZM5" role="remixer" IPDN="SOh9UI_VIx.iP9Xvhvb" performance="chorus master" grossFee="1332455559.59"
+                 modifier="C" IPI="mPGIlfeJG39WcCebsPOqrl" birthDate="2019-11-19Z"/>
+            <Participant name="P1_NGtjwMGrcuDw_zgfPY4.IiF3DM8" role="music director" IPDN="vIaxyucOzIIwe6UP5YysFrmlIKMj6" performance="soloist"
+                 grossFee="-1114029306.86" modifier="A" IPI="GBJjCbImTfTo.5bdrx5f7lQJ717NSd" birthDate="2020-03-24"/>
+            <Participant name="xqKFUpabWms" role="music director" IPDN="s1uIWluG5nS" performance="soloist" grossFee="-1953250852.94"
+                 modifier="A" IPI="zZf3mT" birthDate="2019-08-14"/>
+            <Participant name="JV.ed" role="remixer" IPDN="ZuhJ_StVUI-EOj2" performance="supporting" grossFee="-881268184.90"
+                 modifier="B" IPI="p2KFqaeV0NrE7X" birthDate="2018-10-19Z"/>
+        </Participants>
+    </Record>
+    <Simulcasting from="2019-10-11T11:21:16" to="2018-12-09T11:21:16" station="eEnQk7trGpzuPo"/>
+    <Simulcasting from="2018-10-04T11:21:16" to="2019-08-18T11:21:16Z" station="lcQQJ4oLmg0nLIS"/>
+    <Simulcasting from="2018-11-27T11:21:16" to="2020-05-17T11:21:16Z" station="cizBl"/>
+    <Simulcasting from="2020-03-05T11:21:16Z" to="2019-10-09T11:21:16" station="aK9KDCkCjsR1B_qTUBSCTpI"/>
+    <Simulcasting from="2020-02-14T11:21:16Z" to="2020-04-19T11:21:16" station="smX58rF"/>
+    <Simulcasting from="2019-06-16T11:21:16" to="2018-07-09T11:21:16Z" station="j6NScupp8pRK1qhd1NGzl"/>
+    <Simulcasting from="2018-07-03T11:21:16Z" to="2019-08-15T11:21:16Z" station="c4GcK4eRBePihS5ncD-O2"/>
+    <Simulcasting from="2019-06-20T11:21:16Z" to="2019-06-21T11:21:16" station="dPTO_bZ80GVlxQ-"/>
+    <Record title="xJPEZ4NAs8BlpMAnwl" spins="237196074" ISRC="1Q1DBD968I65" year="5916" producer="K4Q1N1n-Ba9x"
+         label="H2de3Ik2gMF-.efPvoGDXU" recordNo="j-1W0IXDcLI68cYpvJ-O" serialNumber="NstFl2A6" isPremiere="0"
+         usage="broadcast" ISWC="UR9zgZl-gPW_P" AKA="a7lghG0" genre="composed" broadcastedFrom="2020-05-31T11:21:16"
+         broadcastedTo="2020-03-06T11:21:16Z" runtime="118408935" origin="free of charge" alternativeTitle="vQAEgFaaw5c"
+         recordedFootage="1508823641">
+        <Participants>
+            <Participant name="z81" role="composer" IPDN="LRnFm" performance="soloist" grossFee="-481172225.23" modifier="C"
+                 IPI="YY" birthDate="2019-05-12"/>
+            <Participant name="Y3cnF" role="performer" IPDN="JVnTxS6So.eRCPHVFQBtqPtgwk6" performance="chorus master" grossFee="989527806.13"
+                 modifier="A" IPI="NxtKaZO" birthDate="2019-02-18"/>
+            <Participant name="io6PU" role="arranger" IPDN="NPHIH17.oJF_UmTGt1tl9LtS9Gz" performance="chorus master" grossFee="-834530776.30"
+                 modifier="A" IPI="Ra1B.CZlH1L" birthDate="2018-09-30"/>
+            <Participant name="GBzNuYZhmZOq5" role="arranger" IPDN="KYY2" performance="supporting" grossFee="1032626356.88" modifier="C"
+                 IPI="l" birthDate="2020-03-16"/>
+            <Participant name="vI4fG" role="performer" IPDN="GUfoEN" performance="chorus master" grossFee="1628001431.93" modifier="C"
+                 IPI="TSZeM" birthDate="2019-12-24"/>
+            <Participant name="WJrQp4Kz5b0Tw75jct1F9" role="sound engineer" IPDN="J548g5Ot1gAWr1K6_T" performance="supporting"
+                 grossFee="-923647417.71" modifier="C" IPI="NmHc0ehAWmV3CiU-TDFT42coR" birthDate="2018-12-05Z"/>
+            <Participant name="_T5E9O.0E4Om1PoBp_hlH9ls_cP" role="music director" IPDN="qIVOv7aUMcAZlE" performance="soloist"
+                 grossFee="-1743990698.56" modifier="C" IPI="JOuTN.wwMgrieGTQJ2S6-33" birthDate="2018-07-12Z"/>
+            <Participant name="s.JMC5D41uEd22A21qg" role="scriptwriter" IPDN="qbk3KUMpdRTw7lHweiVwVgcgBr" performance="conductor"
+                 grossFee="-1889967834.28" modifier="B" IPI="y0XvGN6NBrzE-" birthDate="2018-12-05Z"/>
+        </Participants>
+    </Record>
+    <Record title="fcqg8o" spins="1783959524" ISRC="X89830L8MKV5" year="6270" producer="lGTMuNYgpuHyVbEwBX16QjXmFj"
+         label="c4Rl_bazGH6hrHslPbPRGzdhI" recordNo="Oad501L" serialNumber="QXjNcgUiF8UA" isPremiere="0"
+         usage="jingle" ISWC="IPPwXwgBdPq.1LGzHhtxQ8hUkv8_" AKA="i.Uscy" genre="pop" broadcastedFrom="2018-07-29T11:21:16"
+         broadcastedTo="2020-02-04T11:21:16" runtime="18619275" origin="recorded stream" alternativeTitle="X_"
+         recordedFootage="676668403">
+        <Participants>
+            <Participant name="Nn0xRKqJ5k8Bw7zzF0Jf" role="scriptwriter" IPDN="hURFgRhhDHJtGKj2q.5XJRaMnJ" performance="conductor"
+                 grossFee="-1608436565.30" modifier="A" IPI="TQIc" birthDate="2018-08-28"/>
+            <Participant name="uVMFjr6LL.G" role="arranger" IPDN="COPBxxLS3DTkhjdMVBoQap" performance="chorus master" grossFee="-2024392706.08"
+                 modifier="C" IPI="K2dLJTTDmWaki2Kllry9esWR8" birthDate="2019-07-11Z"/>
+            <Participant name="s2_ravyVJlt" role="producer" IPDN="XsfWXvNM971" performance="conductor" grossFee="735993962.90"
+                 modifier="C" IPI="F" birthDate="2020-05-15"/>
+            <Participant name="YM2f-OXVFWOdp0fhsugXXdqZ4mJjq" role="music director" IPDN="bmBdNPcSCif2" performance="soloist"
+                 grossFee="2083590923.07" modifier="B" IPI="m8OJG" birthDate="2019-06-05"/>
+            <Participant name="IfZoNEbeOxqCF" role="scriptwriter" IPDN="Vbk80wZIoHmbC08Gu3ZqA" performance="supporting" grossFee="-1226600990.27"
+                 modifier="C" IPI="aiVopb" birthDate="2018-08-18Z"/>
+            <Participant name="Y04STjZEnseR-e1Ky2Urc2pvYTcE" role="performer" IPDN="hzoGWe-VpbgF" performance="supporting" grossFee="-1871207153.42"
+                 modifier="B" IPI="SI" birthDate="2019-05-11"/>
+            <Participant name="InFvR1itw-Y0U7FVakPVXjo2" role="scriptwriter" IPDN="IbfgAC" performance="conductor" grossFee="1278458019.80"
+                 modifier="B" IPI="vs" birthDate="2019-06-09"/>
+            <Participant name="ujdiKcw2QOApuECBrs.bAZd" role="remixer" IPDN="zgzv212xbs0O2" performance="conductor" grossFee="-992189380.51"
+                 modifier="A" IPI="bmgn6zgU1akJw" birthDate="2020-05-26Z"/>
+        </Participants>
+    </Record>
+    <Record title="P" spins="1687894424" ISRC="0Z9Z4ZJQT7X7" year="3937" producer="_hLJ5C133nsi7iJVFuyIUiAS" label="lu"
+         recordNo="V_1_j7D4eYoHeSuFwi8Vu_eUVaZf" serialNumber="Hidr7RDTJhUolQjADTjWIO4eV2589" isPremiere="0"
+         usage="commercial" ISWC="cntIQ67kGPtMKyvuLVbEXI26mN" AKA="g7u3FfKU-mJ72qI" genre="jingle" broadcastedFrom="2019-08-07T11:21:16"
+         broadcastedTo="2020-06-30T11:21:16" runtime="241793218" origin="report" alternativeTitle="XczYOeNGnzyS"
+         recordedFootage="866148381">
+        <Participants>
+            <Participant name="fN0kTx8rvyNvjGoV4U-Z.Fod6b" role="sound engineer" IPDN="L-RHnMhmOPzq2q" performance="supporting"
+                 grossFee="1602539305.07" modifier="C" IPI="B5" birthDate="2020-01-25"/>
+            <Participant name="kZWRd._8XtFWwg.JNeMU4GP" role="music director" IPDN="WYxPzQEoE" performance="soloist" grossFee="1827959883.06"
+                 modifier="A" IPI="CsqnAz2crMmtLw81Gb184" birthDate="2018-08-22"/>
+            <Participant name="lK6UsZroxawNac" role="arranger" IPDN="R-k6g4y4p.9Q3ROWyAn" performance="conductor" grossFee="1614678258.37"
+                 modifier="A" IPI="KA80DDXMMkrB" birthDate="2018-09-19"/>
+            <Participant name="IfIe" role="scriptwriter" IPDN="mIhM.3w" performance="main" grossFee="-1749405735.50" modifier="B"
+                 IPI="P0" birthDate="2019-02-05Z"/>
+            <Participant name="zOONQ48lQsU8YEyl7" role="sound engineer" IPDN="Afqc09UEI6LX" performance="soloist" grossFee="496774413.46"
+                 modifier="A" IPI="Ts.hrmu8sPVF0-.Y.rCJM8" birthDate="2020-02-17"/>
+            <Participant name="AwEso225dazSi" role="arranger" IPDN="iqMEtaoZmynyZeaSPv" performance="chorus master" grossFee="1265213099.49"
+                 modifier="A" IPI="e210MS1Z2" birthDate="2018-12-08Z"/>
+            <Participant name="KZ7d5o6w24LgD67NLLqtPufH7n" role="music director" IPDN="E" performance="soloist" grossFee="-709909825.18"
+                 modifier="A" IPI="gmktyj8cqUZGlS4YNaj" birthDate="2019-10-31Z"/>
+            <Participant name="wO1kwL7cTPDP0cQG5lhV4wp" role="arranger" IPDN="hm0koagnCTxT8ti-RzGrJ3ByBLfHj" performance="supporting"
+                 grossFee="990802042.74" modifier="A" IPI="xAESdLJ3" birthDate="2019-05-30Z"/>
+        </Participants>
+    </Record>
+    <Record title="K6KhxcHVTo9odigNW73-4Q" spins="2093768221" ISRC="GJU6Q7Q3GMY2" year="5529" producer="miSDjGq.41wmvNkAzWu4MmZiK"
+         label="gPamq9NVz3kns" recordNo="vHVWO7T5GFSAAPG6Ezheq5goXLC2" serialNumber="lNkrdAsS0krTs6K3"
+         isPremiere="false" usage="broadcast" ISWC="_43Cwk2ZxPX-Rk3nok3YtQz8365" AKA="WQEpNLiPD-93ejR"
+         genre="commercial" broadcastedFrom="2018-12-09T11:21:16" broadcastedTo="2018-07-29T11:21:16Z"
+         runtime="419771091" origin="commerce" alternativeTitle="akqV" recordedFootage="873959234">
+        <Participants>
+            <Participant name="jxh-03h2" role="sound engineer" IPDN="V0pi_As44h8q4-J12m3LqSTM" performance="supporting" grossFee="-1056239262.07"
+                 modifier="B" IPI="qzC9SwDkyOa" birthDate="2019-04-16Z"/>
+            <Participant name="MXFRyg0QBlO7xHkpLt-Q39C" role="music director" IPDN="TDXoqZtksnqAaa7fcXExmV1AS0YT" performance="conductor"
+                 grossFee="1263631339.04" modifier="B" IPI="FRHqP7tkFgQLnpkGo" birthDate="2019-05-12"/>
+            <Participant name="I55NH6ROxIuOiBT2B-fBOJeIPEJtp" role="scriptwriter" IPDN="cwcH_mS.YjC7BO" performance="soloist"
+                 grossFee="-1556912494.93" modifier="A" IPI="LXoTPfmp2HUdaSr27Vb-" birthDate="2019-04-16"/>
+            <Participant name="MXEWUmbFVCD1-IqpJ" role="performer" IPDN="Su5b" performance="main" grossFee="956926059.50" modifier="B"
+                 IPI="gJYgAFM5EGC87te7GtNi8RsV" birthDate="2019-10-29Z"/>
+            <Participant name="KE031yN9aXNlw" role="producer" IPDN="i-R3rZjeQ0_.IBsJUUQRFqNoaFSxDs" performance="soloist" grossFee="-1295063144.36"
+                 modifier="C" IPI="TTKZjwj_EJ7BIbaclE1V1gubZpCU" birthDate="2019-10-21Z"/>
+            <Participant name="C6YAzfXjmng.tED-7.9csM" role="composer" IPDN="ZvW" performance="conductor" grossFee="-762300249.41"
+                 modifier="C" IPI="xtuX0Besy_KyrTy" birthDate="2019-08-04Z"/>
+            <Participant name="s4-m.1BR3F1cNuNr_yTCMhjhhxhkA" role="scriptwriter" IPDN="EWBTu4WG_-1U9" performance="supporting"
+                 grossFee="-305164338.74" modifier="C" IPI="AyjjMQ" birthDate="2019-10-29"/>
+            <Participant name="nHQqB" role="composer" IPDN="iLBbEsMExGpquI.LViiH" performance="supporting" grossFee="-133495407.08"
+                 modifier="A" IPI="HZJC8" birthDate="2018-11-08"/>
+        </Participants>
+    </Record>
+    <Record title="ygWYZEvvDluhhM1RNe" spins="719993344" ISRC="309782SCQKS0" year="8934" producer="N3NVHhH28RiMi_2BCeOO"
+         label="cSV09jCq7LoIcaRv.1EgBS5n78" recordNo="abEDNArxH-" serialNumber="i5J" isPremiere="false"
+         usage="commercial" ISWC="IDnPlsqObPeN0ATHWmM0ffnMyOJDl" AKA="morISibmU-B6oJdYM3etoi" genre="jingle"
+         broadcastedFrom="2020-01-16T11:21:16" broadcastedTo="2019-12-09T11:21:16Z" runtime="416442775"
+         origin="free of charge" alternativeTitle="OpvbCq" recordedFootage="600662129">
+        <Participants>
+            <Participant name="HBRzZGbYSWxL3k8dX_wYP320e" role="scriptwriter" IPDN="KJ" performance="supporting" grossFee="-606331624.07"
+                 modifier="C" IPI="jtbJEO5k.uOkM6axQF1pR4d8Se8" birthDate="2018-11-20Z"/>
+            <Participant name="CIfZTMxLfNE9MG0Nq_4Po-UyYUK5" role="producer" IPDN="GBr76dthklPdUaCoxb" performance="conductor"
+                 grossFee="-1111822014.54" modifier="A" IPI="b1rOb4a7_V2BCam7j" birthDate="2020-02-25Z"/>
+            <Participant name="T" role="arranger" IPDN="fD0Jzb0" performance="chorus master" grossFee="-626985898.94" modifier="A"
+                 IPI="P4J7WsSwLyn9wryN33x" birthDate="2019-06-20"/>
+            <Participant name="xt9_e1IIfSpbkk2g-" role="performer" IPDN="XDiqEFF8pp" performance="main" grossFee="-1666124602.70"
+                 modifier="C" IPI="I7ISEKpJYqftuLivSl86" birthDate="2020-03-29Z"/>
+            <Participant name="M9ICnVRVehSYjKKl" role="sound engineer" IPDN="SV9Gwc_TAgi" performance="supporting" grossFee="-453220495.67"
+                 modifier="B" IPI="tYkhL7oZUoKjmoZ8iMJJy-be6t" birthDate="2020-01-24Z"/>
+            <Participant name="YbinLQ43VicLkSXVTalFlH" role="producer" IPDN="G5dd41zaw_6rjx.xVn" performance="chorus master"
+                 grossFee="-1886941149.03" modifier="C" IPI="b" birthDate="2019-08-05"/>
+            <Participant name="WAPqc6" role="remixer" IPDN="UxcTj3NRb69gWdRq9czRAjiNpRt" performance="main" grossFee="-723408437.51"
+                 modifier="B" IPI="B5" birthDate="2018-10-29Z"/>
+            <Participant name="Fp" role="sound engineer" IPDN="utET-4sZm79q5HA" performance="chorus master" grossFee="39626497.83"
+                 modifier="C" IPI="YzEwn4wQ." birthDate="2020-05-11Z"/>
+        </Participants>
+    </Record>
+    <Record title="QOdpIiiWZg_NZw" spins="491055561" ISRC="YDY016SJO5V0" year="3337" producer="IYEEoIt8WgJ6c0ad51QR_pjPeDe"
+         label="WX7x" recordNo="pLGa2HxrxAZcgg" serialNumber="ia9" isPremiere="true" usage="broadcast"
+         ISWC="ASn2u48-LKU" AKA="iaWPDV6IvyyDWMyJ5zSeGaZEwh" genre="jingle" broadcastedFrom="2019-07-14T11:21:16Z"
+         broadcastedTo="2019-06-18T11:21:16" runtime="1314719836" origin="free usage" alternativeTitle="A_d3k5qi"
+         recordedFootage="880709331">
+        <Participants>
+            <Participant name="JJ4sJQjdTXTzqzBr.u" role="composer" IPDN="Io6TSOwCasumQ.cCgx" performance="chorus master" grossFee="435236441.85"
+                 modifier="C" IPI="PTvpj" birthDate="2019-12-13Z"/>
+            <Participant name="ds6GuX0EPUG2" role="performer" IPDN="qYXxGtB1z" performance="soloist" grossFee="-792268486.54"
+                 modifier="A" IPI="_qwC_qH" birthDate="2020-01-08"/>
+            <Participant name="yg" role="performer" IPDN="df" performance="chorus master" grossFee="905419430.94" modifier="C"
+                 IPI="nJJu" birthDate="2018-10-22"/>
+            <Participant name="VaGmkesU" role="composer" IPDN="Za_4f_Iz." performance="conductor" grossFee="382085932.30" modifier="A"
+                 IPI="oaWNGI-cy3mgkx2mu90bAokQ" birthDate="2019-04-20Z"/>
+            <Participant name="f1ua18qHzb" role="music director" IPDN="FRGMe3caaQM" performance="supporting" grossFee="-374620845.53"
+                 modifier="C" IPI="fQE8" birthDate="2020-01-07Z"/>
+            <Participant name="eAI1VFHGbue.q8basN" role="producer" IPDN="b9ntXg-4FxP.a" performance="chorus master" grossFee="-2002247075.42"
+                 modifier="A" IPI="NVJPmcvheBIPWYJDtZ4YqE" birthDate="2018-11-03Z"/>
+            <Participant name="dGBEHSkXy_zmdA7" role="performer" IPDN="Zi5noGMKRZgJWpXf_xSUnYPuGAfD" performance="soloist" grossFee="-1377853789.28"
+                 modifier="A" IPI="Wfh" birthDate="2019-12-12Z"/>
+            <Participant name="XJI_" role="scriptwriter" IPDN="d" performance="chorus master" grossFee="-1576094766.47" modifier="A"
+                 IPI="r5gY.8zEwzZDMYApwElmwm2thCBxu" birthDate="2018-09-08Z"/>
+        </Participants>
+    </Record>
+    <Record title="f6rElNJBvc" spins="722214470" ISRC="LSX92XC2J702" year="5752" producer="DBAMhQ-VbOHOj-VMf" label="tnQEDHQHTvsoIJA"
+         recordNo="rgoqDtsuPFa4AAoBMl" serialNumber="e2zBVZYiD55-gnMgu" isPremiere="true" usage="jingle"
+         ISWC="eznLzOA" AKA="jlqsjTk4O9h.MrwPnzVz5PUUn4E" genre="jingle" broadcastedFrom="2019-02-22T11:21:16Z"
+         broadcastedTo="2019-12-11T11:21:16Z" runtime="2008250130" origin="live stream" alternativeTitle="NmlYj-WkJ2sIFjnp5_V8Zb5Ms_S"
+         recordedFootage="406497999">
+        <Participants>
+            <Participant name="tj" role="remixer" IPDN="uwwEHqqYxIEvL1xaoR7" performance="chorus master" grossFee="1278117077.14"
+                 modifier="C" IPI="UMILsIumH0f.5abe" birthDate="2019-12-26Z"/>
+            <Participant name="h6fBaenLy" role="arranger" IPDN="hiIrK-0eG_3h3jtLeZH" performance="chorus master" grossFee="-122966112.98"
+                 modifier="B" IPI="Z" birthDate="2018-09-17Z"/>
+            <Participant name="qaaT8r-b4cYand47WrowijlgM" role="composer" IPDN="StlMPd1L.kevBuYHnmQO9ZsrRGD" performance="soloist"
+                 grossFee="1787121729.24" modifier="A" IPI="ul" birthDate="2019-10-28Z"/>
+            <Participant name="Dgv8GlW6NveJ9Errr1eprOBvPAA" role="subscriptwriter" IPDN="E6pLlntJ86Qagb-3DUNM" performance="supporting"
+                 grossFee="-979689999.01" modifier="B" IPI="s_M5-YjE.e1y5NZpg8g9m" birthDate="2019-10-20"/>
+            <Participant name="yLv2Hhx0nW59KO6" role="remixer" IPDN="l-9lLDJgzniBc4GXfrN" performance="soloist" grossFee="1557496011.24"
+                 modifier="A" IPI="OVcScKD6k1PN7" birthDate="2018-11-01"/>
+            <Participant name="USJFEoWY" role="music director" IPDN="DEPd3yu2ikRJXWLxT0E6AeqKAw" performance="main" grossFee="1275161605.33"
+                 modifier="A" IPI="K" birthDate="2018-08-17Z"/>
+            <Participant name="CsIVinw8M7TwZgpboV7wWO" role="performer" IPDN="s4Yejl0FR7YHJo.9.1" performance="main" grossFee="-873364597.39"
+                 modifier="B" IPI="FjGmweQUVxl" birthDate="2020-05-11Z"/>
+            <Participant name="YjBQc8bICAYityPVBY" role="remixer" IPDN="oq7BQfCRlldq9gDZq_zQ" performance="main" grossFee="-1109634404.74"
+                 modifier="B" IPI="C7Og0GHhna_e" birthDate="2019-05-08"/>
+        </Participants>
+    </Record>
+    <Record title="HbFh" spins="2133180326" ISRC="A2335IRYYB3D" year="6398" producer="ZO1-H8s__.QndD6ouAZFZil" label="U76_mHD6"
+         recordNo="PQ" serialNumber="F" isPremiere="true" usage="commercial" ISWC="NXo8GiJH0e5SHBjKz"
+         AKA="AMnk" genre="jingle" broadcastedFrom="2019-11-04T11:21:16Z" broadcastedTo="2019-06-28T11:21:16Z"
+         runtime="1461444761" origin="self" alternativeTitle="C00ub" recordedFootage="827205271">
+        <Participants>
+            <Participant name="unPvXbP4NRFWK1U1nyZxQcbNK9Bo6" role="sound engineer" IPDN="hZDHACte033gW2smZCj" performance="chorus master"
+                 grossFee="1731178686.39" modifier="A" IPI="KfqM-4UOvIud5ZMpjTpyH4CMpKIZ" birthDate="2019-08-06"/>
+            <Participant name="wduR_BO0HTYkoEBhvaEQ2glm" role="sound engineer" IPDN="wG-ORynlc6rFD" performance="conductor" grossFee="-290331036.41"
+                 modifier="C" IPI="avCRYH2T-QNNsRQ7-Pm7ROQdEX" birthDate="2019-02-15Z"/>
+            <Participant name="_P6SecPuGsgxJcjaKy.RA" role="music director" IPDN="Be9RKBB" performance="main" grossFee="1785673680.42"
+                 modifier="C" IPI="uzOtf7SxYTK" birthDate="2019-02-04"/>
+            <Participant name="V4Si3bUkxVH5o4xlUmCqTyryoozY9" role="subscriptwriter" IPDN="NwPXWgGymw7N2NM" performance="main"
+                 grossFee="-1715358343.57" modifier="C" IPI="lamBOb3wfubZbjJXMs" birthDate="2018-07-12"/>
+            <Participant name="YvXYuzG-EsNPmu-ce.y5qut4" role="music director" IPDN="L5vXvMfUnX" performance="main" grossFee="1258424696.97"
+                 modifier="A" IPI="u_D-4jjjUHFY-eUaIr2S8f" birthDate="2018-09-07Z"/>
+            <Participant name="ngTGI" role="remixer" IPDN="yXkD9" performance="supporting" grossFee="1561724734.07" modifier="B"
+                 IPI="HWSNpFjtoNkMVjF2" birthDate="2019-07-19Z"/>
+            <Participant name="HKsbT11JSD_FG5vQc" role="producer" IPDN="Kcdig5LR5l62m02Gsv2gstw" performance="supporting" grossFee="-423079681.11"
+                 modifier="A" IPI="CkpGshwGvDN2b7uH" birthDate="2020-04-01"/>
+            <Participant name="giLSenUYT97mpBuB55" role="remixer" IPDN="_2CPdsdgp207UTgZ5bcM0" performance="soloist" grossFee="720370850.66"
+                 modifier="A" IPI="u1157L.YMHcsFIRosp8K" birthDate="2018-08-31"/>
+        </Participants>
+    </Record>
+    <Simulcasting from="2018-08-15T11:21:16" to="2018-11-08T11:21:16Z" station="xIxwzfb7nT9L8iklwcBPH"/>
+    <Simulcasting from="2018-11-24T11:21:16" to="2019-07-02T11:21:16" station="rn"/>
+    <Simulcasting from="2019-03-26T11:21:16" to="2020-06-18T11:21:16Z" station="ZDMGlZNwSNOh_-8uG0ec"/>
+    <Simulcasting from="2020-02-11T11:21:16" to="2019-03-19T11:21:16" station="Zv_4"/>
+    <Simulcasting from="2018-08-09T11:21:16" to="2020-05-31T11:21:16Z" station="FX"/>
+    <Simulcasting from="2018-11-02T11:21:16Z" to="2018-12-16T11:21:16" station="ov"/>
+    <Simulcasting from="2018-09-16T11:21:16" to="2018-08-04T11:21:16" station="Ymp0OCi"/>
+    <Simulcasting from="2018-10-07T11:21:16Z" to="2018-10-08T11:21:16Z" station="ZcJhLKXq26AGE4N5RLp2iAhznXytk2"/>
+    <Record title="Q7sWRkBX1bVOQBCe0VK.4YJJek0bb" spins="1357582485" ISRC="5D4TA36EQ22R" year="0466" producer="D.-a.QQ0CDqzo6"
+         label="NNq7a7xclci4pSHgmdxT38Q" recordNo="P38qp-1N1q5-UevG99VjbAADW7AK" serialNumber="XHWAp-Wf-MRbymkccBd-xBUa"
+         isPremiere="1" usage="jingle" ISWC="FnTRiPNQxblrqS0jIOJ8Ow3e7pej" AKA="FIS2_G51w.NVUhgC70" genre="spoken word"
+         broadcastedFrom="2018-10-15T11:21:16" broadcastedTo="2020-03-20T11:21:16Z" runtime="1387053647"
+         origin="commercial" alternativeTitle="jhtGMewP8mEWCNzbcBitbtoJX-ong" recordedFootage="1125376539">
+        <Participants>
+            <Participant name="e7J4NfUpz9pzN0DPZbJRw.w." role="subscriptwriter" IPDN="CttHQf5URXI5" performance="conductor" grossFee="-821101597.44"
+                 modifier="B" IPI="wEtcLWicIZ" birthDate="2019-12-14"/>
+            <Participant name="HO.K" role="composer" IPDN="t8Q1Mf0uH8t6ehhZAQ" performance="soloist" grossFee="2010580782.19"
+                 modifier="B" IPI="_ViPRm4jX_tbD4NzdDeth7ba" birthDate="2019-11-09"/>
+            <Participant name="krYSZj9FAOS1B2OtvdRkGapdg" role="composer" IPDN="Ii1EwaQ8" performance="chorus master" grossFee="-931550028.72"
+                 modifier="A" IPI="XxXSu-RYzYuJLugYt" birthDate="2020-05-26Z"/>
+            <Participant name="Xp_wmkMU4Ad8JpXtKd9taaLz5rj" role="sound engineer" IPDN="K_7ji.w85n0Q4Mi8_" performance="conductor"
+                 grossFee="-1551958425.42" modifier="C" IPI="TsMIU8Qy" birthDate="2020-06-12"/>
+            <Participant name="rcoNm9oH.iMlE1GFrXJAs1JMnv" role="composer" IPDN="zSGXqx0wf7Ciwx9" performance="supporting" grossFee="375448470.75"
+                 modifier="A" IPI="b7U8Leg.O" birthDate="2019-04-30Z"/>
+            <Participant name="y0qst15iZ8VIvL" role="arranger" IPDN="LuVIT0.Xw1" performance="soloist" grossFee="1289783615.55"
+                 modifier="C" IPI="C5wS9fZjz..37J54GXz2aB-9efM" birthDate="2018-10-28Z"/>
+            <Participant name="kTkt" role="producer" IPDN="V_JR4_53VxyN" performance="chorus master" grossFee="-1769302451.05"
+                 modifier="A" IPI="bzdZjGnVnWiXokLPf2j" birthDate="2018-10-27Z"/>
+            <Participant name="Tr4fec-RzQnf4jD9UngKl" role="arranger" IPDN="k-ohvKQxy_Iwr2CWdU6" performance="conductor" grossFee="-715988692.88"
+                 modifier="C" IPI="iQQw0dKA" birthDate="2019-05-17Z"/>
+        </Participants>
+    </Record>
+    <Record title="I8.b01" spins="275707974" ISRC="677772K06S6Y" year="7350" producer="Pd5U53Fwuy" label="AhGpOpE8P31UUXcFshE2C"
+         recordNo="pB_kuC" serialNumber="_-ob1" isPremiere="true" usage="commercial" ISWC="O4EF-D1OYSdXLUJ"
+         AKA="YG-g82PRJ" genre="jingle" broadcastedFrom="2020-01-28T11:21:16Z" broadcastedTo="2019-05-24T11:21:16Z"
+         runtime="383562395" origin="report" alternativeTitle="p.AIUobgLrAS" recordedFootage="1949310943">
+        <Participants>
+            <Participant name="L8o2yecP" role="producer" IPDN="m5HexAFoX" performance="soloist" grossFee="662440535.94" modifier="B"
+                 IPI="X9-fby9V" birthDate="2019-12-16"/>
+            <Participant name="Pxo" role="performer" IPDN="ACS0S2xoI2ga7EvINu5Y4-KpJWP7g" performance="chorus master" grossFee="755455425.16"
+                 modifier="A" IPI="zGAfAvTWjiwanH.lANzFu" birthDate="2019-08-15Z"/>
+            <Participant name="VH1rkLGNu5H5wZhNtOYOUDtM" role="subscriptwriter" IPDN="RFfSom9Kg" performance="main" grossFee="-911022770.20"
+                 modifier="C" IPI="upL_Z1sBsKrk" birthDate="2018-11-25Z"/>
+            <Participant name="aG_fU" role="sound engineer" IPDN="FZevltgWcIY" performance="soloist" grossFee="788009786.32"
+                 modifier="C" IPI="ispBrGS5s2Q1k05Li6ZM" birthDate="2018-07-08"/>
+            <Participant name="NGubMTzqMZDy-7Zrhk4AKO0Zu" role="performer" IPDN="MjhAwL." performance="supporting" grossFee="1911325281.19"
+                 modifier="A" IPI="_" birthDate="2019-06-25"/>
+            <Participant name="vBEksrQXMyllKWmiVMXXOZKgl7_V" role="remixer" IPDN="gkHFXdkTG9fnUD57tx2yj7" performance="main"
+                 grossFee="3739364.98" modifier="B" IPI="Myrdy9PO31D-Zp1" birthDate="2019-06-23Z"/>
+            <Participant name="u" role="remixer" IPDN="H4HaM9.EDcX3vx3t0Epx" performance="conductor" grossFee="-1983462298.64"
+                 modifier="A" IPI="PxeD06Oz3MNXQoAV6g_xmI6RV" birthDate="2019-11-11"/>
+            <Participant name="WrK0.KEt0nh-QDB1AMWorI2WjnyXf" role="producer" IPDN="NvICv_zT" performance="main" grossFee="774897381.28"
+                 modifier="B" IPI="q_YVFns.ZvVeo" birthDate="2020-03-18"/>
+        </Participants>
+    </Record>
+    <Record title="ov7S80b99OeJNA_" spins="623896103" ISRC="16XAQEEY778I" year="7837" producer="PFm_Y0" label="RO8"
+         recordNo="VUSq4g2S" serialNumber="w2RjVGQ91TpGdv02Kkqf" isPremiere="false" usage="commercial"
+         ISWC="rWUOB52tBTsAb12cw3eEstYgB7s" AKA="W7hxJGaG" genre="classical" broadcastedFrom="2019-03-03T11:21:16"
+         broadcastedTo="2019-10-29T11:21:16" runtime="959507479" origin="free of charge" alternativeTitle="_tDiK1Sz4wSV"
+         recordedFootage="1406448334">
+        <Participants>
+            <Participant name="kg-v" role="sound engineer" IPDN="IEMeqiJbPWH8h7hE" performance="main" grossFee="-1050603359.83"
+                 modifier="C" IPI="ZINEXBZ" birthDate="2020-01-29Z"/>
+            <Participant name="aEShqg." role="arranger" IPDN="ZuMV4eZdM7FG.P9sf39" performance="soloist" grossFee="-288592127.00"
+                 modifier="A" IPI="WKHPYFTAvxiyImZMHaBa5G6VL_.3yW" birthDate="2019-11-19"/>
+            <Participant name="pFqa2kkjC9reLz" role="composer" IPDN="_UhJLyTKXj9ZlK_h5ZB8iq" performance="conductor" grossFee="2106670347.49"
+                 modifier="A" IPI="hK0R" birthDate="2019-12-04"/>
+            <Participant name="enIE" role="producer" IPDN="e4HrXvV8LxmOVbz1CsjaBXp" performance="soloist" grossFee="-1724945233.89"
+                 modifier="C" IPI="H3nczOv-I-wA" birthDate="2019-06-22Z"/>
+            <Participant name="Qk6SeIoTv" role="performer" IPDN="Nl5u2LDNPvxQq4oB" performance="chorus master" grossFee="2039226334.59"
+                 modifier="B" IPI="I0" birthDate="2020-01-17Z"/>
+            <Participant name="odIdPDQ7il.j_lyJgbzRg8O" role="performer" IPDN="ED7O5W_" performance="soloist" grossFee="-1601986062.73"
+                 modifier="A" IPI="tTlPUeniG" birthDate="2018-09-27"/>
+            <Participant name="WCSgLHNcz4ynHhh6ym1Qk" role="subscriptwriter" IPDN="eB" performance="conductor" grossFee="-1505921152.80"
+                 modifier="B" IPI="IordClp4pYR" birthDate="2019-08-13Z"/>
+            <Participant name="sZBmeQf5oGAyDZh" role="producer" IPDN="K" performance="main" grossFee="1593336074.38" modifier="B"
+                 IPI="_H72.9k2pyKZc.GjvWTGs9O4MDbuj" birthDate="2018-11-29"/>
+        </Participants>
+    </Record>
+    <Record title="_qKzdGfJKIQXR6lT.BTwogaQ" spins="1315051980" ISRC="6837C8JU0A12" year="1350" producer="NiYH.tZGkB5rpRvu2Xjs36EBn"
+         label="MnBQoxYDdU-RLli9rO" recordNo="bEQT-WqAE_Bizuou.vS" serialNumber="k960GIEC3QKq4RIwl" isPremiere="0"
+         usage="broadcast" ISWC="rrkXQDd" AKA="lYRnPP.6u-xn8w.f" genre="pop" broadcastedFrom="2019-09-13T11:21:16Z"
+         broadcastedTo="2018-08-19T11:21:16" runtime="1300612965" origin="live broadcasting" alternativeTitle="QNfy1"
+         recordedFootage="1731655540">
+        <Participants>
+            <Participant name="y.U7TStXoLESjaaxXgDnsJ7ELW3nU" role="performer" IPDN="qxLH3k_.jclQT.iwIoU8" performance="chorus master"
+                 grossFee="-109293127.78" modifier="B" IPI="yjZQPsh-eRFrjQb-Fu8CBZfS" birthDate="2018-08-12Z"/>
+            <Participant name="vE_neko4MLIk3sk1Ziue" role="performer" IPDN="vqmM1cODVRPNisnWHkt5" performance="supporting" grossFee="230958037.78"
+                 modifier="B" IPI="JG8Z8TCoxahOOnLCQ" birthDate="2019-03-09"/>
+            <Participant name="Z" role="producer" IPDN="mGvZPT40trpnxo40PAKq8NheBxU4" performance="conductor" grossFee="-1248302721.65"
+                 modifier="C" IPI="ujG46a9PSl.VTwuUQ1" birthDate="2020-01-18"/>
+            <Participant name="_u2P0kFom" role="arranger" IPDN="hR2GfaOlDz" performance="conductor" grossFee="1994144881.54"
+                 modifier="B" IPI="T7" birthDate="2020-02-28"/>
+            <Participant name="TDSD_.Cdl-1Ic.KgzP6fJneBw" role="remixer" IPDN="xW56HtZWNsCKLCWxy" performance="soloist" grossFee="-896865723.14"
+                 modifier="C" IPI="zPN" birthDate="2020-04-22"/>
+            <Participant name="FgSc" role="producer" IPDN="dlkJkGJYrBY__BvzfkVFfrTcfDRqm" performance="soloist" grossFee="-1755369063.33"
+                 modifier="C" IPI="emHgnwjEEAMQ0L4QHw9Pjrm7dy" birthDate="2018-12-24Z"/>
+            <Participant name="H3MM213aXn8vlaJgkEu97MqKP" role="arranger" IPDN="TZKxD081RjL_J" performance="chorus master" grossFee="-222503548.47"
+                 modifier="C" IPI="olLVqsO9rMJO" birthDate="2018-09-14"/>
+            <Participant name="fBW12sCqo" role="performer" IPDN="oZKtXm1C2-" performance="soloist" grossFee="2092851711.40" modifier="C"
+                 IPI="Q4Ij0R1YIxgMF6w3oaM4qI" birthDate="2020-06-30"/>
+        </Participants>
+    </Record>
+    <Record title="kN6GlX5oiYMTIcX" spins="580858065" ISRC="U4T4PW0V47E3" year="5928" producer="afEvDXaSALh6vib.1d0R1eCFHtB2sK"
+         label="JxH4J2iQo0mE5617wk_Exs" recordNo="E45L-sxE.pc1kAXMVYmjPx8r6ILooz" serialNumber="F" isPremiere="false"
+         usage="jingle" ISWC="gSckw9Q4qCBz1Rz32DEFlT2U9hV" AKA="vS1X" genre="jingle" broadcastedFrom="2020-01-04T11:21:16"
+         broadcastedTo="2019-04-07T11:21:16" runtime="546881284" origin="report" alternativeTitle="q2UVRVb6wfWJUVeUZ8rWNQ"
+         recordedFootage="905593213">
+        <Participants>
+            <Participant name="L4Kx2euLXYv" role="sound engineer" IPDN="S48Hvmov" performance="chorus master" grossFee="179806330.16"
+                 modifier="A" IPI="MWsPs" birthDate="2019-11-20"/>
+            <Participant name="NM12.5KZ" role="scriptwriter" IPDN="R-W.pFw3Neh" performance="main" grossFee="-593390886.62" modifier="B"
+                 IPI="sbn3Of" birthDate="2019-12-15"/>
+            <Participant name="vEjadPjPvkWxOm7X2bEVyDFn" role="scriptwriter" IPDN="X" performance="soloist" grossFee="-1164618645.03"
+                 modifier="A" IPI="a_yH" birthDate="2018-12-18Z"/>
+            <Participant name="NyKNra8mgGqTTaGhxHjaTzkir0EiMr" role="composer" IPDN="qbAGc.XGVg_6OS6709lD1QXjTP5BK" performance="supporting"
+                 grossFee="-1564671442.74" modifier="A" IPI="lS" birthDate="2019-03-15Z"/>
+            <Participant name="I9mcY7AmBLcpKZ" role="producer" IPDN="lyDgUk2pu" performance="soloist" grossFee="-811855695.37"
+                 modifier="B" IPI="DmNHF9H1bKXc6jbz5" birthDate="2020-04-29"/>
+            <Participant name="Um3ITRfxjm2" role="remixer" IPDN="L" performance="supporting" grossFee="-861485642.45" modifier="A"
+                 IPI="ka_K85v8uD8zzN4tr27oDSJzldkru" birthDate="2018-08-11Z"/>
+            <Participant name="vtGq4fo" role="arranger" IPDN="xKaeAQTJz8liycjzj.spYLbhL2Eh19" performance="soloist" grossFee="-236783729.46"
+                 modifier="B" IPI="C3gZO7QkNh4hztU" birthDate="2020-03-25"/>
+            <Participant name="S3C7G70IH5ZG.0GCDC8Mishij" role="composer" IPDN="y9bo3F-0sW" performance="chorus master" grossFee="975970349.68"
+                 modifier="A" IPI="c" birthDate="2019-09-28Z"/>
+        </Participants>
+    </Record>
+    <Record title="KtoUT" spins="1805193476" ISRC="SIF33723D8WY" year="4103" producer="I" label="ipiC1HMUVcXJ2u5J"
+         recordNo="hwOfPWYHtn" serialNumber="daPz8zuyvNZoB6X7pUq" isPremiere="false" usage="jingle" ISWC="jhuHHbLLJuEecV"
+         AKA="lju.Rbp.dCxj3F5UHTxnbc" genre="spoken word" broadcastedFrom="2019-04-22T11:21:16Z" broadcastedTo="2020-05-02T11:21:16Z"
+         runtime="1198462498" origin="self" alternativeTitle="bg53yr5EKNCyv6pQ" recordedFootage="1261892452">
+        <Participants>
+            <Participant name="FJII.G6lefcpqILU5uFOMGE" role="subscriptwriter" IPDN="nIetrEBDp3A7" performance="main" grossFee="1996174515.39"
+                 modifier="A" IPI="Wi6s_RmJj1pD55okiIekM" birthDate="2020-06-04"/>
+            <Participant name="k3FzRkA_zD_nU6y8waa8DKG17" role="scriptwriter" IPDN="CayxOTz" performance="supporting" grossFee="2082779242.45"
+                 modifier="A" IPI="SKV6pYgcTsiF4ZMtx2is8VXAL5u5a6" birthDate="2020-02-07Z"/>
+            <Participant name="AG6ssAKFscxycf3Yy4.AF" role="subscriptwriter" IPDN="y.pqrtrhIUr5hAGK.qa." performance="chorus master"
+                 grossFee="-1860346487.68" modifier="C" IPI="T-MGyIyLWk1poIts7cvvL" birthDate="2019-05-14"/>
+            <Participant name="L2EQJp2xHKZpbjOENVf" role="subscriptwriter" IPDN="z" performance="soloist" grossFee="491543237.10"
+                 modifier="C" IPI="l" birthDate="2019-11-27Z"/>
+            <Participant name="VXj" role="performer" IPDN="ogU0nY7Ff" performance="chorus master" grossFee="1292279630.44" modifier="A"
+                 IPI="A.FQmyZUH8eHnY" birthDate="2020-01-09"/>
+            <Participant name="WlFc3ZFwSXBD9lQSg.chK4x" role="sound engineer" IPDN="Rig-LvChOvplKMWtZ5FE-CA9Hi1X" performance="supporting"
+                 grossFee="1640350325.31" modifier="B" IPI="psnSUUVsdE" birthDate="2019-02-06Z"/>
+            <Participant name="Ce9ytLYaa7fI" role="producer" IPDN="thWurk.x_OcohVky43j.fWz" performance="soloist" grossFee="-884242566.38"
+                 modifier="B" IPI="XRoXXFYRrdM" birthDate="2019-05-11Z"/>
+            <Participant name="rg47b2gg" role="subscriptwriter" IPDN="SQMzRJ7NhEAubWOE9IY" performance="soloist" grossFee="390285982.80"
+                 modifier="A" IPI="jc6nP9NOy_nsoC5B6iKQWAyP5uhgI" birthDate="2019-08-08Z"/>
+        </Participants>
+    </Record>
+    <Record title="Jq33ML8dpf5LAMo4ItJ7" spins="883020955" ISRC="90WIQ3TJ4F13" year="1118" producer="oHtlCGExd2ZQNIHk"
+         label="OjQW6sUxxmY7uInOTY" recordNo="kKY0_zp4UayJQbSbY6wFtQP2.eNtRN" serialNumber="EaVfKK_SguRVvY1PxjjA8t"
+         isPremiere="false" usage="jingle" ISWC="m.P27o" AKA="a7KyjiOeBdOljNpB.WdrlQr" genre="jingle"
+         broadcastedFrom="2019-06-15T11:21:16Z" broadcastedTo="2018-08-14T11:21:16Z" runtime="161166959"
+         origin="self" alternativeTitle="xbtvagLzi5gisRwIhx9LkGApPv" recordedFootage="1232105535">
+        <Participants>
+            <Participant name="gnxg" role="producer" IPDN="hrzkx" performance="main" grossFee="-1447816063.56" modifier="B" IPI="mX8xO.UEMVMYCFwiamnd"
+                 birthDate="2018-10-03Z"/>
+            <Participant name="iCZX_nXzU" role="performer" IPDN="vD" performance="supporting" grossFee="-702520988.70" modifier="A"
+                 IPI="W" birthDate="2019-07-30Z"/>
+            <Participant name="Dx56nRQaeX.BXslmz5vLwC" role="performer" IPDN="m..qB.1Ks.BtG4Ilm" performance="supporting" grossFee="71518174.91"
+                 modifier="B" IPI="GnDJykzsJN2-3c.Zp1oR_" birthDate="2018-12-12Z"/>
+            <Participant name="CCXnOJAp6w.KqX9Q" role="sound engineer" IPDN="EQ5c-nfHqo79gRvqey.8" performance="main" grossFee="49973487.43"
+                 modifier="C" IPI="Bem7XAPMYuwLVSj84m8" birthDate="2018-11-13"/>
+            <Participant name="MpD5tnihd2y6K2u_CwNo" role="producer" IPDN="kC" performance="supporting" grossFee="-679154537.78"
+                 modifier="C" IPI="dzKI0" birthDate="2019-01-10Z"/>
+            <Participant name="Czx" role="subscriptwriter" IPDN="svq7GbLZMW73g" performance="soloist" grossFee="-2036084535.25"
+                 modifier="C" IPI="xEKhI1qR1YqXDItXrrS" birthDate="2019-09-09Z"/>
+            <Participant name="juu" role="producer" IPDN="GerslzVafLeBff" performance="main" grossFee="1215173470.88" modifier="B"
+                 IPI="XmlhopdB1cthT7" birthDate="2019-08-09"/>
+            <Participant name="pVHm20YQirTVL" role="performer" IPDN="C6Q2.1AHFD1ikSCi7lN" performance="conductor" grossFee="1545550713.58"
+                 modifier="A" IPI="RrNKfonm.4QDsi.5e-sv" birthDate="2020-04-13Z"/>
+        </Participants>
+    </Record>
+    <Record title="eha" spins="353631799" ISRC="5RE16MT54099" year="1501" producer="HTY0sSmNuz.jeuwvmNLEcu_" label="wLh"
+         recordNo="ey1H1uov" serialNumber="Vdb7" isPremiere="0" usage="jingle" ISWC="QcU81HKZ" AKA="_NK32fwhr_6jxkIMufUrqPIY"
+         genre="spoken word" broadcastedFrom="2019-11-15T11:21:16Z" broadcastedTo="2019-12-25T11:21:16Z"
+         runtime="1746993118" origin="live stream" alternativeTitle="GSG71vyGAYtBRzRWm4VSteeuVZ." recordedFootage="2079306069">
+        <Participants>
+            <Participant name="lIH" role="arranger" IPDN="T" performance="supporting" grossFee="1105076659.94" modifier="A" IPI="efG_5"
+                 birthDate="2018-09-29"/>
+            <Participant name="Ffs9SxY15.xm3HaP_akG3myhnQICo6" role="subscriptwriter" IPDN="Nx1kf0kP9BQZ4CE8JcQ2CC7vj" performance="soloist"
+                 grossFee="-682484567.93" modifier="B" IPI="eu-0GUi1H_F14LhMOErO" birthDate="2018-07-15"/>
+            <Participant name="zYJX9kwFKki" role="remixer" IPDN="L2yAdL2vctL" performance="supporting" grossFee="-261826042.53"
+                 modifier="B" IPI="um." birthDate="2018-07-19Z"/>
+            <Participant name="lN" role="arranger" IPDN="le" performance="supporting" grossFee="1902156960.16" modifier="A" IPI="FaW8_6O_m"
+                 birthDate="2020-04-09Z"/>
+            <Participant name="pu5" role="arranger" IPDN="wdn0hc5AH" performance="conductor" grossFee="-1544389780.70" modifier="B"
+                 IPI="Xw.g1Jr1o-OdFcVqXL__7K" birthDate="2018-10-26Z"/>
+            <Participant name="N7q_zHzOCuUoBQF13rQA8RBc_ECJn" role="producer" IPDN="bq.QXO4stBDUBXS-zyovF9nh" performance="main"
+                 grossFee="597961255.42" modifier="A" IPI="coJOOm" birthDate="2018-07-19"/>
+            <Participant name="dd6-W.koGeYvr3" role="sound engineer" IPDN="V" performance="conductor" grossFee="-1627661523.47"
+                 modifier="A" IPI="Yd72RFqLPlocTZ9CdLimwGAoWJW" birthDate="2019-01-07"/>
+            <Participant name="dJ8uh5EqRY" role="subscriptwriter" IPDN="_b" performance="main" grossFee="1282792482.00" modifier="B"
+                 IPI="Xt__V9sBn6q" birthDate="2020-06-11"/>
+        </Participants>
+    </Record>
+    <Simulcasting from="2019-01-28T11:21:16Z" to="2018-10-30T11:21:16" station="Z5Akj4xSU2"/>
+    <Simulcasting from="2020-04-25T11:21:16Z" to="2019-10-18T11:21:16Z" station="ZnXM79rwYj8"/>
+    <Simulcasting from="2018-07-21T11:21:16" to="2018-07-22T11:21:16" station="nvumfst.rqchJ"/>
+    <Simulcasting from="2019-05-09T11:21:16" to="2019-07-31T11:21:16" station="MopPqvW2T5IY6-_YMg4uPfx7rwv"/>
+    <Simulcasting from="2020-05-26T11:21:16" to="2019-04-07T11:21:16" station="BrkwU"/>
+    <Simulcasting from="2019-07-21T11:21:16Z" to="2020-04-05T11:21:16Z" station="UNYdLM0nIMurk2tIePgdYp5R2t.R"/>
+    <Simulcasting from="2020-03-20T11:21:16Z" to="2018-07-03T11:21:16Z" station="dxjYsUch"/>
+    <Simulcasting from="2020-04-28T11:21:16Z" to="2018-11-15T11:21:16Z" station="r"/>
+    <Record title="scUqoyto" spins="1509174187" ISRC="0G07KKL6Z7H9" year="2964" producer="q1YSoqAcAhMKw6K" label="H7rr7ibm"
+         recordNo="x1BaqVRuG8" serialNumber="maaQqRUveW5DDjVQxcMEVfZ" isPremiere="false" usage="commercial"
+         ISWC="rbr" AKA="Tl8.NhxcbYeIkRTOX1o0kX2" genre="composed" broadcastedFrom="2019-02-23T11:21:16Z"
+         broadcastedTo="2018-12-26T11:21:16" runtime="733846659" origin="free of charge" alternativeTitle="uDyx"
+         recordedFootage="1918392259">
+        <Participants>
+            <Participant name="bRaPaeJXTseCpBZlwt" role="performer" IPDN="CST0VwTm0vSYI4q" performance="main" grossFee="-1628896546.91"
+                 modifier="C" IPI="SqtV" birthDate="2019-10-10Z"/>
+            <Participant name="iFPq1E2R-" role="scriptwriter" IPDN="O546FQHsCYisttfzsT" performance="supporting" grossFee="1985827418.54"
+                 modifier="C" IPI="gnex2wT5z6" birthDate="2019-01-14"/>
+            <Participant name="d" role="scriptwriter" IPDN="Ia3.PmRAU" performance="soloist" grossFee="1563190629.29" modifier="C"
+                 IPI="vwcJCNXyKS1y2hpmiE" birthDate="2019-03-12Z"/>
+            <Participant name="YEMqF" role="subscriptwriter" IPDN="N4O" performance="chorus master" grossFee="-168839906.06"
+                 modifier="B" IPI="qwIoqW9fBOjHrwyusIepyVp" birthDate="2019-07-05"/>
+            <Participant name="N.A2K9-GmMy.a-RVAcqc2ir" role="arranger" IPDN="ndqom.wColG.8oRMmKPU" performance="soloist" grossFee="17870404.50"
+                 modifier="C" IPI="I55_vYx" birthDate="2020-06-20"/>
+            <Participant name="QJ1z.H_7GhIlcT8pJVz" role="composer" IPDN="a1FJSAVGbxRDAv.Y76IlFqb" performance="main" grossFee="-464215693.19"
+                 modifier="B" IPI="r3uXJWcPOlfy4yHUWniHn0ul7FuR8H" birthDate="2019-04-01"/>
+            <Participant name="k_TMDpIW9n5Cx5zIE9ll_.36Vp" role="performer" IPDN="A-T.AvZeg38Io-f8pFLqwsDv564B" performance="chorus master"
+                 grossFee="1084079877.91" modifier="A" IPI="FDHfT1moZKhm" birthDate="2019-01-21Z"/>
+            <Participant name="L" role="scriptwriter" IPDN="OlGngZud0y3P" performance="conductor" grossFee="461010532.95" modifier="A"
+                 IPI="wSG" birthDate="2020-01-19Z"/>
+        </Participants>
+    </Record>
+    <Record title="KI-d9n7N_M1Wnpl" spins="1638136806" ISRC="J744Y22MVI57" year="9265" producer="YeHTbaTBi6XvYhfcF3pxP0Z__pGw"
+         label="D9fEP.aN_ixuUdC" recordNo="BEO" serialNumber="F" isPremiere="false" usage="broadcast"
+         ISWC="cUEAn8PGMwIFa.l5.sUogM" AKA="vwhLe" genre="jingle" broadcastedFrom="2019-08-10T11:21:16Z"
+         broadcastedTo="2019-05-17T11:21:16" runtime="1549833545" origin="commerce" alternativeTitle="mgCclnDuC.h"
+         recordedFootage="1847739068">
+        <Participants>
+            <Participant name="GdWkX" role="arranger" IPDN="UjSx41sbY590tYL62Yj5Co" performance="conductor" grossFee="-245513964.82"
+                 modifier="C" IPI="lerB.lQMG" birthDate="2019-10-01"/>
+            <Participant name="S2_TEF1eVg-vXpX" role="composer" IPDN="vHcLpb" performance="main" grossFee="302739716.42" modifier="B"
+                 IPI="xxeqqk4" birthDate="2018-11-04"/>
+            <Participant name="axF8w-1E3M" role="producer" IPDN="hPmUehx9PqkQ" performance="chorus master" grossFee="-1629230954.13"
+                 modifier="A" IPI="Qv" birthDate="2019-07-15"/>
+            <Participant name="uqn1znwb" role="subscriptwriter" IPDN="NR" performance="chorus master" grossFee="-1970091630.02"
+                 modifier="C" IPI="S" birthDate="2019-10-22Z"/>
+            <Participant name="q._pW0rTUQ4-K_RQbkdioaa.mNj9YS" role="sound engineer" IPDN="Q9-sg.plNfhaal5H4BMK" performance="conductor"
+                 grossFee="1333205968.55" modifier="C" IPI="ecHK-UC74KoCxXiLVzT77" birthDate="2018-10-08"/>
+            <Participant name="bv4n3YrRmXg0YEfiNNU9.TitqX4so" role="music director" IPDN="CKnzhzwO9lWqz6" performance="main"
+                 grossFee="-1653602046.27" modifier="C" IPI="FjrGVnK" birthDate="2020-01-25Z"/>
+            <Participant name="G06QXN" role="subscriptwriter" IPDN="V4v4" performance="main" grossFee="-777464652.43" modifier="A"
+                 IPI="nlcrD0M" birthDate="2018-11-18"/>
+            <Participant name="n9y49O" role="sound engineer" IPDN="JW0" performance="main" grossFee="135220884.52" modifier="C"
+                 IPI="nvXbHIJ76RL-yJRA.DwrtGlfVGrs9p" birthDate="2018-07-08"/>
+        </Participants>
+    </Record>
+    <Record title="Ja6e" spins="401674046" ISRC="X7AL710T6960" year="3694" producer="_ytC9pMZQnock.6zKliPEdVjpPDwgO"
+         label="cWjisH6ekg4CjY" recordNo="qyS1Y" serialNumber="z1z_knXXeyd5XbYonRwn" isPremiere="1" usage="commercial"
+         ISWC="x" AKA="wy1E" genre="pop" broadcastedFrom="2019-04-11T11:21:16Z" broadcastedTo="2019-04-02T11:21:16Z"
+         runtime="667802329" origin="commercial" alternativeTitle="zEZX" recordedFootage="884734073">
+        <Participants>
+            <Participant name="GF6gssDf.6NDmQQ-sxVnd-ls7L" role="performer" IPDN="x6QeGBUJ" performance="soloist" grossFee="554510120.93"
+                 modifier="B" IPI="Dtp" birthDate="2020-05-16"/>
+            <Participant name="Yde8LOSNh-YtkLBjj1GS_Ib" role="composer" IPDN="fJdUE" performance="conductor" grossFee="85234155.16"
+                 modifier="A" IPI="tYTt2I5lKJNACA" birthDate="2019-05-01"/>
+            <Participant name="TZe8IvX" role="composer" IPDN="Yf_vyE" performance="chorus master" grossFee="1933543673.99" modifier="B"
+                 IPI="vK0qr1gWtPYDxGAquFAn4LOdUZ" birthDate="2020-01-26Z"/>
+            <Participant name="D-nCZPRNaJ_r" role="music director" IPDN="mHGUs5s_DZmo" performance="chorus master" grossFee="-442859724.92"
+                 modifier="C" IPI="tMqdkTxemv.rj5WjWHj7DfoCz" birthDate="2019-09-30Z"/>
+            <Participant name="oY8xzM410yFakDDqLBm7Jn5r9b" role="sound engineer" IPDN="J43tfKb" performance="chorus master" grossFee="-95341868.64"
+                 modifier="A" IPI="i" birthDate="2019-10-29Z"/>
+            <Participant name="QSC6gJd-iZgV8GTdSXRCRWhfs" role="composer" IPDN="C6b7IHAKa" performance="soloist" grossFee="-1155000592.34"
+                 modifier="A" IPI="G1bv5zo0iht2CP0FIo17wFX.1kgN" birthDate="2019-07-18"/>
+            <Participant name="MKXWIn0l5.b6GDDPDtggIe0-.X" role="producer" IPDN="YTiHdZXS_10yuwNKkd" performance="main" grossFee="-1285644612.18"
+                 modifier="A" IPI="d" birthDate="2019-01-26Z"/>
+            <Participant name="FoKYe0R2s7zAiQ20an987fJomXZv" role="music director" IPDN="wl1AS8HQ9j7EXTa" performance="soloist"
+                 grossFee="1820438577.20" modifier="A" IPI="bKG4TTKFVjelIleNEwKnhhaqqdSowO" birthDate="2018-10-28Z"/>
+        </Participants>
+    </Record>
+    <Record title="x" spins="238976259" ISRC="0Q4W55B0I331" year="3144" producer="RBjfSdPHn-k6q" label="bOH6B" recordNo="Hs-XWC8853XIzY0cw6hTU2-JX"
+         serialNumber="n" isPremiere="0" usage="broadcast" ISWC="c1" AKA="k1sqzoJ48cg4.feK54_" genre="jingle"
+         broadcastedFrom="2019-07-17T11:21:16" broadcastedTo="2019-11-09T11:21:16" runtime="985683316"
+         origin="self" alternativeTitle="drzfZi5UVsPRhMFozWi9ARs" recordedFootage="980001438">
+        <Participants>
+            <Participant name="isMN.5iccmrji1MH6ZlQTmoTv2RU" role="sound engineer" IPDN="u-2KmcH23ZS.wtsuM" performance="main"
+                 grossFee="1345757033.90" modifier="A" IPI="PVIWeRGd8U7.qZWIOfAWMfiMfmRQEy" birthDate="2020-06-18Z"/>
+            <Participant name="mx" role="performer" IPDN="G5JhSMSgilAXxChF8Qr8j1fvI79d44" performance="soloist" grossFee="689211798.60"
+                 modifier="C" IPI="o2R6Vu" birthDate="2019-05-14"/>
+            <Participant name="B" role="producer" IPDN="KKxCe1xWwbEi.vaw7NxP" performance="conductor" grossFee="1230366176.65"
+                 modifier="C" IPI="OiD8bu.k0" birthDate="2019-11-08"/>
+            <Participant name="Y" role="music director" IPDN="auql4O9AJsRnNEyOoy" performance="supporting" grossFee="1962891510.43"
+                 modifier="C" IPI="H" birthDate="2020-04-07Z"/>
+            <Participant name="alfm4EacW81P9vUKuEPEnVPcXSj" role="subscriptwriter" IPDN="PBvQEp71_ZPx" performance="main" grossFee="1309523918.43"
+                 modifier="B" IPI="TREmMv9Ie" birthDate="2019-03-10"/>
+            <Participant name="oolu2hB.uAS-1NmlXXc" role="remixer" IPDN="apsUyHhk" performance="conductor" grossFee="895083320.57"
+                 modifier="B" IPI="ikwZpOuz-hmq00AQqLMB3Pqwu1zQ" birthDate="2019-01-02"/>
+            <Participant name="DYl.mEW5t.H4" role="composer" IPDN="yX6AC5HY-Os.8JxfEcnDqiDrvKWz" performance="soloist" grossFee="-1796167083.41"
+                 modifier="B" IPI="oce1ivsIywy9FTF" birthDate="2019-08-25"/>
+            <Participant name="pIgz38lfsXyTIxF.Kxx6G" role="performer" IPDN="ozT0SIuWXk" performance="soloist" grossFee="1087596107.66"
+                 modifier="A" IPI="m3VDcNIM7LrGz4wqGQYxr7-oFt" birthDate="2019-04-16"/>
+        </Participants>
+    </Record>
+    <Record title="NEXKl" spins="577511998" ISRC="86V819KB1P83" year="6415" producer="fZN3TduGFfbu8Qu" label="rVy-G"
+         recordNo="qG1LSr__NgdLtsBM2FLHMwEh" serialNumber="zgu-GiTRxnmr_3Hy7EA" isPremiere="false" usage="commercial"
+         ISWC="z1FMSeWyHb." AKA="TcNrWRpJo_3" genre="jingle" broadcastedFrom="2019-01-21T11:21:16" broadcastedTo="2018-10-14T11:21:16"
+         runtime="263651301" origin="recorded stream" alternativeTitle="E61X5SWkOA" recordedFootage="506709988">
+        <Participants>
+            <Participant name="tIZhRuKpU.0LtAqaM7-p-KXwECKqy" role="performer" IPDN="BfDPcEuWbfg-op.Ok9Wxy" performance="main"
+                 grossFee="2000585302.13" modifier="A" IPI="ELmmKbf" birthDate="2018-10-13"/>
+            <Participant name="ciYNpWXnxgaqT3-I.6j33BRSPZbRZ" role="sound engineer" IPDN="Q" performance="chorus master" grossFee="-570525131.55"
+                 modifier="A" IPI="am69B-6X4pAZek" birthDate="2019-06-14"/>
+            <Participant name="UB0DdPM6XxGQmkzpB2KpX" role="scriptwriter" IPDN="l4Vy356FQQqXljn4qrR_gzysyo" performance="conductor"
+                 grossFee="1873177358.08" modifier="C" IPI="YL3RgJ1l1uA" birthDate="2018-10-06"/>
+            <Participant name="aBP" role="remixer" IPDN="OTareogDw8mv-WQJIix4pOL53ZqTW" performance="main" grossFee="-1604900976.30"
+                 modifier="B" IPI="RffTwUoEAbsZ3Dq" birthDate="2019-06-19Z"/>
+            <Participant name="rWwZO6NC" role="music director" IPDN="d6TptqOp1XFa1S.yw-3CURJnd57Y" performance="main" grossFee="1068851516.37"
+                 modifier="B" IPI="d4" birthDate="2019-04-29"/>
+            <Participant name="KZ" role="performer" IPDN="uXYkNVMI" performance="main" grossFee="-1220868947.48" modifier="A"
+                 IPI="yKuHKJlhQM4LSAvLO.b8_RKMEhuu" birthDate="2018-10-21Z"/>
+            <Participant name="a-H0Xl9B1erOMNkWqjVisn" role="remixer" IPDN="NxqM" performance="conductor" grossFee="1813018157.32"
+                 modifier="B" IPI="Yt7TH7kbJ1kM2C5iGv1wH" birthDate="2019-11-27"/>
+            <Participant name="AEbXAF28j8" role="arranger" IPDN="Nz3lSViI3gywC916Mi" performance="conductor" grossFee="-1834388978.44"
+                 modifier="B" IPI="MYu" birthDate="2019-12-11"/>
+        </Participants>
+    </Record>
+    <Record title="_Wzn" spins="1511262653" ISRC="VO4AC8NK1KDV" year="2434" producer="bb-XWFFb-k_gUrnhMKzuNv5_S6"
+         label="zP" recordNo="lHrDZg_Fd-R52A" serialNumber="bpclDll1pG1RqowO6ENGFLhc" isPremiere="false"
+         usage="jingle" ISWC="bo1qUzrV_Z6x4SMDri" AKA="AaaUjO81DavV41BSWERT4cqW7_dY1" genre="jingle"
+         broadcastedFrom="2020-02-25T11:21:16Z" broadcastedTo="2019-05-03T11:21:16Z" runtime="854452749"
+         origin="commerce" alternativeTitle="MhR0I" recordedFootage="1915493014">
+        <Participants>
+            <Participant name="M.Z8iAvIMDemFnlSJ4UT4x5MWg" role="scriptwriter" IPDN="O" performance="supporting" grossFee="-1952777169.65"
+                 modifier="B" IPI="NQOOV0qgtY8fKqx" birthDate="2019-05-24Z"/>
+            <Participant name="fopg76kTeqs0X" role="performer" IPDN="E7MfB2Muwe14oVOb8_FOgJtQQckqsx" performance="soloist" grossFee="1063951497.96"
+                 modifier="A" IPI="_IVQMgVjK97EzdtHK_J" birthDate="2020-01-21Z"/>
+            <Participant name="ySF224m9n3d.Tv9gP1QpCYbx7RBa" role="remixer" IPDN="UOHF" performance="main" grossFee="1051909400.25"
+                 modifier="C" IPI="BEk9GXEBFVmH.jl3S" birthDate="2019-02-03"/>
+            <Participant name="Ur0AHT6" role="producer" IPDN="Ql" performance="conductor" grossFee="675712721.52" modifier="A"
+                 IPI="jR7-0il" birthDate="2019-08-29"/>
+            <Participant name="j" role="composer" IPDN="weAqVAX5kthXezIFpX0i.FUKQ2N" performance="conductor" grossFee="-757695409.63"
+                 modifier="B" IPI="cl" birthDate="2019-04-08"/>
+            <Participant name="WkOA" role="sound engineer" IPDN="yEI832bLHMh8KpfRcA" performance="main" grossFee="-884816038.24"
+                 modifier="B" IPI="M8zZ1nsPZKYMM4F49QkicFdT." birthDate="2019-02-04Z"/>
+            <Participant name="L4u" role="sound engineer" IPDN="RvIAS" performance="main" grossFee="712728806.76" modifier="A"
+                 IPI="TdDhKrqu0veW7xPaauQv" birthDate="2019-01-26Z"/>
+            <Participant name="k5S" role="producer" IPDN="XhU-WIqnglu6DSUDWLeKaHmqDl4x1" performance="main" grossFee="855693587.83"
+                 modifier="B" IPI="N2u3jUSEIp3Z" birthDate="2020-05-05"/>
+        </Participants>
+    </Record>
+    <Record title="wrAR5rH" spins="1715468157" ISRC="21M3U8599229" year="4477" producer="S79fmw2IdW28" label="uU0xpYD6d6xJag1a"
+         recordNo="W3K0_9Q-LfPc3BgLrpcm" serialNumber="jc9bdcxCnUwOHYS.vS2UlCzzRsoh" isPremiere="true"
+         usage="jingle" ISWC="fSjViJvcXgap6b3" AKA="tszhVIQFNRsjCQFzq7HrjjQFT" genre="pop" broadcastedFrom="2018-12-11T11:21:16"
+         broadcastedTo="2019-10-25T11:21:16Z" runtime="1927179062" origin="live broadcasting" alternativeTitle="hZZsbSi"
+         recordedFootage="602080583">
+        <Participants>
+            <Participant name="Ug05vRnkLaz" role="performer" IPDN="NzBOmAAlnJMNQ" performance="soloist" grossFee="-658867373.91"
+                 modifier="C" IPI="w_yjVHutxjCjs9XIpYfdvmxbE" birthDate="2018-09-08Z"/>
+            <Participant name="xiStg05" role="subscriptwriter" IPDN="h7.cxgDh9dPZk" performance="main" grossFee="1404807356.04"
+                 modifier="A" IPI="c0Mf" birthDate="2020-06-17Z"/>
+            <Participant name="YL0f7QqnRsl-ziywJ99Rk77E4qDlv" role="composer" IPDN="m8p0.3EGnZBRSa5" performance="main" grossFee="489512791.90"
+                 modifier="B" IPI="DTh-IeCBudFz" birthDate="2018-07-28Z"/>
+            <Participant name="ewF5liBo.cteDErJshJ_" role="scriptwriter" IPDN="D51rCGQ3-PUl3zxTl5_" performance="soloist" grossFee="-1908208535.65"
+                 modifier="B" IPI="V5w_rbslAL.6UWBcjGadwNH0" birthDate="2018-11-06Z"/>
+            <Participant name="MZQBKz" role="performer" IPDN="Qw2mn69ai1vNveMQJFCsTRWq8" performance="supporting" grossFee="1665371934.79"
+                 modifier="A" IPI="huRMlmD3a.x7p7ACp8" birthDate="2020-01-05Z"/>
+            <Participant name="Gn3EQjq3pCHs" role="arranger" IPDN="zuWm" performance="supporting" grossFee="1377469274.13" modifier="A"
+                 IPI="AhlZUuTh0B0" birthDate="2020-04-20Z"/>
+            <Participant name="CAFbbx2vcwhlAWt" role="performer" IPDN="GiKv8c9oZ-munlCfOuusxrcvHTqH" performance="soloist" grossFee="-2012366597.15"
+                 modifier="C" IPI="S0pnOnU5qXKw0ac-hD.UV6TxU..nm8" birthDate="2019-07-04"/>
+            <Participant name="M0VboprjGrGmn6vzk9VH" role="subscriptwriter" IPDN="OlJpaoOyxHZbGm8fX8pxNAFLGQ0Fo" performance="soloist"
+                 grossFee="-964885155.30" modifier="C" IPI="fvvnNm6NjPXu1Y5PvZ-oK8Lg" birthDate="2018-09-30Z"/>
+        </Participants>
+    </Record>
+    <Record title="DQYc-LxguyAQ3n" spins="703608484" ISRC="81F33EL54TSH" year="4105" producer="tKwGpc7" label="OhmtGzFRkflq3a"
+         recordNo="sljmRcKw7KbMgLLfP4wop4" serialNumber="H25DbEbvxDLqKaAlsERbr" isPremiere="true" usage="jingle"
+         ISWC="q3AgzgifsavNs27_Lh" AKA="y1nHD4ce3Crnci" genre="classical" broadcastedFrom="2019-01-30T11:21:16"
+         broadcastedTo="2020-02-05T11:21:16Z" runtime="1272299534" origin="live stream" alternativeTitle="Fd9F0bWCEXJ0aAaTS4JUWgpykVesh"
+         recordedFootage="615938780">
+        <Participants>
+            <Participant name="xreF32jv" role="producer" IPDN="Hk5uWBu" performance="soloist" grossFee="1523179821.18" modifier="B"
+                 IPI="EmZZx8gOR8GuqX-fgJbGPmaMQ-" birthDate="2020-02-08Z"/>
+            <Participant name="p.gUv0wP" role="arranger" IPDN="pAxks_A7rvLfx7-jGBdjAKRQt6" performance="main" grossFee="-248782911.57"
+                 modifier="A" IPI="iaObnMk.S5RHobKwB81v7." birthDate="2018-10-06"/>
+            <Participant name="dLyrXcQiZQ9AtHM" role="sound engineer" IPDN="yB9ZKu3" performance="soloist" grossFee="-432180827.49"
+                 modifier="B" IPI="FT1xGraRGfFw29Jk.ruP4LjQPQ" birthDate="2020-01-17"/>
+            <Participant name="V" role="sound engineer" IPDN="jUnxCvFke" performance="supporting" grossFee="-635954062.37" modifier="C"
+                 IPI="He" birthDate="2019-06-18"/>
+            <Participant name="wNfoR7ctDQLZmjQGi1SUixq3I" role="sound engineer" IPDN="Kbpj1ZsAbt7o" performance="supporting"
+                 grossFee="1189245745.14" modifier="A" IPI="Z_EWoFH4cUbTvyD" birthDate="2019-04-06"/>
+            <Participant name="mxX-M9RvS20_S" role="scriptwriter" IPDN="y" performance="conductor" grossFee="430832458.10" modifier="B"
+                 IPI="MF4yMmEj7oAFxglEaFt.ELOr." birthDate="2019-06-02Z"/>
+            <Participant name="n4YONN041" role="scriptwriter" IPDN="Ju1RHAlaXwml3mS" performance="supporting" grossFee="1494134952.43"
+                 modifier="A" IPI="IQbSSTuMqG0V5" birthDate="2018-12-13"/>
+            <Participant name="m" role="music director" IPDN="V0" performance="supporting" grossFee="-1095879382.39" modifier="B"
+                 IPI="G-4" birthDate="2020-05-14"/>
+        </Participants>
+    </Record>
+    <Simulcasting from="2020-02-09T11:21:16Z" to="2019-06-13T11:21:16Z" station="MExRapqtI4HkHP.M74V9hNpN1v"/>
+    <Simulcasting from="2020-01-31T11:21:16Z" to="2020-04-15T11:21:16" station="gnISj1iL6wF0ptoaNQj.Eg"/>
+    <Simulcasting from="2019-06-15T11:21:16" to="2020-05-11T11:21:16Z" station="ybC2q2hKC0hNg2H5yFJlC"/>
+    <Simulcasting from="2020-03-19T11:21:16Z" to="2019-12-24T11:21:16" station="BTjigN5IUn"/>
+    <Simulcasting from="2018-12-18T11:21:16Z" to="2020-05-05T11:21:16" station="BBa4c3pNz"/>
+    <Simulcasting from="2020-04-09T11:21:16Z" to="2019-05-08T11:21:16" station="OyL5tc6_BdO4jn"/>
+    <Simulcasting from="2019-01-28T11:21:16" to="2019-07-19T11:21:16Z" station="w2f.xpeSmE2"/>
+    <Simulcasting from="2018-10-15T11:21:16" to="2019-08-01T11:21:16" station="O-B9oKlZr5p"/>
+    <Record title="zwmEyUZ-NaCDejR" spins="1340741124" ISRC="R0FVWPZ9T40I" year="8964" producer="zUG7uDm" label="mP1_V"
+         recordNo="sXLxqlG3KaeQev6iVHZ7u" serialNumber="z0SC-M6pZhkRMjZG" isPremiere="1" usage="commercial"
+         ISWC="PMOSHPhy7wID5.GzK" AKA="i5ch72l" genre="jingle" broadcastedFrom="2019-02-09T11:21:16"
+         broadcastedTo="2019-04-04T11:21:16" runtime="980575844" origin="self" alternativeTitle="WA2usJM.cWQ8dKahMxylRo"
+         recordedFootage="1344633591">
+        <Participants>
+            <Participant name="Ltfnaa0IQeZHqE0mgIcfuq257Is" role="producer" IPDN="BfXeo63x2S7L" performance="supporting" grossFee="1397725662.91"
+                 modifier="A" IPI="_tDpNZFdFX3x7ojV.moW5s02" birthDate="2019-11-14Z"/>
+            <Participant name="jYmdjHtC8.WTaa.G5ATrZqHQ" role="performer" IPDN="CoaaPovlsdtn" performance="chorus master" grossFee="-2078862967.62"
+                 modifier="C" IPI="mhNoD1Jnt.GKmi5fLDu" birthDate="2018-07-14Z"/>
+            <Participant name="pBxySo.DmDBqOhZCm" role="producer" IPDN="PJOhVBmWdOIa_O" performance="main" grossFee="-1045098615.43"
+                 modifier="B" IPI="iARFbmKz__U5eb8oH_" birthDate="2018-12-17Z"/>
+            <Participant name="pbYzu1" role="remixer" IPDN="HAv" performance="conductor" grossFee="1607134182.51" modifier="B"
+                 IPI="N.6MuD" birthDate="2019-11-04"/>
+            <Participant name="JQQdb2" role="composer" IPDN="BpYZBIdbZVZxcRjd0V6nBEmq3Cc_6" performance="chorus master" grossFee="25331836.38"
+                 modifier="A" IPI="r5uuyrplk4" birthDate="2020-03-21"/>
+            <Participant name="YHld.d5dl" role="producer" IPDN="quSepQtQUTU._3.j" performance="chorus master" grossFee="659385444.15"
+                 modifier="C" IPI="W.nm6" birthDate="2019-12-01"/>
+            <Participant name="zc_Imi3sLHr7s2qh5" role="performer" IPDN="d0J" performance="soloist" grossFee="-406897584.46"
+                 modifier="C" IPI="GtgYZ" birthDate="2020-02-22Z"/>
+            <Participant name="zlo" role="subscriptwriter" IPDN="Z72MrviHxKcWcyh7l.K" performance="supporting" grossFee="-428940483.10"
+                 modifier="C" IPI="hS1m" birthDate="2018-12-10Z"/>
+        </Participants>
+    </Record>
+    <Record title="RY.tm.3xD60MTk" spins="1636312469" ISRC="0ENQ93DXHDGG" year="0800" producer="mj0Ce04L" label="yu"
+         recordNo="K6B3u6.d6tp" serialNumber="_jdS0X9FfRxq" isPremiere="1" usage="broadcast" ISWC="fB"
+         AKA="rDI" genre="jingle" broadcastedFrom="2020-02-20T11:21:16Z" broadcastedTo="2019-12-29T11:21:16"
+         runtime="13302573" origin="live stream" alternativeTitle="po8khFWT_J-h9yKh.M-Sqj93DE06xQ" recordedFootage="962069259">
+        <Participants>
+            <Participant name="bZc" role="subscriptwriter" IPDN="vHz6WcWgtE.uIla438" performance="chorus master" grossFee="-1970543135.05"
+                 modifier="B" IPI="dPyoIyWV0e" birthDate="2019-01-24"/>
+            <Participant name="rRo" role="remixer" IPDN="B8XjQEAZNImnPcAJiCF_" performance="soloist" grossFee="-1726413446.61"
+                 modifier="B" IPI="J0" birthDate="2018-09-24"/>
+            <Participant name="dFWbw" role="performer" IPDN="BNkWfBB.pUIX" performance="conductor" grossFee="-955198287.64" modifier="A"
+                 IPI="fRB_OKN" birthDate="2019-07-07"/>
+            <Participant name="LQGpcnq2OUmNjOXvdiGmkWcM.Ufc" role="subscriptwriter" IPDN="LdjO4GadMjNiG1T" performance="conductor"
+                 grossFee="187369715.65" modifier="B" IPI="CrVqJZ-68RRXk-Fx4U2k1nkv-GkLNZ" birthDate="2020-05-21Z"/>
+            <Participant name="Vn" role="music director" IPDN="jalNZuRanFgD" performance="supporting" grossFee="-640719618.80"
+                 modifier="C" IPI="i7B11T14r" birthDate="2020-01-23Z"/>
+            <Participant name="Mozhhw1aBXpJq2GNbFH2l" role="music director" IPDN="z6x3sW" performance="supporting" grossFee="-469630560.73"
+                 modifier="B" IPI="j3Z76qtjXUAE" birthDate="2020-01-24"/>
+            <Participant name="N5qVsouMJ" role="remixer" IPDN="DYZwjD2NUsE7O-OAORvEga8y.N" performance="supporting" grossFee="2092685730.57"
+                 modifier="A" IPI="ud.oTUGj_2j749LF" birthDate="2018-07-24"/>
+            <Participant name="s.tcN3RXBed8TVLIKZ7qSvkk" role="remixer" IPDN="pELR8v.7vfu" performance="supporting" grossFee="-628927914.82"
+                 modifier="B" IPI="BcwS" birthDate="2018-08-20"/>
+        </Participants>
+    </Record>
+    <Record title="x8E1y9LHdn_xx7r2o1p" spins="629021333" ISRC="P3BHT9721N44" year="5368" producer="vsrg6-M1oK48ZNp02.m6dT"
+         label="BKaMB_" recordNo="jFpAZp_WvgYg4KTQwb6zTs" serialNumber="QC7Hgcbpv8p" isPremiere="0" usage="broadcast"
+         ISWC="Of3D" AKA="Wc2sutFMoOOA0iSzszPsl" genre="pop" broadcastedFrom="2020-02-09T11:21:16Z" broadcastedTo="2020-02-29T11:21:16"
+         runtime="563741364" origin="self" alternativeTitle="FGsfGjU5Ov7rWColU8aDq73rPID3r" recordedFootage="615823861">
+        <Participants>
+            <Participant name="CL9r" role="sound engineer" IPDN="Zx0CXsAdCmdZDycE3nO" performance="conductor" grossFee="1046027144.80"
+                 modifier="C" IPI="kywLF-6wuT5FlE4o4sKg-G" birthDate="2019-03-01Z"/>
+            <Participant name="Gkp1uXKnZpycic0-Xvp5mc" role="composer" IPDN="MgIc" performance="chorus master" grossFee="-1707835711.10"
+                 modifier="A" IPI="QFAszQb7nvJe_TfQIHgF." birthDate="2018-07-17Z"/>
+            <Participant name="cLC.38GSF" role="performer" IPDN="tyCszYoNyolF" performance="chorus master" grossFee="1780902724.51"
+                 modifier="A" IPI="SMeB9ciB0" birthDate="2018-12-12"/>
+            <Participant name="rdWEF0oxAVSRKxaj" role="subscriptwriter" IPDN="eB4M8MsTKT" performance="soloist" grossFee="1800656245.54"
+                 modifier="C" IPI="JVeWCQT" birthDate="2018-12-01Z"/>
+            <Participant name="UAxz4JhSey0lvVjZ5vLwzD" role="remixer" IPDN="_EOEp-Gq" performance="conductor" grossFee="1556390833.21"
+                 modifier="B" IPI="sGFBdZ" birthDate="2019-07-12Z"/>
+            <Participant name="UhyopmRVJc5S" role="producer" IPDN="k3" performance="chorus master" grossFee="-1578418294.69"
+                 modifier="B" IPI="KpYg" birthDate="2019-08-09"/>
+            <Participant name="I-1j6sWd" role="arranger" IPDN="kBd" performance="conductor" grossFee="970247390.92" modifier="A"
+                 IPI="GKisJVR4.EOhkiTo8A1H-UF" birthDate="2019-01-05Z"/>
+            <Participant name="kuWBePtRGz15hFoC1jv" role="arranger" IPDN="rZso43ZRYb9uX" performance="supporting" grossFee="1718185744.36"
+                 modifier="B" IPI="M6DGnOlXr_" birthDate="2019-06-17Z"/>
+        </Participants>
+    </Record>
+    <Record title="ukB2hxCuLuYFgRege280lXlO3" spins="241241239" ISRC="946S0F39048A" year="1140" producer="RAh212fwHOxuPsjilMTWRIcl72Sw8a"
+         label="_Uo6-K0J" recordNo="oEFLf" serialNumber="zea1Z__b-BhTuxi408_ckHUaoR4yz" isPremiere="0"
+         usage="broadcast" ISWC="hDN7Q" AKA="e" genre="classical" broadcastedFrom="2019-09-11T11:21:16Z"
+         broadcastedTo="2018-10-01T11:21:16" runtime="1804944262" origin="live stream" alternativeTitle="GrATdWoEudYZpzRgnFSd_VLmRsn"
+         recordedFootage="863855146">
+        <Participants>
+            <Participant name="zzG_6yZr19fs" role="remixer" IPDN="FOZ-3sCoA7" performance="main" grossFee="-841728828.36" modifier="A"
+                 IPI="U5C3Cpvxo5OaOa" birthDate="2019-09-12"/>
+            <Participant name="gJnWSfS_X0bNuA" role="remixer" IPDN="RPnGg" performance="supporting" grossFee="500166706.21" modifier="C"
+                 IPI="srFJbX7c6W" birthDate="2018-12-14"/>
+            <Participant name="VJf4U6kwOD6e3WE6v.2d9AtOi" role="remixer" IPDN="x2kh..FUb4eKNorFZ6eWMpugDhbvT" performance="supporting"
+                 grossFee="1377827312.14" modifier="C" IPI="gF" birthDate="2019-12-06Z"/>
+            <Participant name="uG.ea3DYKGPR1nvFNqR2P" role="music director" IPDN="faZ7Rcz4m6atWPxWTh8U" performance="chorus master"
+                 grossFee="-248526686.03" modifier="B" IPI="A3wXJma-hvS" birthDate="2020-02-03Z"/>
+            <Participant name="VU7hdjkE25bMKNATzNAL1UAc_.KI" role="scriptwriter" IPDN="INEuu9" performance="main" grossFee="97977159.98"
+                 modifier="B" IPI="Lq3M23R6IT01RnSvF" birthDate="2018-12-09Z"/>
+            <Participant name="CULnFtiQne3JhxQ1K1PFe" role="arranger" IPDN="z0uriC.p-4ejjGTAdZpQMd8I1J6ux9" performance="main"
+                 grossFee="-1918608516.39" modifier="B" IPI="QOceBilG57491" birthDate="2020-04-25Z"/>
+            <Participant name="iL2q70" role="performer" IPDN="kH5dRRN.GxFLy" performance="soloist" grossFee="-1646682792.49"
+                 modifier="C" IPI="bNlf-B-NgV_hKBh" birthDate="2019-12-02"/>
+            <Participant name="Mseq_UuSr40" role="sound engineer" IPDN="uj2wq" performance="chorus master" grossFee="-1899247283.33"
+                 modifier="C" IPI="y2v" birthDate="2019-02-07Z"/>
+        </Participants>
+    </Record>
+    <Record title="ZrjUGDuA0bvCjfsEqr" spins="746307967" ISRC="D160EMMZV5J0" year="7613" producer="U3fH3Ll6IseEfXw2Wo9xxDaO8"
+         label="KK7gZx-VC-D-xfjUYHevqSO" recordNo="kavfQTMD4" serialNumber="A_Wj1b3ketE3bD" isPremiere="1"
+         usage="commercial" ISWC="WCFd" AKA="sjTXpbKq" genre="spoken word" broadcastedFrom="2018-10-06T11:21:16"
+         broadcastedTo="2019-04-27T11:21:16Z" runtime="750883978" origin="recorded stream" alternativeTitle="SD9xL"
+         recordedFootage="678875994">
+        <Participants>
+            <Participant name="elOlSfPQbDxmViNT" role="remixer" IPDN="fI9" performance="conductor" grossFee="-1574992366.86"
+                 modifier="A" IPI="qZ-1609" birthDate="2019-06-01"/>
+            <Participant name="H-wuANHu.6aQZrH9q0S8DqMB7BALL" role="performer" IPDN="_2Ouw1fPXewSXW8p6p5x" performance="chorus master"
+                 grossFee="247139717.58" modifier="A" IPI="MAtFuNquWqXiZQ9dx" birthDate="2019-07-29Z"/>
+            <Participant name="ji-qkFWH4" role="composer" IPDN="p" performance="supporting" grossFee="359663242.10" modifier="A"
+                 IPI="Mi-5dc5aVnogjoNM_nTZ5fp8HHcnK" birthDate="2018-10-06Z"/>
+            <Participant name="kYuR820U6Ecy.4E" role="producer" IPDN="UQW9EXJoh" performance="main" grossFee="724159936.74" modifier="B"
+                 IPI="sSj4mj2RwQU_d" birthDate="2018-12-01Z"/>
+            <Participant name="lHP" role="arranger" IPDN="a1G3" performance="conductor" grossFee="-599555379.41" modifier="C"
+                 IPI="nfskojbA3xsyiU3_bWTyx4w4K" birthDate="2019-08-14Z"/>
+            <Participant name="SPYnz_hQz" role="subscriptwriter" IPDN="Fi" performance="chorus master" grossFee="547686484.46"
+                 modifier="B" IPI="A7QqWxgkPma8L_o2VMdXqh3" birthDate="2020-04-25"/>
+            <Participant name="pFrgYM_tEqf9o2" role="producer" IPDN="kNJyyj1pWfxp.H6J" performance="conductor" grossFee="-625750265.00"
+                 modifier="A" IPI="y2u9Ij" birthDate="2020-05-04"/>
+            <Participant name="f01Rlz0pKoI0l..losIBy1" role="music director" IPDN="_83dMPonZwqlzct2CM" performance="conductor"
+                 grossFee="-1484754718.90" modifier="A" IPI="A" birthDate="2019-08-05"/>
+        </Participants>
+    </Record>
+    <Record title="QE4ErB6vrFqrdX50ItaRi4BId" spins="2047081306" ISRC="4Z7Q57199O44" year="8651" producer="LKSyt"
+         label="Up.-44Jj.13o4wfu" recordNo="fvL4Pocn78KBG4" serialNumber="Sip" isPremiere="1" usage="broadcast"
+         ISWC="PO7yllVR8fkSz" AKA="Y7IG5gq" genre="classical" broadcastedFrom="2018-11-26T11:21:16Z"
+         broadcastedTo="2020-02-07T11:21:16Z" runtime="1374611282" origin="free usage" alternativeTitle="HG"
+         recordedFootage="73950763">
+        <Participants>
+            <Participant name="zbx" role="music director" IPDN="v2U-S" performance="conductor" grossFee="-508295578.08" modifier="C"
+                 IPI="XQYY9QOocLV7MzmjCgn1fVT1Z" birthDate="2020-04-12Z"/>
+            <Participant name="PrCUZEXGpo1NXPSRdqA0" role="performer" IPDN="FA5unwjLAc.2In6xnA2g5mf" performance="conductor"
+                 grossFee="1635524905.11" modifier="C" IPI="ZD.gGaggYeOh.yji6eG.C8" birthDate="2019-12-01"/>
+            <Participant name="yqzgFgiohwnzhVYOVlU3-_" role="remixer" IPDN="cOeV2qyj0WHV5pusTcRnYB2Nn.TP4Q" performance="conductor"
+                 grossFee="769457480.83" modifier="C" IPI="aMZCFqWBD" birthDate="2019-04-26"/>
+            <Participant name="C8eHjHAPR-r" role="scriptwriter" IPDN="ebp9F9luGEw7yNcaV.k5RN_Xr" performance="main" grossFee="149840893.96"
+                 modifier="C" IPI="MKgCeWrOcyns" birthDate="2018-07-17Z"/>
+            <Participant name="j4zncnig149_QU" role="subscriptwriter" IPDN="tyfZhGbM0lmj96" performance="soloist" grossFee="561896950.78"
+                 modifier="C" IPI="ts" birthDate="2020-01-02Z"/>
+            <Participant name="zz7ZH1cNeixUcGLtEMujV4PiVEEf" role="arranger" IPDN="G599CVVE1Snb4hcjAP" performance="conductor"
+                 grossFee="1348752551.96" modifier="B" IPI="X8njKC3jCw4ye9KeBeD2A" birthDate="2018-12-05Z"/>
+            <Participant name="zjuYnMU0HRqaz7gJ80CKd8ZhqEt" role="scriptwriter" IPDN="sGAEm6EK2jAMdjHYewvl9e.He2-A." performance="supporting"
+                 grossFee="1979209811.89" modifier="A" IPI="xmpOhJj5eaGjWDRtpvZ" birthDate="2019-08-04Z"/>
+            <Participant name="HGPQKCOw" role="sound engineer" IPDN="NR78DQ-v3E-q6-igWhvHuE6Cx" performance="supporting" grossFee="-234774872.82"
+                 modifier="A" IPI="WRYxYYwPyZais" birthDate="2019-09-17Z"/>
+        </Participants>
+    </Record>
+    <Record title="Q87lbOBOzY3aSF-kmw" spins="1988338461" ISRC="6Q7R1I434D36" year="7894" producer="d4Nl6G2las6L8YjAoWp9W2"
+         label="PZR218e30drfhcqkBjkwGNNgUsD8lZ" recordNo="XdjKSUpN" serialNumber="mHarOgjDLLWjXoa2oeEXz8lNZ"
+         isPremiere="false" usage="jingle" ISWC="y22aNLH1AkgI1T8jR26C" AKA="V8Vpjv90oF-hELZRSNB" genre="composed"
+         broadcastedFrom="2018-09-25T11:21:16" broadcastedTo="2018-11-17T11:21:16Z" runtime="199549487"
+         origin="recorded stream" alternativeTitle="e6B7jPyXHHS1G2V" recordedFootage="1010181719">
+        <Participants>
+            <Participant name="gKgGvC" role="arranger" IPDN="_i.IKtgVPeGAJ54DyMj" performance="supporting" grossFee="2064431514.84"
+                 modifier="B" IPI="xqGe-BY7iiWN" birthDate="2019-08-04"/>
+            <Participant name="QC.bYsVy13" role="producer" IPDN="xu1mF2U4FqNuuJJgKm" performance="conductor" grossFee="-1695261665.94"
+                 modifier="A" IPI="e0tiBqo" birthDate="2018-09-05Z"/>
+            <Participant name="d97klVhpi-.1nfrkEc" role="music director" IPDN="pEyei9N0W9xsT6r_2I" performance="conductor" grossFee="-762605215.87"
+                 modifier="A" IPI="J4nvhuzNr.jCYx9z" birthDate="2019-08-27"/>
+            <Participant name="GeV-" role="arranger" IPDN="H1VrDolZilWrBQ48nbk0Kr9W9T" performance="conductor" grossFee="-1607991428.40"
+                 modifier="A" IPI="VpG8swZjutMcK" birthDate="2019-08-14"/>
+            <Participant name="HCOr3" role="music director" IPDN="sqTZX00johqp" performance="supporting" grossFee="173327309.04"
+                 modifier="A" IPI="L5Qw4McJ7UYU5kyvG" birthDate="2018-11-20"/>
+            <Participant name="SeI1tLemSDlU1dGc1J522Iv" role="performer" IPDN="t" performance="conductor" grossFee="2142547346.96"
+                 modifier="A" IPI="e9O_59.Tg1" birthDate="2018-11-15Z"/>
+            <Participant name="US_w2Bm1iyoSYrgcB0vZMuUjN-b7" role="producer" IPDN="N-CiBxAj0nUaJxMxskq" performance="soloist"
+                 grossFee="-865440311.08" modifier="B" IPI="H1TNY9EGL0" birthDate="2019-09-17Z"/>
+            <Participant name="P-0o9At9Yk2z0mO6_26Gt6pJp_Lz" role="arranger" IPDN="AMgoFN4oP" performance="supporting" grossFee="1776481403.87"
+                 modifier="B" IPI="HG3S4sgyWp" birthDate="2019-03-25"/>
+        </Participants>
+    </Record>
+    <Record title="YYCC7" spins="2128727718" ISRC="3L1SL4TNXGN8" year="5517" producer="rT6ypnLY" label="wXz5AoTX8f4a4lz"
+         recordNo="hM2u7wSq6wOxMWqYPskV4w57" serialNumber="Bfn8Q7" isPremiere="0" usage="commercial"
+         ISWC="visJrNLpL_" AKA="N2TP1lW7EMtWHxbUfEBLmrLGI" genre="pop" broadcastedFrom="2018-10-18T11:21:16"
+         broadcastedTo="2019-07-16T11:21:16" runtime="1347147586" origin="free usage" alternativeTitle="sj0nPyTuIG9b_QVyu"
+         recordedFootage="2084802727">
+        <Participants>
+            <Participant name="BriYkMzuqEMD" role="producer" IPDN="dKYBSfnLwML" performance="soloist" grossFee="2139906191.35"
+                 modifier="A" IPI="CtovMJ" birthDate="2018-09-17Z"/>
+            <Participant name="QYALDsy1JVvE0joWFNL8ZaEkpT1lg" role="music director" IPDN="UGwSIsUkeD6dBkkGvX6hnzL8embm" performance="conductor"
+                 grossFee="-357596763.91" modifier="C" IPI="u.ne1WwRqQO.mi-6Jn0" birthDate="2020-06-21"/>
+            <Participant name="YoGs9xOZqUGIg3w2bpdBRE" role="sound engineer" IPDN="iyZbaHwnNEMoaG35-B7PUZejkdnoV" performance="chorus master"
+                 grossFee="-1488067100.97" modifier="C" IPI="PmC_q" birthDate="2018-08-24"/>
+            <Participant name="q" role="music director" IPDN="u-OrA7mdaT5b" performance="supporting" grossFee="1484607405.57"
+                 modifier="C" IPI="yk7jPr73tHiPSqFut_US." birthDate="2018-07-04Z"/>
+            <Participant name="iI_6.1zdm" role="producer" IPDN="lwPU9nB0gZ7y6oFiTYBNxOyYThUvpb" performance="soloist" grossFee="1654602856.38"
+                 modifier="B" IPI="ALGGJ8IoApIb3v" birthDate="2019-10-06Z"/>
+            <Participant name="XSg-Fukg3Ib77rtwEbIel2toY" role="music director" IPDN="cgtQs3pBJ0_LIqA" performance="soloist"
+                 grossFee="924356671.99" modifier="A" IPI="o00xU3HS5es0.0mo90iRw6OFh7Raap" birthDate="2018-12-07Z"/>
+            <Participant name="gBpAKaQNfgFjhl" role="composer" IPDN="bu9CPJfaStgNJ.95" performance="chorus master" grossFee="-1767624702.34"
+                 modifier="B" IPI="WIQQlSBNAR8x8t5rDWQN" birthDate="2019-03-21Z"/>
+            <Participant name="VEQIVI4QD9Z8ZrfJ4b6iicr" role="sound engineer" IPDN="DnD_yE42.wYbc-t6y" performance="main" grossFee="754938243.11"
+                 modifier="A" IPI="bgr.9VCDxgP1Oy6veCGlBPTAkG" birthDate="2020-05-05Z"/>
+        </Participants>
+    </Record>
+    <Simulcasting from="2019-12-24T11:21:16Z" to="2020-02-18T11:21:16" station="_g3op"/>
+    <Simulcasting from="2019-06-18T11:21:16" to="2019-12-18T11:21:16Z" station="ntofc06KNAk4PLaMrSx"/>
+    <Simulcasting from="2019-03-11T11:21:16" to="2020-06-22T11:21:16Z" station="od-mLcihvKBkCa5paexeFWux-"/>
+    <Simulcasting from="2019-06-01T11:21:16Z" to="2019-08-27T11:21:16Z" station="le2F_dxzR-"/>
+    <Simulcasting from="2019-10-01T11:21:16Z" to="2020-01-18T11:21:16" station="IiEvAasksVf3fhF"/>
+    <Simulcasting from="2020-06-01T11:21:16Z" to="2020-05-09T11:21:16Z" station="yMCjrqbnmk-1OoL"/>
+    <Simulcasting from="2020-01-03T11:21:16" to="2019-01-24T11:21:16" station="F"/>
+    <Simulcasting from="2018-09-28T11:21:16" to="2020-01-08T11:21:16Z" station="a"/>
+    <Record title="x8cPcxgRothqCTS37ugj8LiT4kr" spins="1021878476" ISRC="FV60AOW35T5K" year="6328" producer="rcqeN2coMBSuegCTwfGuVQ"
+         label="ehRT9-WTDhIjPSyGdTT2PWAAa_uk" recordNo="YrH" serialNumber="Dg9NK9ty" isPremiere="1" usage="commercial"
+         ISWC="u6p9zyWdTC" AKA="rGp2Z" genre="pop" broadcastedFrom="2019-04-28T11:21:16Z" broadcastedTo="2019-05-10T11:21:16Z"
+         runtime="720925048" origin="live broadcasting" alternativeTitle="aLiOb-88" recordedFootage="518865803">
+        <Participants>
+            <Participant name="jJRzo" role="remixer" IPDN="pQiqry.tY.PJJX0f4OLduq" performance="conductor" grossFee="-1761071195.81"
+                 modifier="C" IPI="b3IaCirL2plAdo4" birthDate="2020-04-26"/>
+            <Participant name="cmxzBpslbcqU9NVaRiBmUMvO" role="scriptwriter" IPDN="xHp4LXt_7p99hAlqxt0kOf3I" performance="conductor"
+                 grossFee="1720528695.75" modifier="B" IPI="ZoY" birthDate="2019-09-26Z"/>
+            <Participant name="V1TI6BjSy_TbVM" role="arranger" IPDN="Ns2Ts3Oj1jxz1" performance="conductor" grossFee="-2091635008.41"
+                 modifier="A" IPI="UULqSNtx" birthDate="2019-02-16Z"/>
+            <Participant name="wfng-5-i7PxfAAQ_kyv7pYP" role="sound engineer" IPDN="TdyjSA0p50oqER6GSyLxhj-Vu" performance="main"
+                 grossFee="1770294959.15" modifier="A" IPI="jMsz0uVQl0sI0" birthDate="2019-06-18"/>
+            <Participant name="mbL8UIXRBx_p" role="performer" IPDN="acMGTgXyyKSDDmu5BiaL" performance="chorus master" grossFee="1197838278.26"
+                 modifier="B" IPI="im96irioWF" birthDate="2018-11-02"/>
+            <Participant name="V3XhxVRLhw.rHCydMHMkDpSCh0Oo" role="remixer" IPDN="LGoK4wnl9ifw" performance="main" grossFee="-95692056.99"
+                 modifier="B" IPI="sArn470c1PM5EvOgLbz8ekRdZgT" birthDate="2018-08-05"/>
+            <Participant name="ztF3Ry.Lw" role="composer" IPDN="ZWrvnUqI1bRMn3PFvN" performance="chorus master" grossFee="-1787489355.69"
+                 modifier="C" IPI="RmAu4uATFfLPVUVHeySHCYyI" birthDate="2018-08-02"/>
+            <Participant name="ns82V.rRQ0dXMcALM" role="scriptwriter" IPDN="jfvRetjBiVTDSRtIiIvI." performance="supporting" grossFee="1823563373.50"
+                 modifier="C" IPI="B" birthDate="2018-10-31Z"/>
+        </Participants>
+    </Record>
+    <Record title="VIqtH4o" spins="799282726" ISRC="N76558VOQS93" year="8974" producer="K9vsZR3Lo" label="o4vaoLUsZiJ"
+         recordNo="gWSySaVviWaWbz56PZvA6xvQro" serialNumber="_zavJu703RuTFlBZFunk1Wij" isPremiere="false"
+         usage="broadcast" ISWC="Ha99bmGNYbEUqSt-5" AKA="kCvnJQpL3NZAcY1HAqa" genre="commercial" broadcastedFrom="2019-08-25T11:21:16Z"
+         broadcastedTo="2018-12-22T11:21:16Z" runtime="773218202" origin="live stream" alternativeTitle="IXHlp"
+         recordedFootage="773792882">
+        <Participants>
+            <Participant name="TdPt1" role="producer" IPDN="GuKzqAlQ5kNB" performance="main" grossFee="-1559132924.55" modifier="A"
+                 IPI="RW54AqaV0l3vai6" birthDate="2019-08-25"/>
+            <Participant name="oK68fJ_pKGkuA" role="arranger" IPDN="tfVBCE0o-6r_xvBln9H0S" performance="chorus master" grossFee="1711904528.83"
+                 modifier="C" IPI="XvcXEK_pdO" birthDate="2020-06-13Z"/>
+            <Participant name="fexK927L_J" role="music director" IPDN="bmycd_bv" performance="supporting" grossFee="908583340.80"
+                 modifier="A" IPI="EaiGZLHLq80DkJ.kPDp-Fe7io56jh" birthDate="2018-08-10Z"/>
+            <Participant name="F6FGMD7W5.sqx1uju8CACUUYLn" role="scriptwriter" IPDN="S-TDiV3fRpDRQaVXk5P_K0PzZNj" performance="chorus master"
+                 grossFee="-673260548.10" modifier="A" IPI="o2xPHdI" birthDate="2020-06-28"/>
+            <Participant name="QfmeHzsvvi" role="remixer" IPDN="E.wU.pYNlKzoVvNCDuLj" performance="soloist" grossFee="-997329244.40"
+                 modifier="B" IPI="_pTtchrm" birthDate="2019-11-16"/>
+            <Participant name="RVgtSMde" role="remixer" IPDN="Yx5PcsNvpbHbMs7z3dC3thVF1.jN" performance="main" grossFee="-2005023770.27"
+                 modifier="A" IPI="C8Pgp" birthDate="2018-09-19"/>
+            <Participant name="H-s9rl1aEs" role="subscriptwriter" IPDN="CAOAKHA5bmXGmv0wZ_7Ox6FBthk." performance="chorus master"
+                 grossFee="400689189.67" modifier="B" IPI="s8iBXC" birthDate="2019-08-03Z"/>
+            <Participant name="z5rJJInBh8195UrJ6-y" role="composer" IPDN="J" performance="chorus master" grossFee="1429974769.12"
+                 modifier="A" IPI="MK4XbOcLRT1S5T" birthDate="2020-05-18Z"/>
+        </Participants>
+    </Record>
+    <Record title="JcsSRrvV" spins="774504623" ISRC="84KKBJ107L15" year="3788" producer="dwHjFXaT5Op7v7mv" label="BkB"
+         recordNo="zE52" serialNumber="EVLUcIWTHcrwDg" isPremiere="0" usage="broadcast" ISWC="MKGCDolyQ3U8_FO_BQNEzdWeOwy-"
+         AKA="QELoFUQ6h-SneuTuUvzVR9S" genre="pop" broadcastedFrom="2020-02-27T11:21:16Z" broadcastedTo="2020-03-09T11:21:16Z"
+         runtime="1614034860" origin="commerce" alternativeTitle="_Ee" recordedFootage="384692585">
+        <Participants>
+            <Participant name="JrqGKCwCjMtOvPmj7KFU" role="scriptwriter" IPDN="SK2QVcRAEQeoplbopLjQ" performance="supporting"
+                 grossFee="-818942441.87" modifier="B" IPI="jZU6" birthDate="2019-04-14"/>
+            <Participant name="FY0tjcbYodaJBECQ" role="performer" IPDN="r-js87.budMtECZAA9XfcLv0fxan" performance="supporting"
+                 grossFee="994540618.20" modifier="C" IPI="ykHbriMZ0dDLUkDczDSq" birthDate="2019-11-25Z"/>
+            <Participant name="OG" role="remixer" IPDN="s96swWZRgJcrlEsel2y" performance="chorus master" grossFee="-1938420679.92"
+                 modifier="B" IPI="VsNbxveDPlxZII_4" birthDate="2018-08-22"/>
+            <Participant name="FdEtuc" role="producer" IPDN="Ec41ncG4Jujdq4e4znlq9Ym" performance="supporting" grossFee="155102756.19"
+                 modifier="B" IPI="G-vdl" birthDate="2018-12-31"/>
+            <Participant name="Z7pm7Yg7Mx0xbZM_nbsc" role="arranger" IPDN="IjivJhGrxcL" performance="conductor" grossFee="-476023785.02"
+                 modifier="C" IPI="ftxxIONR" birthDate="2018-08-16Z"/>
+            <Participant name="lCoj" role="producer" IPDN="PKP" performance="chorus master" grossFee="-1517165411.91" modifier="B"
+                 IPI="hsO75aebr3GDLy17cWxzk2" birthDate="2019-07-30"/>
+            <Participant name="E" role="subscriptwriter" IPDN="h4wkZIT3EWG6shqMX4hw" performance="conductor" grossFee="-1467347488.68"
+                 modifier="B" IPI="nK50aZ-23GdU3CP3BI" birthDate="2019-08-14Z"/>
+            <Participant name="xGJjC1BI9w4uW8hjuklt-Epv4jb" role="composer" IPDN="v" performance="chorus master" grossFee="780324353.93"
+                 modifier="C" IPI="dlk.dV4SawbNYPnduXhywJ1NNfV" birthDate="2018-12-30Z"/>
+        </Participants>
+    </Record>
+    <Record title="uN" spins="1349746357" ISRC="V9532156P90W" year="6550" producer="JXiz9ZF_0emC8bfTjCXrezXOtv3"
+         label="GWcNqanmT0wY_Vpdv-WgN_XTrtaK" recordNo="g8xRBabaRow9FfaC9S7YjNUeT" serialNumber="M0HGfap.ROIi"
+         isPremiere="false" usage="jingle" ISWC="uuoJ_uI23Y623-I_8D" AKA="JS1J" genre="composed" broadcastedFrom="2019-03-18T11:21:16"
+         broadcastedTo="2018-11-12T11:21:16" runtime="569483682" origin="free of charge" alternativeTitle="NIjxYWoQ_2Fd-v9aW2Ib6YxtgrZG"
+         recordedFootage="20681533">
+        <Participants>
+            <Participant name="V1" role="composer" IPDN="Xp" performance="soloist" grossFee="-48708397.98" modifier="A" IPI="QOytA_zWaEb8SP-XhL2jCz7"
+                 birthDate="2020-05-08Z"/>
+            <Participant name="kNanp0" role="arranger" IPDN="IqDYy0IW3vwlxKABgSZAF" performance="chorus master" grossFee="-1929119309.04"
+                 modifier="C" IPI="C.KC2nqnTTUbMvhsiRgLrJauri" birthDate="2020-05-21"/>
+            <Participant name="vxBEbrsylK" role="remixer" IPDN="Vu4kz7do_9gIiuLbbC1L0HWb" performance="chorus master" grossFee="-933509189.97"
+                 modifier="B" IPI="fmmhRU5e5" birthDate="2020-04-13Z"/>
+            <Participant name="_No5ef62kvMakROq" role="scriptwriter" IPDN="xf9xEfEK8.x9gi5wR-m7" performance="chorus master"
+                 grossFee="611204134.57" modifier="B" IPI="dqQnwMa" birthDate="2019-05-14Z"/>
+            <Participant name="df-fz" role="performer" IPDN="u3bD6v-4uhHqu9MuCoP9frPdhY1Fex" performance="supporting" grossFee="1423950452.78"
+                 modifier="B" IPI="cL46" birthDate="2018-09-21"/>
+            <Participant name="DM" role="music director" IPDN="nyjVBvgKKWbE.c7.hTJfJ.L0Ljtm" performance="chorus master" grossFee="-512739563.14"
+                 modifier="B" IPI="abp" birthDate="2019-03-20Z"/>
+            <Participant name="i1fqfwBSptb498YEQF" role="music director" IPDN="fEcT" performance="conductor" grossFee="928055320.20"
+                 modifier="A" IPI="o84j5nte.yYudZ7Saat0ctO99dn" birthDate="2019-06-19Z"/>
+            <Participant name="tE.fVkRUGcU1fUaHsi-h8J" role="arranger" IPDN="ulKhdGYOAJcfs7PY" performance="main" grossFee="137628311.62"
+                 modifier="A" IPI="GNl" birthDate="2019-02-08"/>
+        </Participants>
+    </Record>
+    <Record title="A_1WHA15a" spins="1771861664" ISRC="AOQL89IZE7A2" year="6133" producer="wUxesACgyQJ6mMfMFF53"
+         label="ZZvRUEhp" recordNo="SD828Fpy5" serialNumber="vL5IQcpHYZ6m" isPremiere="1" usage="commercial"
+         ISWC="SAx-rZFH.hUT3KdMcdEpUE" AKA="lgBdgvfZiZpPgmqE_yY.sugg" genre="classical" broadcastedFrom="2019-06-28T11:21:16Z"
+         broadcastedTo="2020-06-27T11:21:16" runtime="1358541627" origin="commerce" alternativeTitle="OzExBoDYg"
+         recordedFootage="639959660">
+        <Participants>
+            <Participant name="VSgMzLk1ClQofeqCIfyV" role="composer" IPDN="VouiQ1" performance="conductor" grossFee="-68365585.44"
+                 modifier="C" IPI="N-" birthDate="2019-05-07Z"/>
+            <Participant name="k0RT83" role="music director" IPDN="tCARvnVY_OneXgcXZgSTBNV4pDGI" performance="conductor" grossFee="-859629036.13"
+                 modifier="C" IPI="VA-aM2_SeHHFjn.UTtlhr4oqwZ" birthDate="2018-09-24"/>
+            <Participant name="sFfcn7j-" role="performer" IPDN="ZcFyTl6w2-1r0" performance="soloist" grossFee="1476884169.73"
+                 modifier="A" IPI="LDrZEHRtq7lzPeMI6q7Tbu" birthDate="2020-01-01"/>
+            <Participant name="EcHMWnv6h" role="subscriptwriter" IPDN="iituC63" performance="supporting" grossFee="1980148243.41"
+                 modifier="B" IPI="vfqcnHHB" birthDate="2019-10-14Z"/>
+            <Participant name="FgQb.-pBo" role="composer" IPDN="VsvA1" performance="soloist" grossFee="1575311079.47" modifier="B"
+                 IPI="PcGq46iHcExAdlzBfEo" birthDate="2019-08-09Z"/>
+            <Participant name="W3-u" role="performer" IPDN="QemVVMHV4x_aG.ZCJMJKY4FB-_w" performance="chorus master" grossFee="158544674.38"
+                 modifier="B" IPI="XIgfy4CEcmeOupXj" birthDate="2019-05-22"/>
+            <Participant name="BN2wKnvgxcJMHujqz4C7j3Ky" role="performer" IPDN="MrAM8nRyLzbXF0XR" performance="supporting" grossFee="-904819402.43"
+                 modifier="B" IPI="I1oYCWifIY0bFC" birthDate="2018-07-29Z"/>
+            <Participant name="S5vwr" role="subscriptwriter" IPDN="OwpTvmp.PIuOj7fM0TayAC" performance="soloist" grossFee="-216405311.77"
+                 modifier="B" IPI="Bh5I9J.MOwtkGP74z.Qm" birthDate="2019-10-05Z"/>
+        </Participants>
+    </Record>
+    <Record title="kRD" spins="1584802032" ISRC="670NBO73TI4C" year="3557" producer="rZt7" label="jyMfHuSJanLo-J5w"
+         recordNo="ttwYa.4qaZzin1FWMfj6TIHK" serialNumber="uQQF07vXGVL0-I7ZNzpq.ejG0E" isPremiere="false"
+         usage="broadcast" ISWC="NPEVQfMfG" AKA="sfgQnrzl8XGTE3_1" genre="commercial" broadcastedFrom="2018-08-06T11:21:16Z"
+         broadcastedTo="2019-06-26T11:21:16" runtime="219009526" origin="free of charge" alternativeTitle="_xu6I10MLpU"
+         recordedFootage="751831904">
+        <Participants>
+            <Participant name="PpIiRNkakG" role="remixer" IPDN="P_mwRVGktAJ82G_aj4OIH2Wh" performance="supporting" grossFee="2015094273.02"
+                 modifier="B" IPI="ZuoIurJD" birthDate="2019-06-06"/>
+            <Participant name="rephvh-o0" role="music director" IPDN="v-gdp-i7jY8fsJE" performance="supporting" grossFee="-1935913355.76"
+                 modifier="B" IPI="hMxH8tVSL5cs" birthDate="2018-12-01"/>
+            <Participant name="cAHFqDudpBA3-Dixqi" role="subscriptwriter" IPDN="KJFd803uhzZHT58FiPfL" performance="conductor"
+                 grossFee="-1110778876.97" modifier="B" IPI="smX0b" birthDate="2020-06-17Z"/>
+            <Participant name="VuY_j1wodL_DU7BhdhoX" role="remixer" IPDN="uU57eEsfog" performance="soloist" grossFee="-923513345.99"
+                 modifier="C" IPI="aQaelbZH5qIZntSDD5t7psIg" birthDate="2019-06-30"/>
+            <Participant name="Ohcanr_PTDVgN9SUR_K03rX" role="producer" IPDN="VOVxuELk3mpM5BbFIGr7aCX" performance="soloist"
+                 grossFee="-381359020.96" modifier="C" IPI="YI" birthDate="2020-01-24"/>
+            <Participant name="Cx-_qVAVM0NUZejx7" role="producer" IPDN="BOjjJn" performance="supporting" grossFee="-121290186.52"
+                 modifier="A" IPI="Jw6LSWtfKwWw3k-wQ8dGe_" birthDate="2020-01-14Z"/>
+            <Participant name="HsKrE" role="scriptwriter" IPDN="tGNOR3p.yMReI3XJTC" performance="conductor" grossFee="456742494.13"
+                 modifier="C" IPI="pa3mfZ5MH" birthDate="2019-08-25"/>
+            <Participant name="RBbJHtncCw_32qEBAu_PtlH" role="performer" IPDN="ikp1qihOoG" performance="supporting" grossFee="110434134.67"
+                 modifier="A" IPI="hvd0pfS_667vdHzHq" birthDate="2020-03-30Z"/>
+        </Participants>
+    </Record>
+    <Record title="qRdjPfAFG-IVz" spins="1351537000" ISRC="1D1SGUQ9F91M" year="4186" producer="xF" label="Cjjx"
+         recordNo="_TMxVQ-BAY" serialNumber="_0OHGvjVg-uUUu8" isPremiere="0" usage="broadcast" ISWC="nTj"
+         AKA="kOoaHe0Y" genre="pop" broadcastedFrom="2019-08-06T11:21:16" broadcastedTo="2020-06-01T11:21:16"
+         runtime="2110891836" origin="recorded stream" alternativeTitle="Y_ogSfkl-THCuoaGQ8pfn4Y6hJrXx"
+         recordedFootage="1414187008">
+        <Participants>
+            <Participant name="ze_oSXoZT-3X_pDKZo" role="subscriptwriter" IPDN="jgBOjc1vM.tPJcF" performance="soloist" grossFee="2145902233.46"
+                 modifier="A" IPI="BGZZd0hyH5" birthDate="2020-01-24"/>
+            <Participant name="f" role="performer" IPDN="yIILXfAP2vxUn9Nn56phI" performance="supporting" grossFee="578587206.11"
+                 modifier="C" IPI="NsMESYi_xw_6sj4nPxRGA78DLOY" birthDate="2018-12-29"/>
+            <Participant name="dzSbivpcPg8CnlW" role="subscriptwriter" IPDN="QHxXvLJt.EKd7ENK" performance="main" grossFee="-754834491.24"
+                 modifier="A" IPI="uSBUTN5" birthDate="2019-07-31Z"/>
+            <Participant name="NQkcF1qLs09NEHePrp-x.t" role="arranger" IPDN="kMjPXP41TpQ_JfaxTF9iIPafc" performance="supporting"
+                 grossFee="998810603.70" modifier="C" IPI="dUR9Rfee9-RvaUC" birthDate="2018-12-15Z"/>
+            <Participant name="spXZ4AgiS00e7RocJq_U" role="subscriptwriter" IPDN="XgO" performance="chorus master" grossFee="-775424506.55"
+                 modifier="C" IPI="K" birthDate="2019-04-10"/>
+            <Participant name="fR-2cwLydT-I1jyBKF4Oh" role="arranger" IPDN="Edgdy1RQqwTk9mtq0SL4l" performance="conductor" grossFee="-837911358.64"
+                 modifier="B" IPI="V07e2FRDHkUlpcxfvAd1W4" birthDate="2018-07-23"/>
+            <Participant name="a7FEglzb9Y2EWs6DcW9TkQaI.MJ" role="scriptwriter" IPDN="Ahxz7G4b" performance="soloist" grossFee="-1469662206.00"
+                 modifier="B" IPI="FJ" birthDate="2020-01-09Z"/>
+            <Participant name="gpZqqniW.xSkN8kbMAw" role="producer" IPDN="xyQamHBd-zI" performance="chorus master" grossFee="-1722416487.59"
+                 modifier="C" IPI="ngEL78.OkP" birthDate="2019-08-29Z"/>
+        </Participants>
+    </Record>
+    <Record title="GxuZApQouwS_FJBIfWjVgWz7wQkY" spins="433995689" ISRC="O98L4V9JLB53" year="4467" producer="liJ4l2FBDk3564T16jfSKD"
+         label="cXerW" recordNo="_mlk" serialNumber="Nu0pEF009sCj" isPremiere="true" usage="broadcast"
+         ISWC="nR" AKA="W8TBMdvTUvUG3U5JqvOKSq" genre="spoken word" broadcastedFrom="2019-05-31T11:21:16"
+         broadcastedTo="2019-04-07T11:21:16Z" runtime="1295983005" origin="report" alternativeTitle="YKpIEw7-LmWJ0E"
+         recordedFootage="2086928727">
+        <Participants>
+            <Participant name="Ycp_j68h" role="scriptwriter" IPDN="iPIERQ6" performance="main" grossFee="-1552004319.54" modifier="B"
+                 IPI="g6O-pAHWV_RkfoNzJsyd8" birthDate="2019-08-23"/>
+            <Participant name="WVk" role="music director" IPDN="o2yWVrbH2JjeW" performance="supporting" grossFee="761760497.16"
+                 modifier="B" IPI="clnF_qPCzfuF" birthDate="2019-06-27Z"/>
+            <Participant name="xMFNMQ2Q0a-pRKN9yPvtdKv8CXRs" role="subscriptwriter" IPDN="lQhoccx18fCQipbp78mo" performance="chorus master"
+                 grossFee="1530691989.47" modifier="B" IPI="c0y_Nz" birthDate="2018-11-23Z"/>
+            <Participant name="a_8JSxyS" role="sound engineer" IPDN="OcKSuj" performance="conductor" grossFee="332345628.60"
+                 modifier="A" IPI="Qs4kh" birthDate="2020-01-15Z"/>
+            <Participant name="rQ191h84Ix83" role="remixer" IPDN="Jgv" performance="conductor" grossFee="-1601475532.38" modifier="A"
+                 IPI="OgBY334hZI0E.7hsWE" birthDate="2019-03-02"/>
+            <Participant name="w-ZWzClK8JlNcA2y2g7a5LFK3FnGc" role="scriptwriter" IPDN="duNThuG.zb" performance="chorus master"
+                 grossFee="239556675.43" modifier="B" IPI="Zn" birthDate="2020-01-16"/>
+            <Participant name="UVxQ_RD4pfD4fDOE4FqkJV5EryQxo" role="subscriptwriter" IPDN="gcZboZQ" performance="supporting"
+                 grossFee="-493029744.62" modifier="A" IPI="skIA8L" birthDate="2019-10-23"/>
+            <Participant name="uUXydkF_x-" role="arranger" IPDN="rkeQps" performance="main" grossFee="-418101826.40" modifier="C"
+                 IPI="BW5XCs0ye7Lt8" birthDate="2019-04-30Z"/>
+        </Participants>
+    </Record>
+    <Simulcasting from="2018-09-17T11:21:16Z" to="2019-05-04T11:21:16Z" station="JpP9o01LOyON_f6rtKUxtPP9ZH6"/>
+    <Simulcasting from="2019-11-07T11:21:16" to="2018-08-13T11:21:16" station="Ch62kbAytcacx2LaT0AYt-"/>
+    <Simulcasting from="2019-10-25T11:21:16Z" to="2019-03-03T11:21:16Z" station="w9seL7m9Sd9YP3qG"/>
+    <Simulcasting from="2019-03-30T11:21:16" to="2019-03-01T11:21:16" station="nbMnsZJ2mlY4hbK2M3eIkc4tijsfI"/>
+    <Simulcasting from="2019-05-21T11:21:16Z" to="2020-06-17T11:21:16Z" station="wxGCmm6wgRI5zT"/>
+    <Simulcasting from="2019-04-22T11:21:16" to="2020-06-26T11:21:16Z" station="i-hUraP7DnDwY5U"/>
+    <Simulcasting from="2019-06-07T11:21:16Z" to="2020-02-10T11:21:16Z" station="ZzYdx1fu00uRFIIMoGKMoulYz"/>
+    <Simulcasting from="2019-02-16T11:21:16Z" to="2019-11-11T11:21:16" station="oL13pKBhFrSedku7y5f6X9DZFjugx"/>
+    <Record title="ONKYYO" spins="230079561" ISRC="19UZV9FCK0FC" year="5342" producer="th-Eu1NxlW" label="RZWH7y6iG0h"
+         recordNo="nBGZv6xTAZneCCk" serialNumber="FdGe3KKY" isPremiere="false" usage="jingle" ISWC="bV._IM"
+         AKA="vjqcXBmVr4.d3fnDQLjZp3T" genre="composed" broadcastedFrom="2018-10-28T11:21:16Z" broadcastedTo="2020-06-17T11:21:16Z"
+         runtime="112781018" origin="live stream" alternativeTitle="wy_SC" recordedFootage="898533716">
+        <Participants>
+            <Participant name="fHYiT-o5" role="performer" IPDN="cRlglhyEtjrt" performance="chorus master" grossFee="-2099209765.17"
+                 modifier="B" IPI="a6H3grylHnL2BpxFU_IDgtFL" birthDate="2018-09-11"/>
+            <Participant name="oeCPtLi" role="arranger" IPDN="E1xGPRZEnUs4tt" performance="main" grossFee="1746894591.79" modifier="C"
+                 IPI="nvH5r2icBiyI2XQV1cKBlaFcJ5jIT" birthDate="2018-07-12Z"/>
+            <Participant name="lwp36FV2npqXYFkvVlc" role="music director" IPDN="a7SpQF0710giQEhLibBRx" performance="soloist"
+                 grossFee="-1201303015.28" modifier="B" IPI="K9uJz" birthDate="2018-08-27"/>
+            <Participant name="VrpWucQEuSUtbc" role="scriptwriter" IPDN="zVOHrhTPfZU4pUN37jqYRw" performance="main" grossFee="195483275.76"
+                 modifier="A" IPI="bM8y" birthDate="2019-10-06"/>
+            <Participant name="Ly4Ju7wNCMtL3bjEv-TFJJv-1" role="remixer" IPDN="R7xvO" performance="main" grossFee="1780125222.29"
+                 modifier="C" IPI="dwJMx" birthDate="2020-03-09"/>
+            <Participant name="Bupv.9jGk0.HluuQ-3xQ" role="scriptwriter" IPDN="Jn0ge.y2tKNm27NV" performance="conductor" grossFee="-1815691631.91"
+                 modifier="C" IPI="IhY_xw64ngOCdQZMvgq" birthDate="2019-07-24Z"/>
+            <Participant name="fuDNZtFj8eJgu6Y8UjqMJO8XQi2ZnR" role="arranger" IPDN="gCvHpn3R3SjZPDR" performance="soloist" grossFee="364371222.67"
+                 modifier="C" IPI="R21.fUifo3GEDMxsSf" birthDate="2019-09-07Z"/>
+            <Participant name="GyK" role="subscriptwriter" IPDN="VLfp2ue" performance="soloist" grossFee="1874761128.34" modifier="C"
+                 IPI="geO.nNouBK0kTPn" birthDate="2020-01-27"/>
+        </Participants>
+    </Record>
+    <Record title="e5" spins="1357324917" ISRC="SVCJ0Z550FJQ" year="0687" producer="A624be87OExDiFsZUs72.kUyNv"
+         label="tl1urL9Lz_PeHsa7a0HfvBG" recordNo="rVGXnTJ" serialNumber="QTwPkERmTMHBGtiQeUqvj2bEY"
+         isPremiere="false" usage="jingle" ISWC="Ozksat" AKA="N9drTDZEXZIq" genre="pop" broadcastedFrom="2018-09-16T11:21:16Z"
+         broadcastedTo="2020-06-02T11:21:16Z" runtime="1229184525" origin="self" alternativeTitle="W_YT5srAc52Lc.kD"
+         recordedFootage="920011369">
+        <Participants>
+            <Participant name="Kh-8j3j-ug9slH9rx2gk" role="arranger" IPDN="eAfHIgSS7BMBhACdoZvPOQqNfh" performance="conductor"
+                 grossFee="-1871666946.85" modifier="A" IPI="OJztzL1cAimJ" birthDate="2020-05-02"/>
+            <Participant name="p-Mfxn9LD7zGsmYrY2_kdj1-gR" role="subscriptwriter" IPDN="_1DpsuWDf6S74xMwOA8SX..ITwa" performance="conductor"
+                 grossFee="2079015630.79" modifier="B" IPI="jigAC8CcjKZd_9moPNMQMwtb4" birthDate="2020-05-14Z"/>
+            <Participant name="l8bg" role="sound engineer" IPDN="RdzPuaA0A5Lxk" performance="chorus master" grossFee="1552707049.99"
+                 modifier="C" IPI="ZGGFLuRwFKzA7" birthDate="2020-03-01"/>
+            <Participant name="J._gm3NL_" role="subscriptwriter" IPDN="M3-" performance="main" grossFee="-235408027.09" modifier="C"
+                 IPI="Z" birthDate="2020-05-17Z"/>
+            <Participant name="gC4LSlDKh-in" role="scriptwriter" IPDN="l.0d_AXB69m" performance="supporting" grossFee="-657854017.52"
+                 modifier="B" IPI="_cNXHt0oD_5117cKHPgDGlC.XtYy8q" birthDate="2020-06-21Z"/>
+            <Participant name="AVoxDcD-zOr-IY6RaM6" role="composer" IPDN="ijNegM_g7_OWy30T9" performance="main" grossFee="1015121606.70"
+                 modifier="C" IPI="D6N" birthDate="2019-01-31"/>
+            <Participant name="tV0sux7Ja-CNi3I4wzDcEYUJmmS" role="music director" IPDN="vBakbb1nbqB_FuVQ" performance="main"
+                 grossFee="641412579.18" modifier="A" IPI="f" birthDate="2020-03-10"/>
+            <Participant name="LO8T3k" role="scriptwriter" IPDN="rz66Pwp2BIq" performance="soloist" grossFee="-2086541414.11"
+                 modifier="C" IPI="o4c1gl" birthDate="2019-03-15"/>
+        </Participants>
+    </Record>
+    <Record title="KH" spins="770203321" ISRC="884G277VKW92" year="9937" producer="E8B9nJf7Ubnb_9BdDuZR" label="fHp7RICxEtv79xXAZ88"
+         recordNo="lOzIUy5DVJGgF1s1GG3t" serialNumber="bH4tCHA1qEzKkMlNpPYvF30j4m" isPremiere="1" usage="broadcast"
+         ISWC="Ir-MB8aOFYh6tRxJMbyJJCD" AKA="fm-Ba3EiQcN1EfBGxvQKQ0" genre="commercial" broadcastedFrom="2018-09-29T11:21:16"
+         broadcastedTo="2020-05-16T11:21:16Z" runtime="631900636" origin="report" alternativeTitle="t8BFcM"
+         recordedFootage="164772581">
+        <Participants>
+            <Participant name="TIFmMOwSAjtHpcPVEb0_Fk-00Em-s" role="performer" IPDN="OfAK.tTBoJB.o91IXwBfR8D" performance="main"
+                 grossFee="605907187.57" modifier="B" IPI="iL3JaaLHzDwqh9.mp3LSUrKMA.9D" birthDate="2020-04-22Z"/>
+            <Participant name="q1ZlghvCsqx0VDg5Rasj" role="producer" IPDN="iD" performance="soloist" grossFee="1508126113.90"
+                 modifier="B" IPI="mXP58YMjerCE9YyuQa9Pg8ydB8FN" birthDate="2018-11-17Z"/>
+            <Participant name="pNt29RC6RfC2R9" role="performer" IPDN="EFoS7K0i" performance="conductor" grossFee="1851677488.83"
+                 modifier="B" IPI="QvO7caCPVU2-k" birthDate="2018-09-13Z"/>
+            <Participant name="BV3YgfH61yFS3OXwk-p3wzGX." role="sound engineer" IPDN="tgJw0pOeia3X_HuY" performance="soloist"
+                 grossFee="987805099.08" modifier="C" IPI="gSKbIin-FH4K3dTPHRl.4uHtW3h-B3" birthDate="2019-03-16"/>
+            <Participant name="tgfdYvLt2r0aaJifUc" role="producer" IPDN="m_Ohz-n38-FAkhqhr-0uoiYkA" performance="conductor" grossFee="605093921.34"
+                 modifier="A" IPI="DikbfkLldTRCV" birthDate="2018-11-09Z"/>
+            <Participant name="eqd" role="composer" IPDN="Q9N3PhjCCNCfzt3ThD3t" performance="main" grossFee="2065754321.79" modifier="A"
+                 IPI="BrZ0IlqFBfHSEv0Ui" birthDate="2020-02-09"/>
+            <Participant name="AiAxS0.I0_J2pGwCepw7Gb_k-" role="remixer" IPDN="FhKOoiUtXLksXs_H9VVeiRd" performance="chorus master"
+                 grossFee="-1362000309.21" modifier="A" IPI="p4HGtypCZ3hWEH9imRK" birthDate="2019-04-15"/>
+            <Participant name="pOExBFwF_7uScH" role="music director" IPDN="eQXiSNm1qhoVRyV" performance="soloist" grossFee="1122362279.57"
+                 modifier="A" IPI="_3q" birthDate="2019-12-20Z"/>
+        </Participants>
+    </Record>
+    <Record title="nYBLPMQh8.aqMRE" spins="2080936261" ISRC="043HL9H898S1" year="2419" producer="gKsnN8" label="wH5qx3MvJkobLN"
+         recordNo="aJFeyobICd" serialNumber="WCLn2kycGyIl" isPremiere="false" usage="broadcast" ISWC="jMzL-pz"
+         AKA="XnOv_bWmZQk.Vb9XL_IZ" genre="pop" broadcastedFrom="2018-07-26T11:21:16" broadcastedTo="2018-08-10T11:21:16"
+         runtime="1604394255" origin="live broadcasting" alternativeTitle="EW" recordedFootage="1587830576">
+        <Participants>
+            <Participant name="_hee3Q9a" role="remixer" IPDN="z6cG_PZgeuI_KYyd" performance="conductor" grossFee="704726969.10"
+                 modifier="B" IPI="T8vFFiUi9sjJnakjEJy1-Bo" birthDate="2019-04-04Z"/>
+            <Participant name="K3EUkz7kNmSPij1aIPVNYBfOcnnR" role="composer" IPDN="NuUbNaKqo6K-IFc6TnNY-T9cG" performance="supporting"
+                 grossFee="1146005801.07" modifier="A" IPI="WGcXbvV3.C6-u4beDmiellF" birthDate="2019-05-27Z"/>
+            <Participant name="n.OtoYCFsrXO8iwHfVSohTOxwXEqy4" role="music director" IPDN="Ou6FFeZmkrPjDg" performance="chorus master"
+                 grossFee="-940794881.00" modifier="C" IPI="WTPbWi295" birthDate="2018-10-17Z"/>
+            <Participant name="L4uqsgTNcKStzWEzVyefYTeaiMjsFN" role="arranger" IPDN="m-aS4" performance="soloist" grossFee="-1476696216.49"
+                 modifier="C" IPI="WfASqnqWmrhISW8KpRVp0D" birthDate="2019-10-20"/>
+            <Participant name="ezI5YpamD5S0fK8exRieta" role="remixer" IPDN="Oh" performance="main" grossFee="-1882429595.45"
+                 modifier="C" IPI="DhBdiGUBH2-Eb4tzlXfGS6Y" birthDate="2019-11-28Z"/>
+            <Participant name="uKiS6_nSNE3TSEkI6vWD" role="producer" IPDN="NG61cMJQ3QxOh6" performance="main" grossFee="-120638579.53"
+                 modifier="A" IPI="VbtLhdoHfx1QUSK_TrpLMXryvC" birthDate="2019-09-11Z"/>
+            <Participant name="b" role="music director" IPDN="mLR7xzpboywPoC" performance="chorus master" grossFee="2012827408.05"
+                 modifier="A" IPI="TOJ4GJcOSSaYIXwo.cTqLakFb8" birthDate="2019-10-07Z"/>
+            <Participant name="phadIUgYp8mty.S0vsDeuqx3Y6YW" role="composer" IPDN="PH_TlJ-1eWx6TWix" performance="chorus master"
+                 grossFee="709857582.48" modifier="B" IPI="yYZvwvRw-_ufti8Ktfpbb" birthDate="2020-06-10"/>
+        </Participants>
+    </Record>
+    <Record title="eTemceuTPMzk9730Mqu8Z6R.uI1e" spins="2042068526" ISRC="J2M24S08M8UZ" year="8751" producer="cFozqwQZ7uw"
+         label="Tdk" recordNo="FZuPULueLdOdu9D_6A" serialNumber="wgCKMbSozPLOhGAPI" isPremiere="false"
+         usage="jingle" ISWC="D4IeLxHdFRiivVZzQDNxBFI" AKA="QNK7TGN" genre="classical" broadcastedFrom="2019-03-14T11:21:16Z"
+         broadcastedTo="2020-01-23T11:21:16Z" runtime="394603674" origin="commerce" alternativeTitle="xp4prqkO"
+         recordedFootage="1723668027">
+        <Participants>
+            <Participant name="cZr-.GfJZe" role="subscriptwriter" IPDN="P.4ITeO" performance="supporting" grossFee="808490409.15"
+                 modifier="A" IPI="REB4" birthDate="2018-08-11"/>
+            <Participant name="R_7g" role="composer" IPDN="xCIle2TpReI6" performance="chorus master" grossFee="-902504765.39"
+                 modifier="C" IPI="Wkk_sQ0c_-dGLej" birthDate="2019-08-23"/>
+            <Participant name="Oimetx4PfGbWNm9m8D" role="producer" IPDN="o9yAGdufAlUxK5auZirQpdn" performance="supporting" grossFee="1222580406.24"
+                 modifier="B" IPI="RSUV-2t" birthDate="2019-11-24"/>
+            <Participant name="EnkF" role="subscriptwriter" IPDN="T_NB8gJW" performance="supporting" grossFee="75104436.51" modifier="A"
+                 IPI="AmpXIpJDWY6dLed.eNGroRjD1ZA2b" birthDate="2020-02-17Z"/>
+            <Participant name="q" role="scriptwriter" IPDN="M4WL58w_FqZYt5m1jm9Nk" performance="soloist" grossFee="-1133600747.52"
+                 modifier="C" IPI="j3" birthDate="2020-02-29"/>
+            <Participant name="z68AWwp4NEntODvLtZAuUD24" role="performer" IPDN="R.DnLcIXTk4ZXt3ZW.64ldq" performance="main" grossFee="647245443.96"
+                 modifier="C" IPI="C2unL9qyn0Fd-CgknB7cO6I" birthDate="2019-05-21Z"/>
+            <Participant name="cBkbRwxCzVhZs" role="sound engineer" IPDN="JKkq.oGWwIsaLsjUPzThSGWNKwfhLA" performance="supporting"
+                 grossFee="1736607276.86" modifier="A" IPI="Y0Sjh1jbWUNQ4Y8aX0tzlQkDCLKf7E" birthDate="2019-10-02Z"/>
+            <Participant name="ZD.3" role="scriptwriter" IPDN="Tq4Zc_" performance="chorus master" grossFee="169363286.72" modifier="B"
+                 IPI="WLvM" birthDate="2020-04-03"/>
+        </Participants>
+    </Record>
+    <Record title="MIpJAYFVXPiZ7.HIUJDMeWaJ" spins="1619034134" ISRC="148UM217C4Y5" year="7889" producer="Xk" label="JRaXGU"
+         recordNo="iTZAXupo1" serialNumber="ioSORbcRDO" isPremiere="1" usage="commercial" ISWC="GrHHKSMsCU4wb8F2rGsa-"
+         AKA="b8Z8Roc" genre="spoken word" broadcastedFrom="2020-01-26T11:21:16" broadcastedTo="2019-09-17T11:21:16"
+         runtime="1998738164" origin="commerce" alternativeTitle="ynx5bXVI8n" recordedFootage="907599103">
+        <Participants>
+            <Participant name="rG" role="producer" IPDN="BVEhJjqebnB50jBuXOYy_12IRIHJ-" performance="conductor" grossFee="1240204272.61"
+                 modifier="C" IPI="_eDW1_-X0nauqeMRsuU1r1phCLkdV" birthDate="2019-10-14Z"/>
+            <Participant name="R5tkQ3A0qq-0cc2P" role="performer" IPDN="gfKM4Qz-gxFwk6Y9Cmq6ehYJVte5" performance="main" grossFee="228061957.59"
+                 modifier="C" IPI="YCAqbHP2jMas997kw9" birthDate="2019-03-27"/>
+            <Participant name="gee7fRRSbs" role="sound engineer" IPDN="vkemr2J" performance="supporting" grossFee="1279460571.86"
+                 modifier="A" IPI="bcMl2gddAF" birthDate="2020-03-07"/>
+            <Participant name="hQ7mR" role="music director" IPDN="AMYMf-6_dmHiKmDU0SmnAtERPyn" performance="conductor" grossFee="873392427.41"
+                 modifier="A" IPI="BumkSzNOKz-OvjMzq1Y6dadYOj" birthDate="2018-11-15"/>
+            <Participant name="F8zO2upnob" role="subscriptwriter" IPDN="pyfDiAInFd3QlIeQ2cd" performance="chorus master" grossFee="650484836.48"
+                 modifier="A" IPI="YA4BXMGW5t" birthDate="2018-07-12Z"/>
+            <Participant name="_iZsiDdkVRD._wnj" role="composer" IPDN="_rItGPhb2y6zo" performance="supporting" grossFee="-1883815667.31"
+                 modifier="A" IPI="fTbpMG7an87mh" birthDate="2020-02-25"/>
+            <Participant name="tCP0N.z" role="scriptwriter" IPDN="B" performance="main" grossFee="1440497590.10" modifier="B"
+                 IPI="SUY0z4jv7rfdW84c.x" birthDate="2020-04-03"/>
+            <Participant name="JWh_byzd-sYXttQjJ" role="arranger" IPDN="sT0CCgsWRj1n6xw" performance="chorus master" grossFee="1340509540.34"
+                 modifier="B" IPI="CEeW_1nbuncGMS" birthDate="2018-07-27"/>
+        </Participants>
+    </Record>
+    <Record title="MSt9c6YdZCBHy" spins="86969249" ISRC="27GEO544Q41O" year="3636" producer="RFJoV4ZPGZPiIP" label="jkCp"
+         recordNo="yhKVXZ7KiAYNh5xU0PKOhrWNO0yS_" serialNumber="s8JailwiKfD29MQ" isPremiere="false" usage="broadcast"
+         ISWC="jlxGve_" AKA="zrzJwFaO0Vfe1ujO4GI4" genre="spoken word" broadcastedFrom="2018-09-05T11:21:16Z"
+         broadcastedTo="2018-11-28T11:21:16" runtime="103273415" origin="live stream" alternativeTitle="lHy"
+         recordedFootage="1045164410">
+        <Participants>
+            <Participant name="zH0VpPz7yd8ZRb" role="performer" IPDN="jwpAdp1kKnuK1bj.Y2Ys02ufgPIEQO" performance="conductor"
+                 grossFee="-2132017087.03" modifier="B" IPI="v2" birthDate="2019-06-23Z"/>
+            <Participant name="EXKBFmSHb7F9lEJHIjGiNBh_v" role="arranger" IPDN="D_YzxVagONTQwc8jBRPVK4L" performance="chorus master"
+                 grossFee="-852152297.49" modifier="A" IPI="YdAI5" birthDate="2018-12-29Z"/>
+            <Participant name="TX0rXUdDGbB5b4PTBUSLV" role="producer" IPDN="W8uA4Q" performance="main" grossFee="-322337347.85"
+                 modifier="A" IPI="vN299LBCXaDSnYT45UICe" birthDate="2019-12-05"/>
+            <Participant name="EA.Cd" role="remixer" IPDN="_FDtX8_KbVFUeo80N2FK" performance="chorus master" grossFee="971140191.70"
+                 modifier="C" IPI="_zlup1pKGiVmB-J73pDj9gvuQnNz" birthDate="2018-10-15"/>
+            <Participant name="zGEwb_GIScZdsYhB7" role="remixer" IPDN="Xu-7.zzh" performance="supporting" grossFee="619440545.92"
+                 modifier="B" IPI="vdIx2ExHqmpG-6cLgSEhoGQ7" birthDate="2020-04-21"/>
+            <Participant name="z6.wro-lY5DyFhE3v84qlo" role="arranger" IPDN="C" performance="soloist" grossFee="1718960403.73"
+                 modifier="B" IPI="Kmm.wq60e2RObs1n" birthDate="2020-04-26"/>
+            <Participant name="zZu" role="music director" IPDN="YXuqfbROxXHu5BSNQ76VqnX" performance="main" grossFee="1596264423.91"
+                 modifier="B" IPI="v0KAXc9pQZjbUg" birthDate="2020-05-20Z"/>
+            <Participant name="QMlbFtPtmOs0ENb-s" role="scriptwriter" IPDN="eIycb02bg" performance="main" grossFee="-2115053701.89"
+                 modifier="A" IPI="wTP3Lwp.A.-8649Q9sWd9UFUp9ly_" birthDate="2019-07-02"/>
+        </Participants>
+    </Record>
+    <Record title="s" spins="1486508807" ISRC="31847813IUO2" year="2233" producer="G" label="zLk0NLH5LWn4OHCn2qQbUnzP1sd"
+         recordNo="bb47k" serialNumber="b8x-g" isPremiere="1" usage="broadcast" ISWC="xdH8WGt3mSjoh6tx"
+         AKA="RYf5YM-mguAGa" genre="pop" broadcastedFrom="2019-05-10T11:21:16Z" broadcastedTo="2019-12-28T11:21:16Z"
+         runtime="2025690819" origin="live stream" alternativeTitle="sg2LUauCq" recordedFootage="399043405">
+        <Participants>
+            <Participant name="ylz5qJMF4p4k6zMFYiYWp44aZUjj" role="composer" IPDN="yAeCUcpeG-smrrvAl8nO" performance="main" grossFee="-504229306.97"
+                 modifier="B" IPI="JfaBGZu_scLS5vFruHq-oyqU8KvDa" birthDate="2020-02-08"/>
+            <Participant name="vAoa0" role="sound engineer" IPDN="PHBjn4JK6p" performance="main" grossFee="-1197976260.24" modifier="C"
+                 IPI="vFmjuV_rjS.1PlWQTOmfcl.t" birthDate="2019-08-29"/>
+            <Participant name="CtS0ZZrgR3" role="music director" IPDN="hO3Vby-0hVN8ukA7kE" performance="chorus master" grossFee="868963915.46"
+                 modifier="C" IPI="f4tPkMGa" birthDate="2020-04-13"/>
+            <Participant name="a8szqUk6N815B2SOudlaxP" role="subscriptwriter" IPDN="N2.kY0OeBszjcb2rrY0jvLGlZzjc" performance="supporting"
+                 grossFee="1033947060.15" modifier="A" IPI="Q8uknTGmNCR.5iD.wimM23f" birthDate="2018-11-12Z"/>
+            <Participant name="IqMtxPVlnhREwwDeh6" role="scriptwriter" IPDN="BUkgeSqi0" performance="soloist" grossFee="171628211.05"
+                 modifier="A" IPI="ifZnt_cb" birthDate="2020-07-01Z"/>
+            <Participant name="ac5C_12n-eb-Ps" role="arranger" IPDN="VGKYLa" performance="chorus master" grossFee="1731470609.67"
+                 modifier="B" IPI="QhGKgN" birthDate="2019-10-13Z"/>
+            <Participant name="_JaPeL30DWcMVJ" role="subscriptwriter" IPDN="W8EhoRH" performance="soloist" grossFee="-352232120.02"
+                 modifier="C" IPI="wYI" birthDate="2019-06-21"/>
+            <Participant name="DDbx5l-_Smv8DvXCNuzk" role="arranger" IPDN="j-j5" performance="soloist" grossFee="-1569074454.01"
+                 modifier="A" IPI="Kj6_n08" birthDate="2020-05-21"/>
+        </Participants>
+    </Record>
+    <Simulcasting from="2018-08-14T11:21:16" to="2018-11-18T11:21:16Z" station="wikgTdgrysJl.cdhI-KV"/>
+    <Simulcasting from="2019-11-24T11:21:16" to="2019-10-03T11:21:16" station="jm8G"/>
+    <Simulcasting from="2019-04-10T11:21:16" to="2019-05-27T11:21:16Z" station="C7yQ"/>
+    <Simulcasting from="2019-01-04T11:21:16" to="2019-04-29T11:21:16" station="UVLxw4SJb9-MDU8JINjfdnlcHaVL"/>
+    <Simulcasting from="2018-12-10T11:21:16Z" to="2020-03-27T11:21:16Z" station="pBhpqdvTK6hnbc1vv8rm7Ks9lOd"/>
+    <Simulcasting from="2019-08-02T11:21:16" to="2020-03-04T11:21:16Z" station="kB6V30_7FvOebia1b4"/>
+    <Simulcasting from="2018-11-05T11:21:16Z" to="2019-10-07T11:21:16Z" station="h5Y8J"/>
+    <Simulcasting from="2018-12-02T11:21:16" to="2019-04-27T11:21:16Z" station="FPJCUHhZY-OsPo8oOp5pHaPKy.P"/>
+    <Record title="MwrmWUT" spins="667551138" ISRC="8FU4RVJ8B4K8" year="5547" producer="h" label="y7roPA" recordNo="bLMxpokhnL7j0U"
+         serialNumber="ZBN8Ug2ra-wld7.T_" isPremiere="0" usage="jingle" ISWC="ia" AKA="mP_0oZ" genre="pop"
+         broadcastedFrom="2018-11-04T11:21:16Z" broadcastedTo="2018-08-30T11:21:16Z" runtime="1550431011"
+         origin="commercial" alternativeTitle="sV6" recordedFootage="183876195">
+        <Participants>
+            <Participant name="bA.ZeiTQETNevqaVgsmaoqzWhp_Pb8" role="arranger" IPDN="UG0PIJmkAxxurqfA8glz4K1w" performance="soloist"
+                 grossFee="-478270952.59" modifier="C" IPI="d8IiGMkWURtLP" birthDate="2019-11-08Z"/>
+            <Participant name="k10GJ2qZdamuP4" role="performer" IPDN="YPA60pGfax1T5uGY7qNM.zcU5z7l" performance="chorus master"
+                 grossFee="778501807.04" modifier="A" IPI="YvWxyHoNHX" birthDate="2020-04-10Z"/>
+            <Participant name="H7BHNw3uNuxegujGY" role="performer" IPDN="pCxcWWsj-dQN" performance="main" grossFee="368283273.18"
+                 modifier="B" IPI="WeH3PedaVHBMpPR.7DXuQrV" birthDate="2019-04-23Z"/>
+            <Participant name="UY54Y3" role="music director" IPDN="GB9N88pdugOAY0RzUXNdAefs_L" performance="soloist" grossFee="-875922869.60"
+                 modifier="C" IPI="nB4ZUnTerihDk" birthDate="2018-10-27Z"/>
+            <Participant name="I4JvKf-0vWx9ncqWx1nKBL18" role="performer" IPDN="PipVOtwlehf5.Q1sAczC4x5" performance="chorus master"
+                 grossFee="198381322.24" modifier="A" IPI="cb" birthDate="2019-03-29Z"/>
+            <Participant name="juhjp7" role="scriptwriter" IPDN="iK.e6Rav9J6z4L23zz9N6Ykh" performance="conductor" grossFee="-1412104808.19"
+                 modifier="B" IPI="QVs0YFFIOmKDy" birthDate="2020-03-01"/>
+            <Participant name="eqQXRuR6vfpD9OA" role="subscriptwriter" IPDN="pueH5DOrCs9u" performance="soloist" grossFee="1323437949.26"
+                 modifier="B" IPI="SVimlv4Jbjwaayr" birthDate="2018-10-18"/>
+            <Participant name="Q" role="composer" IPDN="qwGuZGl" performance="soloist" grossFee="171833864.03" modifier="B" IPI="AuNtv"
+                 birthDate="2018-09-24Z"/>
+        </Participants>
+    </Record>
+    <Record title="pxNWgE8JTcHx-GTUnfha" spins="1190237390" ISRC="YXPCYA0HO16N" year="7722" producer="daw7WAB0p-Lf.CI34dtmNPhdPF"
+         label="u7NmVxKUa7NdRKpK2_3VgWpHEJt" recordNo="fbPB3WNtHdCiVwIZcI" serialNumber="EJAILRYQg..NoxONbH"
+         isPremiere="1" usage="jingle" ISWC="herV6" AKA="YlqHeYkc" genre="composed" broadcastedFrom="2019-11-16T11:21:16Z"
+         broadcastedTo="2019-05-30T11:21:16Z" runtime="1190663475" origin="commerce" alternativeTitle="NSad4Y1ym3r"
+         recordedFootage="1863066960">
+        <Participants>
+            <Participant name="V.IC_VSDIS8bM-" role="subscriptwriter" IPDN="NQj70ESJd3iuCv.F8cYngRNg7rQK" performance="supporting"
+                 grossFee="1009975690.61" modifier="A" IPI="vJVPEx9qiRT1lpwRq.0" birthDate="2018-12-23Z"/>
+            <Participant name="YoUTjQvAXH_ibuWwsgQBgGn8" role="performer" IPDN="dFN" performance="conductor" grossFee="266939198.73"
+                 modifier="A" IPI="e04UO4OFnTG2wLLC1b8l-OX" birthDate="2019-12-13"/>
+            <Participant name="S" role="performer" IPDN="r2Oz6rhrc-yZ1gzjj1Q" performance="soloist" grossFee="877268299.24" modifier="B"
+                 IPI="A120RfM9KqxIx67F" birthDate="2020-03-28Z"/>
+            <Participant name="sTWhc" role="performer" IPDN="J8YuRDWFSfvUXJdCxwe7br9h_ET" performance="chorus master" grossFee="-1301989395.40"
+                 modifier="C" IPI="piIShBGyrdnvLflsuTVaO" birthDate="2020-05-10Z"/>
+            <Participant name="QvDHwElCWhveuB" role="subscriptwriter" IPDN="ov6qbVt86_9vWnOMc" performance="supporting" grossFee="-1112000672.21"
+                 modifier="A" IPI="j3Zpm" birthDate="2018-12-18Z"/>
+            <Participant name="Cs5nsAL19C1gK3yXqUIu" role="scriptwriter" IPDN="HKqL9xKtW3RcQUZN3Z_" performance="chorus master"
+                 grossFee="126045773.90" modifier="A" IPI="oAKF.N8KJhMPPRrfVtUCbiRs-9g.Sd" birthDate="2019-04-30Z"/>
+            <Participant name="ZEnMJr_IRpvl.24_LMN" role="scriptwriter" IPDN="u5SK9J" performance="chorus master" grossFee="864207425.17"
+                 modifier="A" IPI="KxNUWK4jt.8jd7MeK7" birthDate="2020-07-01Z"/>
+            <Participant name="XbX4CAFvSZp.L2EZkK2uKn4" role="arranger" IPDN="MmTW3lvRtt42w1xEy" performance="supporting" grossFee="-1268866298.57"
+                 modifier="B" IPI="otoMGVyMxFR" birthDate="2019-05-15"/>
+        </Participants>
+    </Record>
+    <Record title="h0e8hTm8w" spins="2027314984" ISRC="2DEZ0159T38W" year="5135" producer="sQcBXin12AjsB3yvLhF-4aTkE"
+         label="ncAYzb896z86g0WT9NeLHY26-UBR" recordNo="vYXXZ..-g_bgLRO-o4Jw.hOak" serialNumber="hd6a"
+         isPremiere="false" usage="jingle" ISWC="yH0USz7XhBJqANu" AKA="JrKFOY.la09Ss" genre="spoken word"
+         broadcastedFrom="2019-02-24T11:21:16Z" broadcastedTo="2019-11-04T11:21:16Z" runtime="1447447493"
+         origin="self" alternativeTitle="hx" recordedFootage="433810636">
+        <Participants>
+            <Participant name="NQLKA" role="arranger" IPDN="Jd16vmi3zB4Pe" performance="chorus master" grossFee="-2035673227.19"
+                 modifier="A" IPI="QnHuVGMMLIQwh7TaB" birthDate="2019-12-30"/>
+            <Participant name="YwUD0NyyFZlFlBQLqivE" role="subscriptwriter" IPDN="XC5bka" performance="main" grossFee="1827325196.94"
+                 modifier="C" IPI="W3l-FxnhKFZ" birthDate="2018-08-10Z"/>
+            <Participant name="taij.oFzbjktV.Jt" role="performer" IPDN="VP5aRd4" performance="chorus master" grossFee="-299989747.55"
+                 modifier="C" IPI="B" birthDate="2020-02-01"/>
+            <Participant name="hQBoMNJJ88nbf." role="subscriptwriter" IPDN="b4fsnb5idxnRKRPu6" performance="supporting" grossFee="-331044123.66"
+                 modifier="C" IPI="qsb-_8e.6Kht" birthDate="2020-06-10"/>
+            <Participant name="QGqb8gMXnk" role="subscriptwriter" IPDN="qLRXod2YroN." performance="chorus master" grossFee="1416364462.24"
+                 modifier="B" IPI="Z.JvTpivu" birthDate="2020-03-11"/>
+            <Participant name="ZE0PS3qPdJ.BFy" role="performer" IPDN="d" performance="soloist" grossFee="2135029296.41" modifier="B"
+                 IPI="iRlLVDIBztg52I4" birthDate="2020-05-09"/>
+            <Participant name="pHD_CPFP9F4siz" role="music director" IPDN="wI8LuSWCL-TcfCh43PBOlKg" performance="chorus master"
+                 grossFee="-1269045419.44" modifier="C" IPI="jt" birthDate="2019-01-15Z"/>
+            <Participant name="ghaw" role="subscriptwriter" IPDN="bgjFETmouFk_iBNo-gDKmMc" performance="main" grossFee="-1581749167.32"
+                 modifier="A" IPI="npmXYL023BgQrvZgN" birthDate="2018-09-06Z"/>
+        </Participants>
+    </Record>
+    <Record title="WFpoXsfzX3kO" spins="627858795" ISRC="9D87I3649I56" year="4574" producer="eEgGmocYkUvd4bu0ZyiwYWyzo6KG"
+         label="cRqFm4C" recordNo="mU8Tub-7u" serialNumber="TSZBxTfCfGCYZ2A5WapYd" isPremiere="1" usage="commercial"
+         ISWC="nwrj7-5n4NRY-k5aH53aM6" AKA="rL8zPgLOq41" genre="classical" broadcastedFrom="2018-10-26T11:21:16Z"
+         broadcastedTo="2019-03-19T11:21:16" runtime="675745430" origin="live broadcasting" alternativeTitle="bU38fE-xBf2YIfm2jrF-M"
+         recordedFootage="115864149">
+        <Participants>
+            <Participant name="gF8ida4h" role="music director" IPDN="a" performance="conductor" grossFee="1745680608.67" modifier="A"
+                 IPI="TDmX02rm7yKDR34JdU" birthDate="2018-12-02"/>
+            <Participant name="B3rrOQTvRFCdoaqteCISyss6lUWz6g" role="performer" IPDN="G7xx_dUMLM9zcFI" performance="main" grossFee="-1696595717.88"
+                 modifier="B" IPI="tpEtWN0pkTJmE9OdK8O0vsyW" birthDate="2019-06-07"/>
+            <Participant name="gD" role="music director" IPDN="ulZ" performance="main" grossFee="220083717.63" modifier="B" IPI="rxg"
+                 birthDate="2020-04-04Z"/>
+            <Participant name="A4.f" role="subscriptwriter" IPDN="JtJ" performance="conductor" grossFee="1534343927.21" modifier="B"
+                 IPI="A7S0egHg8" birthDate="2019-06-07"/>
+            <Participant name="VkpkGUWJXxW8UG.I6P" role="performer" IPDN="hE2CNlIgAbyipFqe" performance="main" grossFee="135342089.85"
+                 modifier="C" IPI="Vhs" birthDate="2018-08-15Z"/>
+            <Participant name="dehZnIBeDl_MoQXYd8wKu" role="composer" IPDN="hk_w3woQeJ8VCwHuFATXO_XYrhmcM." performance="main"
+                 grossFee="-1469679868.99" modifier="B" IPI="If_Ir.lQsq1_H5kaV1MoHGsd" birthDate="2019-10-15"/>
+            <Participant name="C7lYFqRb" role="music director" IPDN="ECGMvKAyX0XJR4CjyTv67Kzq2oDtx" performance="conductor" grossFee="-38948507.68"
+                 modifier="B" IPI="vhDN-k" birthDate="2019-02-17Z"/>
+            <Participant name="hWy.wzrJKxxtjI48Tj7O9aQV" role="performer" IPDN="RSH4ajDYUY3iX7GTQwmFul7lp_JF" performance="supporting"
+                 grossFee="-356866615.51" modifier="B" IPI="_SJ6kl7R.V7jwbFD3B0K4tb064ZS" birthDate="2018-07-18"/>
+        </Participants>
+    </Record>
+    <Record title="blLo" spins="1810562283" ISRC="IFVY77Z275A2" year="6434" producer="LxwTj28-P10eB" label="Bcc5Inl"
+         recordNo="ENB94yxQWUAwU1w1jikWC9" serialNumber="dDd2vHwINgWmF4Xl7nluask" isPremiere="0" usage="broadcast"
+         ISWC="TwAi" AKA="tb" genre="commercial" broadcastedFrom="2019-01-03T11:21:16Z" broadcastedTo="2019-08-19T11:21:16"
+         runtime="490014727" origin="live stream" alternativeTitle="w9ZMW0QFQHjFd49ubp3a" recordedFootage="966143288">
+        <Participants>
+            <Participant name="OKSyQppWy_8U.wDyPmbSTZK" role="sound engineer" IPDN="jbJorSO4jW5XRG" performance="main" grossFee="-1437022807.12"
+                 modifier="B" IPI="LIQHtiles075BSvdeJWD5Wz" birthDate="2019-08-04Z"/>
+            <Participant name="vtBfh9oYN" role="music director" IPDN="xC" performance="conductor" grossFee="1753411088.11" modifier="A"
+                 IPI="UUEXd5QTQTiB2t6hK77QPgxM8CJY" birthDate="2019-06-19Z"/>
+            <Participant name="LjaH" role="music director" IPDN="zdwvr7FrlLtinA" performance="soloist" grossFee="-1601330914.29"
+                 modifier="B" IPI="e0Z" birthDate="2020-01-11Z"/>
+            <Participant name="ujXUj-esjBfYpEJ" role="music director" IPDN="FD0kQuijSgvlWaO_jyJ-2" performance="soloist" grossFee="-2019660994.64"
+                 modifier="B" IPI="VEBN" birthDate="2020-02-03Z"/>
+            <Participant name="Zhoa45KbsRQgWxWtZgrU-7_hTbgl" role="remixer" IPDN="_BJ" performance="supporting" grossFee="-2129843578.64"
+                 modifier="C" IPI="wJVJZ" birthDate="2019-06-25"/>
+            <Participant name="PjMSXYrzasytjAbwqBITFZfNrPJ" role="producer" IPDN="CCo" performance="conductor" grossFee="-1408919854.80"
+                 modifier="C" IPI="LVJ.Pw" birthDate="2019-07-08Z"/>
+            <Participant name="QtTH4cs1Zbt7npGO6p4" role="scriptwriter" IPDN="wpTwJ00giD4QJ.02e" performance="soloist" grossFee="845607080.27"
+                 modifier="A" IPI="z.XUaY6e" birthDate="2018-12-20"/>
+            <Participant name="IumIL5mRz." role="arranger" IPDN="FPyBWat5gKPOxrbq_" performance="soloist" grossFee="-488601798.58"
+                 modifier="A" IPI="c2DnKKLrv-jF2YL" birthDate="2018-08-18"/>
+        </Participants>
+    </Record>
+    <Record title="kfI3g56GgW" spins="224204124" ISRC="QX21U9LW675V" year="4096" producer="la4pNQU" label="xUSQq"
+         recordNo="x4EnfB67" serialNumber="QfmHjWcLpZfN33BEKCMx" isPremiere="0" usage="commercial" ISWC="PJPRtNUgPX55g"
+         AKA="X" genre="composed" broadcastedFrom="2019-01-05T11:21:16" broadcastedTo="2018-11-18T11:21:16"
+         runtime="1113211519" origin="report" alternativeTitle="UnLac9NTozkOjsOvPb56Pk3X_B3pnJ" recordedFootage="1435568523">
+        <Participants>
+            <Participant name="x" role="producer" IPDN="w8sJR" performance="soloist" grossFee="1102586589.37" modifier="C" IPI="yMNxmns6Drip-sE4Fgr9cyJI"
+                 birthDate="2018-08-21Z"/>
+            <Participant name="iMPOtcLAnDp6s" role="subscriptwriter" IPDN="a_G3L8" performance="main" grossFee="-1743678212.58"
+                 modifier="A" IPI="QStuE0kg0CNrlxV92EqTOT64xERh" birthDate="2019-03-02"/>
+            <Participant name="lRj3obOkqE7zgJztmszM5CZj" role="performer" IPDN="r3W2njGlDFB6vZjrkp" performance="soloist" grossFee="-181110524.18"
+                 modifier="C" IPI="XDNnf" birthDate="2019-04-15"/>
+            <Participant name="FjZCmkZAp2T-pUPKIvx7G" role="composer" IPDN="syb-" performance="main" grossFee="1802581897.43"
+                 modifier="A" IPI="wbM2-ys0LxAltR3_oKIQjGdgmvx08" birthDate="2020-02-02"/>
+            <Participant name="Ar0ZbfRqCTy2" role="producer" IPDN="laOIVPnUm3UWT" performance="conductor" grossFee="1684564764.18"
+                 modifier="C" IPI="wO5tYjMcSX.z-o5F" birthDate="2019-01-08"/>
+            <Participant name="WTxE7o_OG" role="remixer" IPDN="e6oeJNFT82n" performance="conductor" grossFee="-669678444.45"
+                 modifier="B" IPI="lw6wWiqJ" birthDate="2018-11-11Z"/>
+            <Participant name="sLGWtLhPfQvaXeV1T2FgJpv" role="sound engineer" IPDN="x4_" performance="main" grossFee="-966758728.97"
+                 modifier="C" IPI="vAR0nwA0yAj1d8v27P.7CPmL" birthDate="2020-04-10Z"/>
+            <Participant name="luZ_ob-a4xBw4w2OkiFbLw" role="sound engineer" IPDN="hx3tetL_ji72MvNJ9teCI7o2" performance="chorus master"
+                 grossFee="916912151.22" modifier="C" IPI="LM9pBPjWDW1diFDqKIeoq" birthDate="2019-02-13"/>
+        </Participants>
+    </Record>
+    <Record title="PfzKtHnUwK69GUG0.ju" spins="711211404" ISRC="0YG61OS3Z61V" year="5904" producer="Zjs4Tic6Lt0a7G7RAwBKwz"
+         label="qlGkxQtWzH" recordNo="bKrtCISKNceF7DJj0Zskga" serialNumber="hE-DeJe2WbuiM8n4-ZLsXpbS"
+         isPremiere="1" usage="jingle" ISWC="l" AKA="RjIbPDOTFv" genre="spoken word" broadcastedFrom="2020-04-06T11:21:16Z"
+         broadcastedTo="2018-12-03T11:21:16" runtime="2027727967" origin="recorded stream" alternativeTitle="b1hrZFGPfStwkmNwJ1F"
+         recordedFootage="496296298">
+        <Participants>
+            <Participant name="T" role="arranger" IPDN="KF.dtj2" performance="soloist" grossFee="-675171905.06" modifier="B"
+                 IPI="DEAjI8-6rzztZHLQnE5BBbYIVjb-zv" birthDate="2019-08-17Z"/>
+            <Participant name="u3ukibeD-.CfxLmpKaW" role="sound engineer" IPDN="A5cWO7Fw6" performance="main" grossFee="-2010262882.30"
+                 modifier="C" IPI="xapgs9WNFV_.ospizZwbHABunD" birthDate="2020-02-11"/>
+            <Participant name="j6OGy-Cwpe25dNNVtaPu3WUx" role="composer" IPDN="hxmbeUkTTLjjQes." performance="conductor" grossFee="-2142953319.61"
+                 modifier="A" IPI="TCXdHsJjVltjgHzOSZA2B7rf9Qh" birthDate="2018-07-27"/>
+            <Participant name="vUB7w3O5b" role="composer" IPDN="w7wJ3jDkmoXn" performance="supporting" grossFee="-2117677181.43"
+                 modifier="C" IPI="dy5tIPoEUisgAQwh" birthDate="2020-04-08"/>
+            <Participant name="J809oiyw0" role="sound engineer" IPDN="x" performance="conductor" grossFee="-1660125487.34" modifier="A"
+                 IPI="W438gQRpiAzxmn9FGY2FTF" birthDate="2020-05-02"/>
+            <Participant name="SZAqwqQNE9Du.c" role="music director" IPDN="nkJV.WrGPnGnFWf" performance="chorus master" grossFee="1673483389.81"
+                 modifier="B" IPI="uzHMgpPzNTmXM6L8o9ADgFkNu" birthDate="2019-09-15Z"/>
+            <Participant name="mxjcQUszeIxx7" role="sound engineer" IPDN="i7krrN3_H7lDOqez498QqW9" performance="supporting" grossFee="1551268860.90"
+                 modifier="B" IPI="O5pj_Caxr-CkV0_JPEVMXhW6X4Nq5" birthDate="2019-09-14Z"/>
+            <Participant name="Tte2xbC0Vb03MjR" role="remixer" IPDN="tFq184" performance="main" grossFee="1676123874.06" modifier="C"
+                 IPI="saAm90-" birthDate="2019-07-01"/>
+        </Participants>
+    </Record>
+    <Record title="TONyfKEN3V" spins="1995204918" ISRC="265PEM10566W" year="3927" producer="OuwZJeITH9xFTcWY6pfyj6G"
+         label="Mhq.wKlyQc8cDUbU47o" recordNo="_c7qE1jLhsYqrRiwP_jY4mXXMfmcm" serialNumber="Fi9dKBLFIPz"
+         isPremiere="false" usage="broadcast" ISWC="Ey4BBeEK_gSC3O82aoxhQ5t" AKA="BJgt4D05BT2fPfuWr_bm2"
+         genre="pop" broadcastedFrom="2018-07-06T11:21:16" broadcastedTo="2018-10-19T11:21:16" runtime="659636979"
+         origin="report" alternativeTitle="EIoi3Xv1MtQsAFZcCNKtsWax" recordedFootage="1918002967">
+        <Participants>
+            <Participant name="Ms39Y5aLaPKFI4VPGuiefthy" role="producer" IPDN="BJ8q8FAG" performance="soloist" grossFee="642942668.94"
+                 modifier="C" IPI="nUr" birthDate="2019-10-02Z"/>
+            <Participant name="JBJQCv02Lf7tfB_" role="sound engineer" IPDN="a3vlUW5M2rdTHjC" performance="soloist" grossFee="-224661210.80"
+                 modifier="A" IPI="Ncvf3CzmYTbMMchR39GUA" birthDate="2018-09-20Z"/>
+            <Participant name="AVdR6es.a3ikt8PlH" role="performer" IPDN="CThu1KUXfofOT3-x4" performance="soloist" grossFee="134341128.92"
+                 modifier="C" IPI="Cvg7OWoKjtR" birthDate="2019-08-11Z"/>
+            <Participant name="hAG" role="subscriptwriter" IPDN="DG7fIweVPmY" performance="chorus master" grossFee="198215762.85"
+                 modifier="A" IPI="ETBPcUfGTHeXRN4" birthDate="2018-12-09Z"/>
+            <Participant name="dvlLvHEFrJ" role="music director" IPDN="oPK.wFPVTAlIa.qJDHNEYyN" performance="soloist" grossFee="1945251317.06"
+                 modifier="A" IPI="Ov" birthDate="2019-02-21"/>
+            <Participant name="Xiv89KOG.VOqD2VQ.pscViY_-vxj8" role="sound engineer" IPDN="N494Y8U_RjZLm4BMHHZ4U8V1" performance="soloist"
+                 grossFee="1830810701.89" modifier="A" IPI="sjSFw0T17MQfRyqV4E_s3XOoW" birthDate="2019-10-13"/>
+            <Participant name="cKqLlvpFkYGSdb5" role="composer" IPDN="w6lHie" performance="supporting" grossFee="1928456064.74"
+                 modifier="A" IPI="j34HBzSm2jBky-5XHtzVJ0yF" birthDate="2020-06-01"/>
+            <Participant name="abiF9gLb_rJNNxsG6ceKZ" role="performer" IPDN="qR46tI" performance="main" grossFee="-899416545.51"
+                 modifier="B" IPI="mYd6sUYuFbV79N6k" birthDate="2020-03-09Z"/>
+        </Participants>
+    </Record>
+    <Simulcasting from="2019-12-21T11:21:16" to="2019-03-14T11:21:16" station="zH70AGFM3eY"/>
+    <Simulcasting from="2019-08-13T11:21:16Z" to="2019-03-20T11:21:16Z" station="az-pjmlE_mOlYNl3IjAj0ql.Wn7rO"/>
+    <Simulcasting from="2019-01-21T11:21:16" to="2020-07-02T11:21:16" station="C"/>
+    <Simulcasting from="2020-03-12T11:21:16Z" to="2020-02-07T11:21:16" station="t_3xX"/>
+    <Simulcasting from="2018-12-26T11:21:16Z" to="2020-02-16T11:21:16Z" station="ti.-4Ma0yfAsGO_S.tVCzX4t5Q"/>
+    <Simulcasting from="2019-05-26T11:21:16Z" to="2019-02-06T11:21:16Z" station="mNvbBMg"/>
+    <Simulcasting from="2019-05-02T11:21:16Z" to="2018-10-24T11:21:16Z" station="mFqzYMjxg"/>
+    <Simulcasting from="2019-07-09T11:21:16Z" to="2019-04-17T11:21:16Z" station="Cqim2HWGpfo"/>
+</Report>

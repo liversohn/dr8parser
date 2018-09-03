@@ -1,0 +1,106 @@
+2018-09-03-14:57:23 1123 I start: ./data/test-small-err.xml
+2018-09-03-15:05:29 1228 [I] start: ./data/test-small-err.xml
+2018-09-03-15:09:23 1250 [I] start: ./data/test-small-err.xml
+2018-09-03-15:09:43 1317 [I] start: ./data/test-small-err.xml
+2018-09-03-15:10:15 1350 [I] start: ./data/test-small-err.xml
+2018-09-03-15:10:15 1350 [W] level: error line: 9 msg: Element 'Record', attribute 'usage': [facet 'enumeration'] The value 'jingle22' is not an element of the set {'commercial', 'jingle', 'broadcast'}.
+<br>
+2018-09-03-15:10:15 1350 [W] level: error line: 9 msg: Element 'Record', attribute 'usage': 'jingle22' is not a valid value of the atomic type 'RecordUsageType'.
+<br>
+2018-09-03-15:11:21 1391 [I] start: ./data/test-small-err.xml
+2018-09-03-15:11:21 1391 [W] level: error line: 9 msg: Element 'Record', attribute 'usage': [facet 'enumeration'] The value 'jingle22' is not an element of the set {'commercial', 'jingle', 'broadcast'}.
+
+2018-09-03-15:11:21 1391 [W] level: error line: 9 msg: Element 'Record', attribute 'usage': 'jingle22' is not a valid value of the atomic type 'RecordUsageType'.
+
+2018-09-03-15:11:21 1391 [E] process stopped due to errors
+2018-09-03-15:11:59 1421 [I] start: ./data/test-small-err.xml
+2018-09-03-15:11:59 1421 [W] level: error line: 9 msg: Element 'Record', attribute 'usage': [facet 'enumeration'] The value 'jingle22' is not an element of the set {'commercial', 'jingle', 'broadcast'}.
+
+2018-09-03-15:11:59 1421 [W] level: error line: 9 msg: Element 'Record', attribute 'usage': 'jingle22' is not a valid value of the atomic type 'RecordUsageType'.
+
+2018-09-03-15:11:59 1421 [E] process stopped due to errors
+2018-09-03-15:12:30 1446 [I] start: ./data/test-small-err.xml
+2018-09-03-15:12:30 1446 [W] level: error line: 9 msg: Element 'Record', attribute 'usage': [facet 'enumeration'] The value 'jingle22' is not an element of the set {'commercial', 'jingle', 'broadcast'}.
+
+2018-09-03-15:12:30 1446 [W] level: error line: 9 msg: Element 'Record', attribute 'usage': 'jingle22' is not a valid value of the atomic type 'RecordUsageType'.
+
+2018-09-03-15:12:30 1446 [E] process stopped due to errors
+2018-09-03-15:13:39 1468 [I] start: ./data/test-small-err.xml
+2018-09-03-15:13:39 1468 [W] validation problem > level: error line: 9 msg: Element 'Record', attribute 'usage': [facet 'enumeration'] The value 'jingle22' is not an element of the set {'commercial', 'jingle', 'broadcast'}.
+
+2018-09-03-15:13:39 1468 [W] validation problem > level: error line: 9 msg: Element 'Record', attribute 'usage': 'jingle22' is not a valid value of the atomic type 'RecordUsageType'.
+
+2018-09-03-15:13:39 1468 [E] process stopped due to validation errors
+2018-09-03-15:31:27 1902 [I] start: ./data/test-small-err.xml
+2018-09-03-15:31:27 1902 [W] validation problem > level: error line: 9 msg: Element 'Record', attribute 'usage': [facet 'enumeration'] The value 'jingle22' is not an element of the set {'commercial', 'jingle', 'broadcast'}.
+
+2018-09-03-15:31:27 1902 [W] validation problem > level: error line: 9 msg: Element 'Record', attribute 'usage': 'jingle22' is not a valid value of the atomic type 'RecordUsageType'.
+
+2018-09-03-15:31:27 1902 [E] process stopped due to validation errors
+2018-09-03-15:31:32 1905 [I] start: ./data/test-small.xml
+2018-09-03-15:32:04 2765 [I] start: ./data/test-small.xml
+2018-09-03-15:33:31 2783 [I] start: ./data/test-small.xml
+2018-09-03-16:26:31 3302 [I] start: ./data/test-small.xml
+2018-09-03-16:26:31 3302 [E] process stopped due to validation errors
+2018-09-03-16:27:58 3315 [I] start: ./data/test-small.xml
+2018-09-03-16:28:06 3317 [I] start: ./data/test-small-err.xml
+2018-09-03-16:28:19 3319 [I] start: ./data/test-small-err.xml
+2018-09-03-16:28:19 3319 [W] validation problem > level: error line: 9 msg: Element 'Record', attribute 'usage': [facet 'enumeration'] The value 'jingle22' is not an element of the set {'commercial', 'jingle', 'broadcast'}.
+
+2018-09-03-16:28:19 3319 [W] validation problem > level: error line: 9 msg: Element 'Record', attribute 'usage': 'jingle22' is not a valid value of the atomic type 'RecordUsageType'.
+
+2018-09-03-16:28:19 3319 [E] process stopped due to validation errors
+2018-09-03-16:56:14 3595 [I] start: ./data/test-small.xml
+2018-09-03-16:56:14 3595 [I] job finished successfuly
+2018-09-03-16:56:36 3598 [I] start: ./data/test-small.xml
+2018-09-03-16:56:36 3598 [I] job finished successfuly
+2018-09-03-16:59:38 4018 [I] start: ./data/test-small.xml
+2018-09-03-16:59:38 4018 [I] job finished successfuly
+2018-09-03-17:00:27 4048 [I] start: ./data/test-small.xml
+2018-09-03-17:00:27 4048 [I] job finished successfuly
+2018-09-03-17:00:41 4049 [I] start: ./data/test-small.xml
+2018-09-03-17:00:41 4049 [I] job finished successfuly
+2018-09-03-17:01:25 4057 [I] start: ./data/test-small.xml
+2018-09-03-17:02:19 4066 [I] start: ./data/test-small.xml
+2018-09-03-17:02:19 4066 [I] job finished successfuly
+2018-09-03-17:06:49 4081 [I] start: ./data/test-small.xml
+2018-09-03-17:06:49 4081 [I] job finished successfuly
+2018-09-03-17:10:47 4149 [I] start: ./data/test-small.xml
+2018-09-03-17:10:47 4149 [I] job finished successfuly
+2018-09-03-17:12:38 4160 [I] start: ./data/test-small.xml
+2018-09-03-17:12:38 4160 [I] job finished successfuly
+2018-09-03-17:15:12 4176 [I] start: ./data/test-small.xml
+2018-09-03-17:15:12 4176 [I] job finished successfuly
+2018-09-03-17:16:27 4181 [I] start: ./data/test-small.xml
+2018-09-03-17:16:27 4181 [I] job finished successfuly
+2018-09-03-17:25:33 4226 [I] start: ./data/test-small.xml
+2018-09-03-17:28:20 4241 [I] start: ./data/test-small.xml
+2018-09-03-17:28:20 4241 [I] job finished successfuly
+2018-09-03-22:51:54 3907 [I] start: ./data/test-small.xml
+2018-09-03-22:57:03 3972 [I] start: ./data/test-small.xml
+2018-09-03-22:57:43 3974 [I] start: ./data/test-small.xml
+2018-09-03-22:58:07 3976 [I] start: ./data/test-small.xml
+2018-09-03-22:58:41 3980 [I] start: ./data/test-small.xml
+2018-09-03-23:02:32 4030 [I] start: ./data/test-small.xml
+2018-09-03-23:03:08 4033 [I] start: ./data/test-small.xml
+2018-09-03-23:03:46 4040 [I] start: ./data/test-small.xml
+2018-09-03-23:03:46 4040 [I] job finished successfuly
+2018-09-03-23:06:39 4101 [I] start: ./data/test-small.xml
+2018-09-03-23:07:04 4103 [I] start: ./data/test-small.xml
+2018-09-03-23:07:58 4107 [I] start: ./data/test-small.xml
+2018-09-03-23:07:58 4107 [I] job finished successfuly
+2018-09-03-23:20:13 4162 [I] start: ./data/test-small.xml
+2018-09-03-23:21:15 4170 [I] start: ./data/test-small.xml
+2018-09-03-23:22:02 4174 [I] start: ./data/test-small.xml
+2018-09-03-23:26:01 4197 [I] start: ./data/test-small.xml
+2018-09-03-23:26:53 4199 [I] start: ./data/test-small.xml
+2018-09-03-23:26:54 4199 [I] job finished successfuly
+2018-09-03-23:29:19 4205 [I] start: ./data/test-small.xml
+2018-09-03-23:29:20 4205 [I] job finished successfuly
+2018-09-03-23:32:28 4222 [I] start: ./data/test-medium.xml
+2018-09-03-23:32:55 4224 [I] start: ./data/test-medium.xml
+2018-09-03-23:32:57 4224 [I] job finished successfuly
+2018-09-03-23:33:57 4227 [I] start: ./data/test-big.xml
+2018-09-03-23:34:01 4227 [I] job finished successfuly
+2018-09-03-23:39:30 4283 [I] start: ./data/test-small.xml
+2018-09-03-23:39:30 4283 [I] job finished successfuly
